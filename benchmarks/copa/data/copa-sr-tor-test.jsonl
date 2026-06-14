@@ -1,0 +1,500 @@
+{"premise": "Predmet bija umotan u pucketavu foliju.", "choice1": "Bija lomljiv.", "choice2": "Bija malečak.", "question": "cause", "idx": 0}
+{"premise": "Ispraznija sam džepovi.", "choice1": "Našja sam del od ulaznicu.", "choice2": "Našja sam oružje.", "question": "effect", "idx": 1}
+{"premise": "Termiti napali kuću.", "choice1": "Termiti nestanuli iz kuću.", "choice2": "Termiti izeli sve drveno u kuću.", "question": "effect", "idx": 2}
+{"premise": "Putnici došli do granicu.", "choice1": "Carinik gi pregledaja pasoši.", "choice2": "Carinik gi optužija da krijumčariv.", "question": "effect", "idx": 3}
+{"premise": "Kancelarija bila zatvorena.", "choice1": "Bija praznik.", "choice2": "Bilo leto.", "question": "cause", "idx": 4}
+{"premise": "Na devojčicu vu ponestala snaga.", "choice1": "Igrala dame.", "choice2": "Preripala konopac.", "question": "cause", "idx": 5}
+{"premise": "Žena izgubila mesto u red.", "choice1": "Još ljudi stanuli u red.", "choice2": "Iskočila iz red.", "question": "cause", "idx": 6}
+{"premise": "Devojka si stisnula nos.", "choice1": "Bebe izbalavilo portiklu.", "choice2": "Bebe ukakilo pelenku.", "question": "cause", "idx": 7}
+{"premise": "Bend sviraja njin hit.", "choice1": "Publika tapšala uz muziku.", "choice2": "Publika pristojno slušala ćutećim.", "question": "effect", "idx": 8}
+{"premise": "Devojčica tela vu se zafali na njojnu nastavnicu iz matematiku.", "choice1": "Devojčica ostanula posle školu za kaznu.", "choice2": "Devojčica vu donela jabuku na nastavnicu.", "question": "effect", "idx": 9}
+{"premise": "Mladi kamperi se oplašili.", "choice1": "Vođa od njin kamp gi ispričaja priču od duhovi.", "choice2": "Pekli bel slez na logorsku vatru.", "question": "cause", "idx": 10}
+{"premise": "Čovek se udarija u glavu.", "choice1": "Izgubija se u zamišljavanje.", "choice2": "Dobija potres na mozak.", "question": "effect", "idx": 11}
+{"premise": "Ček što sam ga popunija neje imaja pokriće.", "choice1": "Račun u banku mi bija prazan.", "choice2": "Zaradija sam povišicu.", "question": "cause", "idx": 12}
+{"premise": "Na čoveka mu inboks bija pun sas spam.", "choice1": "Izbrisaja spam.", "choice2": "Poslaja ogroman mejl.", "question": "effect", "idx": 13}
+{"premise": "Mornara ga metnuli u karantin.", "choice1": "Bija izložen na boles.", "choice2": "Oporavija se od boles.", "question": "cause", "idx": 14}
+{"premise": "Devojka zapantila šifru.", "choice1": "Ponavljala gu u sebe.", "choice2": "Zabravila da gu zapiše.", "question": "cause", "idx": 15}
+{"premise": "Sipaja sam vodu u čašu.", "choice1": "Voda mi utolila žeđ.", "choice2": "Čaša se napunila.", "question": "effect", "idx": 16}
+{"premise": "Čovek oćutaja kad njigov prijatelj završija sas zborenje.", "choice1": "Teja ga podrži prijatelja.", "choice2": "Razmišljaja od prijateljevo zborenje.", "question": "cause", "idx": 17}
+{"premise": "Ja sam bija kabat za nesreću.", "choice1": "Osićaja sam se kabat.", "choice2": "Podneja sam tužbu.", "question": "effect", "idx": 18}
+{"premise": "Lanac se iskidaja.", "choice1": "Lanac bija umotan oko gumu.", "choice2": "Imaja iskršen belčug na lanac.", "question": "cause", "idx": 19}
+{"premise": "Par odlučija da se usaglasi.", "choice1": "Umorili se od svađanje.", "choice2": "Izbegavali da zboriv od problem.", "question": "cause", "idx": 20}
+{"premise": "Žena odlučila da se kandiduje za javnu funkciju.", "choice1": "Unajmila menadžera za kampanju.", "choice2": "Svedočila na sud.", "question": "effect", "idx": 21}
+{"premise": "Čovek očekivaja ladno vreme na njigovo putovanje.", "choice1": "Spakuvaja topli stvarčiki u kufer.", "choice2": "Putuvaja sas golem kufer.", "question": "effect", "idx": 22}
+{"premise": "Učenik znaja odgovor na pitanje.", "choice1": "Podigja ruku.", "choice2": "Lenčarija.", "question": "effect", "idx": 23}
+{"premise": "Na čoveka mu zasuzili oči.", "choice1": "Pršina mu padnula u oči.", "choice2": "Turija zaštitni naočari preko oči.", "question": "cause", "idx": 24}
+{"premise": "Takmičarka pobedila u pet igre jednu za drugu.", "choice1": "Njojan protivnik gu okabatija da vara.", "choice2": "Na njojnoga protivnika mu dožalelo za njum.", "question": "effect", "idx": 25}
+{"premise": "Učitelj mu icepija ispit na učenika.", "choice1": "Uvatija ga učenika da vara.", "choice2": "Odgovori na učenika ne bili tačni.", "question": "cause", "idx": 26}
+{"premise": "Zastanuja sam da prestanem da zborim.", "choice1": "Izgubija mi se glas.", "choice2": "Ostanuja sam bez dah.", "question": "cause", "idx": 27}
+{"premise": "Zamrznuta rana se odmrznula.", "choice1": "Turija sam gu u mikrotalasnu.", "choice2": "Pokrija sam gu sas plastičnu foliju.", "question": "cause", "idx": 28}
+{"premise": "Radnik se pravija bolan.", "choice1": "Imaja grčevi u stomak.", "choice2": "Teja slobodan dan.", "question": "cause", "idx": 29}
+{"premise": "Devojčica sletela u bazen.", "choice1": "Trčala oko bazen.", "choice2": "Ripnula od skakaonicu.", "question": "cause", "idx": 30}
+{"premise": "Karte za film se rasprodale.", "choice1": "Bila premijera od film.", "choice2": "Film ga lošo ocenili.", "question": "cause", "idx": 31}
+{"premise": "Čovek smršaveja.", "choice1": "Ljudi ga izbegavali.", "choice2": "Ljudi ga pofalili.", "question": "effect", "idx": 32}
+{"premise": "Na devojku vu iskočili plici po ruke.", "choice1": "Otkucala pismo.", "choice2": "Kačuvala se na konopac.", "question": "cause", "idx": 33}
+{"premise": "Cirkuzant žongliraja dok vozija motocikl.", "choice1": "Publika klicala sas oduševljenje.", "choice2": "Akrobata se zanjišaja na trapez.", "question": "effect", "idx": 34}
+{"premise": "Izgubija sam strpljenje.", "choice1": "Prijatelj me nateraja da čekam.", "choice2": "Prijatelj mi stigja na vreme.", "question": "cause", "idx": 35}
+{"premise": "Zaratene zemlje tele mir.", "choice1": "Proizvele nuklearno oružje.", "choice2": "Pregovarale od sporazum.", "question": "effect", "idx": 36}
+{"premise": "Čovek uzeja lek za spanje.", "choice1": "Prispalo mu se.", "choice2": "Uvatila ga groznica.", "question": "effect", "idx": 37}
+{"premise": "Žena naletela na kauč.", "choice1": "Nogara od kauč se olabila.", "choice2": "Nagnječila koleno.", "question": "effect", "idx": 38}
+{"premise": "Dečak stisnaja balon.", "choice1": "Balon pukja.", "choice2": "Balon odleteja.", "question": "effect", "idx": 39}
+{"premise": "Putnici se čekirali u njinu hotelsku sobu.", "choice1": "Raspakovali si kuferi.", "choice2": "Otišli na aerodrom", "question": "effect", "idx": 40}
+{"premise": "Griznaja sam od bresku.", "choice1": "Breska se nagnječila.", "choice2": "Sok se prolija.", "question": "effect", "idx": 41}
+{"premise": "Ruke mi se počele lepiv.", "choice1": "Izeja sam krofnu.", "choice2": "Prijelo mi se slatko.", "question": "cause", "idx": 42}
+{"premise": "Gurnaja sam vrata.", "choice1": "Vrata se otvorili.", "choice2": "Vrata se zaključali.", "question": "effect", "idx": 43}
+{"premise": "Aktivisti bojkotovali proizvodi.", "choice1": "Proizvodi gi testirali da osigurav kvalitet.", "choice2": "Proizvodi gi izrađuvali pomoću dečji ručni rad.", "question": "cause", "idx": 44}
+{"premise": "Izbušija sam rupu u zid.", "choice1": "Miš ispuzaja iz rupu.", "choice2": "Pršina se razletela iz rupu.", "question": "effect", "idx": 45}
+{"premise": "Žena bila ljubomorna na njojnu sestru.", "choice1": "Sestra vu bila srećna.", "choice2": "Sestra vu se razvela.", "question": "cause", "idx": 46}
+{"premise": "Rasipaja sam vino po košulju.", "choice1": "Turija sam kicelju.", "choice2": "Presvukja sam košulju.", "question": "effect", "idx": 47}
+{"premise": "Blagajnik otvorija kasu.", "choice1": "Mušterija si tražila novčanik.", "choice2": "Mušterija mu dala pare.", "question": "cause", "idx": 48}
+{"premise": "Ulični pevač privukja mlogo ljudi kude njega.", "choice1": "Ljudi mu ostavili novčiki.", "choice2": "On oteraja ljudi.", "question": "effect", "idx": 49}
+{"premise": "Malečak detišnjar plakaja na dadilju.", "choice1": "Bilo mu muka za roditelji.", "choice2": "Bilo vreme za užinu.", "question": "cause", "idx": 50}
+{"premise": "Radar na pilota pokazuvaja oluju.", "choice1": "Pilot se usmerija podalje od oluju.", "choice2": "Pilot proleteja krz oluju.", "question": "effect", "idx": 51}
+{"premise": "Od drvo otpadalo lisje.", "choice1": "Na lisje mu se promenila boja.", "choice2": "Lisje se nakupilo na zemlju.", "question": "effect", "idx": 52}
+{"premise": "Na dečaka mu se đavolisuvalo.", "choice1": "Rešija da igra karte sas sestru mu.", "choice2": "Odlučija da tera cirkus sas sestru mu.", "question": "effect", "idx": 53}
+{"premise": "Dete privikalo da mu se ide u ve-ce.", "choice1": "Tatko mu daja gazirano da pine.", "choice2": "Tatko mu stanuja sas kola na benzinsku pumpu.", "question": "effect", "idx": 54}
+{"premise": "Dete nasipalo ranu za ribe po akvarijum.", "choice1": "Riba iskočila iz akvarijum.", "choice2": "Riba plivala nakude ranu.", "question": "effect", "idx": 55}
+{"premise": "Na ženu vu se promenilo političko stanovište.", "choice1": "Prešla u drugu stranku.", "choice2": "Priključila se na protes.", "question": "effect", "idx": 56}
+{"premise": "Umivnik bija začepen.", "choice1": "Odvrnuja sam slavinu.", "choice2": "Sipaja sam srestvo za čišćenje cevke u njega.", "question": "effect", "idx": 57}
+{"premise": "Putnici iskočili iz voz.", "choice1": "Voz stigja u stanicu.", "choice2": "Voz zatrubija.", "question": "cause", "idx": 58}
+{"premise": "Čovek pritisnaja namokren preklop od kofertu.", "choice1": "Turija markicu na kofertu.", "choice2": "Zalepija kofertu.", "question": "effect", "idx": 59}
+{"premise": "Projatelji izgubili kontakt.", "choice1": "Uživali da se druživ.", "choice2": "Iselili se u različiti gradovi.", "question": "cause", "idx": 60}
+{"premise": "Računovođa ne raspolagala dobro sas srestva od firmu.", "choice1": "Najurili gu od rabotu.", "choice2": "Otišla na porodiljsko.", "question": "effect", "idx": 61}
+{"premise": "Pogledaja sam na sat.", "choice1": "Čuja sam kako sat kuca.", "choice2": "Teja sam da vidim kolko su sati.", "question": "cause", "idx": 62}
+{"premise": "Ruka mi se zgrčila.", "choice1": "Napisaja sam temu naruke.", "choice2": "Držali smo se sas ženu za ruke.", "question": "cause", "idx": 63}
+{"premise": "Vijak se stegnuja.", "choice1": "Zamenija sam gа vijak.", "choice2": "Obrnuja sam ključ.", "question": "cause", "idx": 64}
+{"premise": "Par potpisaja zakup za nov stan.", "choice1": "Par se uselija u stan.", "choice2": "Grad ga zapečatija stan.", "question": "effect", "idx": 65}
+{"premise": "Žena sedela napolje na trem.", "choice1": "Tela gleda zalazak od slunce.", "choice2": "Mislela da je videla munju.", "question": "cause", "idx": 66}
+{"premise": "Čovek nosija prsluk za spasuvanje u vodu.", "choice1": "Ne umejaja pliva.", "choice2": "Voda bila plitka.", "question": "cause", "idx": 67}
+{"premise": "Žena pogrešila u kucanje u program za obradu tekst.", "choice1": "Izbrisala dokumenat.", "choice2": "Stisnala dugme za nazad.", "question": "effect", "idx": 68}
+{"premise": "Devojčica se falila na njojni drugari.", "choice1": "Dobila lošu ocenu.", "choice2": "Pobedila na takmičenje.", "question": "cause", "idx": 69}
+{"premise": "Travnjak bija blatnjav.", "choice1": "Kiša lila cel noć.", "choice2": "Bija pun sas korov.", "question": "cause", "idx": 70}
+{"premise": "Žena se uspala.", "choice1": "Provela noć u hotel.", "choice2": "Zabravila da si navije sat.", "question": "cause", "idx": 71}
+{"premise": "Čovek namazaja kremu za sunčanje.", "choice1": "Sedeja u lad.", "choice2": "Otišja na plažu.", "question": "cause", "idx": 72}
+{"premise": "Istraživači dokazali teoriju.", "choice1": "Istraživači gu povukli teoriju.", "choice2": "Pojedini gu privatili teoriju.", "question": "effect", "idx": 73}
+{"premise": "Navijači zviždali na utakmicu.", "choice1": "Morali se igrav produžeci.", "choice2": "Sudija lošo presudija.", "question": "cause", "idx": 74}
+{"premise": "Ukucaja sam moju kombinaciju na bravu.", "choice1": "Zaključaja sam bravu.", "choice2": "Brava se otvorila.", "question": "effect", "idx": 75}
+{"premise": "Vrčkolj se povećaja.", "choice1": "Tatko daja na sina mu nike pare.", "choice2": "Tatko ga zgrabija sina za ruku.", "question": "effect", "idx": 76}
+{"premise": "Sneg blokiraja prilaz.", "choice1": "Napravija sam grudvu od sneg.", "choice2": "S lopatu sam očistija sneg od put.", "question": "effect", "idx": 77}
+{"premise": "Kajakaši veslali vesla.", "choice1": "Kajak stigja do obalu.", "choice2": "Kajak udarija u talas.", "question": "effect", "idx": 78}
+{"premise": "Devojčica izgubila kontrolu od biciklu.", "choice1": "Puštila volan.", "choice2": "Zabila se u ogradu.", "question": "effect", "idx": 79}
+{"premise": "Uključija sam ventilator.", "choice1": "Voda me isprskala po kožu.", "choice2": "Osetija sam kako ladan vazduk prolazi krz mene.", "question": "effect", "idx": 80}
+{"premise": "Surferi se vrnuli na plažu.", "choice1": "Bili izmokreni.", "choice2": "Videli ajkulu.", "question": "cause", "idx": 81}
+{"premise": "Izvukja sam čep od kadu.", "choice1": "Voda iscurela iz kadu.", "choice2": "Voda isprskala patos.", "question": "effect", "idx": 82}
+{"premise": "Muž se osećaja kabat što vara ženu.", "choice1": "Kabatija gu da je neverna.", "choice2": "Priznaja vu neversto.", "question": "effect", "idx": 83}
+{"premise": "Mastilo na poster se razmazalo.", "choice1": "Čekaja sam da se mastilo osuši.", "choice2": "Prosipnuja sam vodu na poster.", "question": "cause", "idx": 84}
+{"premise": "Dete se probudilo vrištećkim.", "choice1": "Imalo noćnu moru.", "choice2": "Izmokrilo krevet.", "question": "cause", "idx": 85}
+{"premise": "Dečak digja noge na astal.", "choice1": "Тatko mu sednaja za astal.", "choice2": "Tatka mu očitaja lekciju.", "question": "effect", "idx": 86}
+{"premise": "Moj prijatelj obrnuja glavu nakude mene.", "choice1": "Poviknaja sam ga po ime.", "choice2": "Mahaja sam s ruke.", "question": "cause", "idx": 87}
+{"premise": "Vlas matretirala građani.", "choice1": "Građani se pobunili.", "choice2": "Građani se prijavili da glasav.", "question": "effect", "idx": 88}
+{"premise": "Dečak se zagubija u šumu.", "choice1": "Postavija šator.", "choice2": "Vikaja upomoć.", "question": "effect", "idx": 89}
+{"premise": "Žena putuvala u inostransto.", "choice1": "Tela nauči da crta.", "choice2": "Tela nauči od druge kulture.", "question": "cause", "idx": 90}
+{"premise": "Čovek bija ljubomoran na kolegu.", "choice1": "Njigovoga kolegu ga unapredili.", "choice2": "Njigov kolega radija do kasno.", "question": "cause", "idx": 91}
+{"premise": "Čovek videja vanzemaljci.", "choice1": "Haluciniraja.", "choice2": "Meditiraja.", "question": "cause", "idx": 92}
+{"premise": "Na čoveka mu poplavela kosa.", "choice1": "Turija izbeljivač na njum.", "choice2": "Turija šampon na njum.", "question": "cause", "idx": 93}
+{"premise": "Umetnica stvorila novo delo.", "choice1": "Kritikuvala njojno pređašnjo delo.", "choice2": "Dobila nalet od inspiraciju.", "question": "cause", "idx": 94}
+{"premise": "Sin se odselija od kuću.", "choice1": "Puštili ga iz vojsku.", "choice2": "Pošja na fakultet.", "question": "cause", "idx": 95}
+{"premise": "Knjige ispadnule od policu.", "choice1": "Police bile pune sas pršinu.", "choice2": "Zemljotres zatresja policu.", "question": "cause", "idx": 96}
+{"premise": "Nestanula mi struja u kuću.", "choice1": "Uključija sam svetlo.", "choice2": "Resetuvaja sam osigurač.", "question": "effect", "idx": 97}
+{"premise": "Vozili smo se s rolerkoster.", "choice1": "Izgledalo strašno.", "choice2": "Izgledalo zabavno.", "question": "cause", "idx": 98}
+{"premise": "Pucke počele se puckav u kesu.", "choice1": "Sipaja sam puter u kesu.", "choice2": "Zagrejaja sam gi u mikrotalasnu.", "question": "cause", "idx": 99}
+{"premise": "Drvo padnulo na dalekovod.", "choice1": "Nestanula struja u kraj.", "choice2": "Vremenska prognoza pretskazala jak vetar.", "question": "effect", "idx": 100}
+{"premise": "Govornik imaja politički nekorektni komentari.", "choice1": "Dosadija na publiku.", "choice2": "Uvredija publiku.", "question": "effect", "idx": 101}
+{"premise": "Uboja sam se na iglu.", "choice1": "Graška znoj mi se slila od lice.", "choice2": "Na prs mi se napravila kapka krv.", "question": "effect", "idx": 102}
+{"premise": "Riba plutala po površinu od akvarijum.", "choice1": "Bila gladna.", "choice2": "Bila mrtva.", "question": "cause", "idx": 103}
+{"premise": "Na čoveka mu promukja glas.", "choice1": "Bija prelađen.", "choice2": "Prestaja da puši.", "question": "cause", "idx": 104}
+{"premise": "Otvorili se vrata na lift.", "choice1": "Lift stigja na označen sprat.", "choice2": "Lift se zaglavija između spratovi.", "question": "cause", "idx": 105}
+{"premise": "Tinejdžer se iskraja iz kuću.", "choice1": "Lagaja roditelji.", "choice2": "Roditelji mu zakraćuvali da iskača.", "question": "cause", "idx": 106}
+{"premise": "Kupatilo se poplavilo.", "choice1": "Ve-ce šolja se izlila.", "choice2": "Bojler crkja.", "question": "cause", "idx": 107}
+{"premise": "Kutre ostanjuvalo blizo do gazdu.", "choice1": "Gazda turija ogrlicu na kutre.", "choice2": "Gazda držaja kutre na lanac.", "question": "cause", "idx": 108}
+{"premise": "Čovek videja njigovu senku.", "choice1": "Stojaja ispod razgranato drvo.", "choice2": "Stojaja poviše mirno jezero.", "question": "cause", "idx": 109}
+{"premise": "Propuštija sam poziv od moju devojku.", "choice1": "Uzvratija sam vu poziv.", "choice2": "Našli smo se na večeru.", "question": "effect", "idx": 110}
+{"premise": "Porodica pretražuvala po naselje.", "choice1": "Kuče gi pobeglo od kuću.", "choice2": "Nestanuja gi skupocen nakit.", "question": "cause", "idx": 111}
+{"premise": "Videja sam si dah kad sam izdanuja.", "choice1": "Bilo ladno vreme.", "choice2": "Stezalo me u grudi.", "question": "cause", "idx": 112}
+{"premise": "Radnici oformili sindikat.", "choice1": "Teli bolji uslovi za rad.", "choice2": "Gazda gi povećaja plate.", "question": "cause", "idx": 113}
+{"premise": "Ispekja sam banicu sas jabuke.", "choice1": "Trul smrdež se proširija krz kujnu.", "choice2": "Toplačak miris ispunija kujnu.", "question": "effect", "idx": 114}
+{"premise": "Žena se mučila da odi.", "choice1": "Nosila visoke potpetice.", "choice2": "Izula si cipele.", "question": "cause", "idx": 115}
+{"premise": "Para isparavala iz lonac sas vodu.", "choice1": "Voda vrela.", "choice2": "Poklopija sam lonac.", "question": "cause", "idx": 116}
+{"premise": "Sve čarape mi bile na pranje.", "choice1": "Obuja sam samdale.", "choice2": "Obuja sam čižme.", "question": "effect", "idx": 117}
+{"premise": "Na političara mu argumenat ocenili ko apsurdan.", "choice1": "Izgubija podršku od glasači.", "choice2": "Okabaten za korpupciju.", "question": "effect", "idx": 118}
+{"premise": "Nikoj ne podržavaja verdibu od taj par.", "choice1": "Par čekaja bebu.", "choice2": "Par pobegja.", "question": "effect", "idx": 119}
+{"premise": "Zgradu gu posvetili na milionera.", "choice1": "Milioner teja gu ruši zgradu.", "choice2": "Milioner doniraja srestva da gu izgradiv.", "question": "cause", "idx": 120}
+{"premise": "Prodavac gu okabatija devojku za krađu.", "choice1": "Prodavac gu videja devojku kako tura robu u tašnu.", "choice2": "Prodavac vu pomogja na devojku da nađe tašnu što vu se sviđala.", "question": "cause", "idx": 121}
+{"premise": "Država objavila rat na susednu teritoriju.", "choice1": "Vojnici gi poslali u borbu.", "choice2": "Vojnici se spojili s njine porodice.", "question": "effect", "idx": 122}
+{"premise": "Sud potvrdija spornu odluku.", "choice1": "Nastanula pobuna ispred zgradu od sud.", "choice2": "Par se venčavaja ispred zgradu od sud.", "question": "effect", "idx": 123}
+{"premise": "Devojka namerisala da nešto gori.", "choice1": "Izvadila kolači iz teglu.", "choice2": "Zabravila kolači u rernu.", "question": "cause", "idx": 124}
+{"premise": "Pljuštala kiša.", "choice1": "Nevreme se pogoršalo.", "choice2": "Požurija sam da uđem unutra.", "question": "effect", "idx": 125}
+{"premise": "Zgradu gu evakuisali.", "choice1": "Lift prestaja da radi.", "choice2": "Uključija se alarm protiv požar.", "question": "cause", "idx": 126}
+{"premise": "Na tatka mu smićaja alkoholizam od sina mu.", "choice1": "Tatko kupija pivo na sina mu.", "choice2": "Tatko isfrljija sina mu iz kuću.", "question": "effect", "idx": 127}
+{"premise": "Advokatica se ukačila uz basamaci do njojnu kancelariju.", "choice1": "Sekretar otišja dom na jedan dan.", "choice2": "Lift ne radija.", "question": "cause", "idx": 128}
+{"premise": "Čoveka ga iznerviraja prijatelj.", "choice1": "Prijatelj ga prekinuja.", "choice2": "Prijatelj ga častija sas ručak.", "question": "cause", "idx": 129}
+{"premise": "Devojka mu dala pare na radnika na kasu.", "choice1": "Radnik na kasu vu pružija kusur na devojku.", "choice2": "Radnik na kasu zabravija da vu dade račun na devojku.", "question": "effect", "idx": 130}
+{"premise": "Žena ostanula u innvalidski kolica.", "choice1": "Ostanula paralizovana u nesreću.", "choice2": "Ušla u bolnicu na nosila.", "question": "cause", "idx": 131}
+{"premise": "Građani zakačili nacionalne zastave ispred njine kuće.", "choice1": "Država slavila nezavisnos.", "choice2": "U državu bila ekonomska kriza.", "question": "cause", "idx": 132}
+{"premise": "Ekipa izgubila turnir.", "choice1": "Razočarali njini navijači.", "choice2": "Oduševili njini navijači.", "question": "effect", "idx": 133}
+{"premise": "Prijatelj mi pokazaja da mi krana ostanula među zubi.", "choice1": "Posramija sam se.", "choice2": "Bija sam ponosan.", "question": "effect", "idx": 134}
+{"premise": "Dečak paja ispit iz istoriju.", "choice1": "Pazija na čas.", "choice2": "Zabravija da uči.", "question": "cause", "idx": 135}
+{"premise": "Srušila se zgrada u centar grad.", "choice1": "Zemljotres ga pogodija grad.", "choice2": "Porasla stopa na kriminal u grad.", "question": "cause", "idx": 136}
+{"premise": "Devojka raskinula sas momka.", "choice1": "Molija gu da mu se vrne pa.", "choice2": "Upoznala ga s njojni roditelji.", "question": "effect", "idx": 137}
+{"premise": "Dve deca se u isto vreme sagnali da dovativ loptu.", "choice1": "Lopta se otrkaljala.", "choice2": "Glave gi se sudarile.", "question": "effect", "idx": 138}
+{"premise": "Rakun ispreturaja kantu za đubre.", "choice1": "U kantu za đubre bija karton.", "choice2": "Na kantu za đubre vu bija skinut poklopac.", "question": "cause", "idx": 139}
+{"premise": "Dečak zaoštrija olovku.", "choice1": "Bila jeftina.", "choice2": "Bila tupa.", "question": "cause", "idx": 140}
+{"premise": "Radnik na kasu ne teja vu vrne na ženu pare za aljinu.", "choice1": "Zagubila račun.", "choice2": "Aljina ne vu dobro pasala.", "question": "cause", "idx": 141}
+{"premise": "Ogrebotina na moju kožu bila duboka.", "choice1": "Brzo zarasla.", "choice2": "Ostanuja mi ožiljak.", "question": "effect", "idx": 142}
+{"premise": "Čoveka ga čudno gledali putnici u voz.", "choice1": "Zurija u pod.", "choice2": "Pričaja sam sas sebe samog.", "question": "cause", "idx": 143}
+{"premise": "Dete ostavilo mrvke na patos.", "choice1": "Brabonjci gi pokupili mrvke.", "choice2": "Dete sklonilo leb.", "question": "effect", "idx": 144}
+{"premise": "Žena dodala maramicu na sestru vu.", "choice1": "Sestra od tuj ženu si prekrstila ruke.", "choice2": "Sestra od tuj ženu počela plače.", "question": "cause", "idx": 145}
+{"premise": "Čovek uzeja mentol bonbonu.", "choice1": "Usne mu bile ispucale.", "choice2": "Plašija se dal mu smrdi iz usta.", "question": "cause", "idx": 146}
+{"premise": "Par rano pošja na prestavu.", "choice1": "Očekuvali gužvu u saobraćaj oko pozorište.", "choice2": "Dobili instrukcije od pozorište.", "question": "cause", "idx": 147}
+{"premise": "Žena ne otišla na rabotu.", "choice1": "Šef gu pofalija.", "choice2": "Kolega gu menjaja.", "question": "effect", "idx": 148}
+{"premise": "Čovek potpisaja peticiju na aktivisti.", "choice1": "Podržaja njin cilj.", "choice2": "Osudija gi da su ludi.", "question": "cause", "idx": 149}
+{"premise": "Na glumca mu lupalo srce pred nastup.", "choice1": "Imaja tremu.", "choice2": "Zapantija si tekst.", "question": "cause", "idx": 150}
+{"premise": "Izgubija sam se.", "choice1": "Izbrojija sam pare.", "choice2": "Otvorija sam mapu.", "question": "effect", "idx": 151}
+{"premise": "Zrelo voće ostanjuvalo na slunce.", "choice1": "Izeli ga.", "choice2": "Smežuralo se.", "question": "effect", "idx": 152}
+{"premise": "Kola se pokvarili.", "choice1": "Daja sam kontakt.", "choice2": "Motor se pregrejaja.", "question": "cause", "idx": 153}
+{"premise": "Čovek se ubija na grbinu.", "choice1": "Otišja kude psihijatra.", "choice2": "Ostanuja u krevet nikolko dana.", "question": "effect", "idx": 154}
+{"premise": "Podložija sam vatru u kamin.", "choice1": "Nestanuli mi drva za loženje.", "choice2": "Bilo ladno u kuću.", "question": "cause", "idx": 155}
+{"premise": "Žena zastanula sas trčanje.", "choice1": "Uvatija gu grč u kuk.", "choice2": "Povrnula vu se snaga.", "question": "cause", "idx": 156}
+{"premise": "Pokucaja sam na vrata od komšiju.", "choice1": "Komšija me viknuja unutra.", "choice2": "Komšija otišja iz kuću.", "question": "effect", "idx": 157}
+{"premise": "Žena frustrirano uzdanula.", "choice1": "Muž vu ne razbiraja njojnu brigu.", "choice2": "Muž gu poljubija za rastanak.", "question": "cause", "idx": 158}
+{"premise": "Nastavnik ga pofalija đaka.", "choice1": "Đak tačno odgovorija na pitanje.", "choice2": "Đak iskanjuvaja da odgovori na pitanje.", "question": "cause", "idx": 159}
+{"premise": "Na ženu vu nestanuli jajca.", "choice1": "Otišla na farmu.", "choice2": "Otišla u prodavnicu.", "question": "effect", "idx": 160}
+{"premise": "Sreja sam staroga prijatelja.", "choice1": "Otkrija sam mu tajnu.", "choice2": "Zgrnuja sam ga.", "question": "effect", "idx": 161}
+{"premise": "Žena ne tela ide na jezero.", "choice1": "Ufatila ribu.", "choice2": "Izgledalo zagađeno.", "question": "cause", "idx": 162}
+{"premise": "Učenik došja na čas ogolj mokar.", "choice1": "Pokvarija mu se kišobran.", "choice2": "Ukrali mu biciklu.", "question": "cause", "idx": 163}
+{"premise": "Kursor na ekran od kompjuter se pomerija.", "choice1": "Korisnik kliknuja na miša.", "choice2": "Korisnik pomerija miša.", "question": "cause", "idx": 164}
+{"premise": "Vozač pošja preko zaobilaznicu.", "choice1": "Nesreća bila na glavni put.", "choice2": "Pratija kamijon ispred njega.", "question": "cause", "idx": 165}
+{"premise": "Оkačija sam mokru posteljinu na spoljnu žicu.", "choice1": "Posteljina se osušila.", "choice2": "Posteljina se isflekala.", "question": "effect", "idx": 166}
+{"premise": "Žena turila naočari za slunce.", "choice1": "Slunce bilo jako.", "choice2": "Viknula taksi.", "question": "cause", "idx": 167}
+{"premise": "Čovek se zagledaja u noćno nebo.", "choice1": "Teja da je leto.", "choice2": "Mislija da je lepo.", "question": "cause", "idx": 168}
+{"premise": "Osetija sam se špirtosan.", "choice1": "Otišja sam porano na spanje.", "choice2": "Ostanuja sam budan cel noć.", "question": "effect", "idx": 169}
+{"premise": "Čovek otišja kude frizera.", "choice1": "Puštaja kosu.", "choice2": "Kosa mu porasnula.", "question": "cause", "idx": 170}
+{"premise": "Dečak pravija dzvrčke na njigovoga novoga drugara iz razred.", "choice1": "Dečak lepo dočekaja novoga drugara iz razred.", "choice2": "Na dečaka mu se neje sviđaja novi drugar iz razred.", "question": "cause", "idx": 171}
+{"premise": "Pritejala mi se čaša mleko.", "choice1": "Jeja sam kolači.", "choice2": "Pekja sam leb.", "question": "cause", "idx": 172}
+{"premise": "Počelo vrne.", "choice1": "Vozač uključija farovi.", "choice2": "Vozač obrnuja kola u rikverc.", "question": "effect", "idx": 173}
+{"premise": "Parking od zgradu bija prazan.", "choice1": "Parkiraja sam preko put.", "choice2": "Parkiraja sam blizo do ulaz.", "question": "effect", "idx": 174}
+{"premise": "Pisac propuštija rok za slanje prvu verziju.", "choice1": "Imaja stvaralačku krizu.", "choice2": "Uređuvaja gu prvu verziju.", "question": "cause", "idx": 175}
+{"premise": "Pomoćnik mi spuštija slušalicu.", "choice1": "Tražija sam da zborim sas starešinu.", "choice2": "Ostavija sam moj identifikaciski broj.", "question": "cause", "idx": 176}
+{"premise": "Vetar duvaja krz otvoren prozor.", "choice1": "Zazvonilo zvono na vrata.", "choice2": "Zavese laćkale.", "question": "effect", "idx": 177}
+{"premise": "Nestanula mi struja u kuću.", "choice1": "Isključija sam lampu.", "choice2": "Pregoreja mi osigurač.", "question": "cause", "idx": 178}
+{"premise": "Dizač od tegovi zastenjaja.", "choice1": "Pokazuvaja si mišići u ogledalo.", "choice2": "Podigja teg poviše glavu.", "question": "cause", "idx": 179}
+{"premise": "Učenik probaja izračuna ništo napamet.", "choice1": "Izvadija digitron.", "choice2": "Zabunija se.", "question": "effect", "idx": 180}
+{"premise": "Bebe se uspalo.", "choice1": "Tatko mu presvukja pelenu na bebe.", "choice2": "Tatko ga polačke ljuljaja bebe.", "question": "cause", "idx": 181}
+{"premise": "Devojčica frljila voden balon nakude dečaka.", "choice1": "Dečak dobija potres na mozak.", "choice2": "Dečak se pokvasija.", "question": "effect", "idx": 182}
+{"premise": "Slikar zabravija da upali blic na kameru.", "choice1": "Slike ispadnule mutne.", "choice2": "Na slike se nikoj ne teja nasmeši.", "question": "effect", "idx": 183}
+{"premise": "Odbija sam poziv za rođendan.", "choice1": "Bija sam usamljen.", "choice2": "Nesam bija u grad.", "question": "cause", "idx": 184}
+{"premise": "Vežbaja sam.", "choice1": "Osićaja sam se pun s energiju.", "choice2": "Bija sam uplašen.", "question": "cause", "idx": 185}
+{"premise": "Stisnaja sam mokar sunđer.", "choice1": "Upija vodu.", "choice2": "Iscurela voda iz njega.", "question": "effect", "idx": 186}
+{"premise": "Turisti otišli s trajek u odmaralište.", "choice1": "Odmaralište bilo zauzeto.", "choice2": "Odmaralište bilo na ostrvo.", "question": "cause", "idx": 187}
+{"premise": "Tinejdžerka se istetovirala.", "choice1": "Plašila se od iglu.", "choice2": "Tela bude buntovnica.", "question": "cause", "idx": 188}
+{"premise": "Nepoznati kola se parkirali pred moju kuću.", "choice1": "Postaja sam sumnjičav.", "choice2": "Viknuja sam miliciju.", "question": "effect", "idx": 189}
+{"premise": "Kriminalac se predaja.", "choice1": "Dokazi ukazuvali na njega.", "choice2": "Ne imalo dokazi protiv njega.", "question": "cause", "idx": 190}
+{"premise": "Krupan čovek rešija da smršavi.", "choice1": "Isfrljija slatkiši.", "choice2": "Izbegavaja kofein.", "question": "effect", "idx": 191}
+{"premise": "Devojčica koraknula na led.", "choice1": "Ljiznula se.", "choice2": "Zadrhtala.", "question": "effect", "idx": 192}
+{"premise": "Žena imala podočnjaci.", "choice1": "Ostanula budna cel noć.", "choice2": "Smestila sina vu u krevet.", "question": "cause", "idx": 193}
+{"premise": "Lava ističala iz vulkan.", "choice1": "Vulkan eruptiraja.", "choice2": "Vulkan ne bija aktivan.", "question": "cause", "idx": 194}
+{"premise": "Žena obula cipele.", "choice1": "Svi gi poznavala na zabavu.", "choice2": "Tela otidne od zabavu.", "question": "cause", "idx": 195}
+{"premise": "Platija sam na radnika od naplatnu rampu.", "choice1": "Puštija me da prođem krz naplatnu rampu.", "choice2": "Zadržaja me na naplatnu rampu.", "question": "effect", "idx": 196}
+{"premise": "Izvršni direktor bankrotiraja.", "choice1": "Prodaja deonice od njigovu firmu.", "choice2": "Proćerdaja bogаtlak.", "question": "cause", "idx": 197}
+{"premise": "Čovek otišja kude doktura.", "choice1": "Doktur bija na odmor.", "choice2": "Čovek se osetija bolan.", "question": "cause", "idx": 198}
+{"premise": "Iskočija sam iz spavaću sobu krz prozor.", "choice1": "Kuća gorela.", "choice2": "Kuća bila prazna.", "question": "cause", "idx": 199}
+{"premise": "Na dečaka mu se smežurali prsti.", "choice1": "Dugo se tuširaja.", "choice2": "Nasapunjaja ruke sas sapun.", "question": "cause", "idx": 200}
+{"premise": "Ispljunaja sam mleko.", "choice1": "Mleko prodzuknulo.", "choice2": "Usta mi bili suvi.", "question": "cause", "idx": 201}
+{"premise": "Pobegja mi autobus.", "choice1": "Stigja sam rano na rabotu.", "choice2": "Odocnija sam na rabotu.", "question": "effect", "idx": 202}
+{"premise": "Kamiјon se sudarija sas kola.", "choice1": "Kamiјon ubrzaja.", "choice2": "Kola se smrskali.", "question": "effect", "idx": 203}
+{"premise": "Tim namestija takmičenje u njinu koris.", "choice1": "Pobedili.", "choice2": "Odustali.", "question": "effect", "idx": 204}
+{"premise": "Flaša od gaziran sok zašištala.", "choice1": "Prevrnuja sam flašu.", "choice2": "Odvrnuja sam čep.", "question": "cause", "idx": 205}
+{"premise": "Dečaka ga zaključali van njegovu kuću.", "choice1": "Ušunjaja se unutra krz otvoren prozor.", "choice2": "Kačija se na krov.", "question": "effect", "idx": 206}
+{"premise": "Zazvonilo zvono na vrata.", "choice1": "Gos pokucaja na vrata.", "choice2": "Žena nadzrnala krz ključaonicu na vrata.", "question": "effect", "idx": 207}
+{"premise": "Čovek si umrljavija odelo.", "choice1": "Odneja ga na kemisko čišćenje.", "choice2": "Okačija ga u orman.", "question": "effect", "idx": 208}
+{"premise": "Devojčica stisnula tubu od pastu za zubi.", "choice1": "Pasta za zubi izletela iz tubu.", "choice2": "Devojčica ispljunula pastu za zubi.", "question": "effect", "idx": 209}
+{"premise": "Rasja broj od civilne žrtve u rat.", "choice1": "Pacifisti organizuvali protes.", "choice2": "Pacifisti održali paradu.", "question": "effect", "idx": 210}
+{"premise": "Devojka iščupala traku iz kosu.", "choice1": "Vrzala traku.", "choice2": "Traka izgledala detišnjarski.", "question": "cause", "idx": 211}
+{"premise": "Čovek se podvrgnuja na plastičnu aperaciju.", "choice1": "Ostareja.", "choice2": "Izgledaja pomlad.", "question": "effect", "idx": 212}
+{"premise": "Pilence se ispililo iz jajce.", "choice1": "Jajce se izleglo.", "choice2": "Iskršija sam ga jajce.", "question": "cause", "idx": 213}
+{"premise": "Zatvorenik gladuvaja.", "choice1": "Umreja.", "choice2": "Pobegja.", "question": "effect", "idx": 214}
+{"premise": "Čovek izgubija ravnotežu na slubu.", "choice1": "Kačija se na slubu.", "choice2": "Padnuja od slubu.", "question": "effect", "idx": 215}
+{"premise": "Dete uzdrgnulo.", "choice1": "Pinulo glić od gaziran sok.", "choice2": "Otvorilo limenku sas gaziran sok.", "question": "cause", "idx": 216}
+{"premise": "Ladna promaja nadošla krz prozor.", "choice1": "Opuštija sam se.", "choice2": "Ustresja sam se.", "question": "effect", "idx": 217}
+{"premise": "Učenica dobila stipendiju za na fakultet.", "choice1": "Drugari iz razred gu poštuvali.", "choice2": "Imala dobre ocene.", "question": "cause", "idx": 218}
+{"premise": "Devojčica se cirkusuvala sas dečaka.", "choice1": "Živela tik pored njega.", "choice2": "Bija vu simpatija.", "question": "cause", "idx": 219}
+{"premise": "Gladan beskućnik ukraja kranu.", "choice1": "Izazivaja sažaljenje.", "choice2": "Neje imaja pare.", "question": "cause", "idx": 220}
+{"premise": "Viknuja sam prijatelja da pozborimo.", "choice1": "Teja sam se osamim.", "choice2": "Osetija sam se usamljen.", "question": "cause", "idx": 221}
+{"premise": "Čovek mi pružija ruku.", "choice1": "Rukuvaja sam se sas njega.", "choice2": "Opalija sam mu šamar.", "question": "effect", "idx": 222}
+{"premise": "Sagnuja sam se.", "choice1": "Vatromet ga ispalili u vazduk.", "choice2": "Frizbi leteja nakude moju glavu.", "question": "cause", "idx": 223}
+{"premise": "Devojčica si apala nokti.", "choice1": "Morila gu briga.", "choice2": "Iznenadila se.", "question": "cause", "idx": 224}
+{"premise": "Obrnuja sam lis na kalendar.", "choice1": "Pribeležija sam sastanak na kalendar.", "choice2": "Počinjaja sledeći mesec.", "question": "cause", "idx": 225}
+{"premise": "Muž saznaja da ga žena vara.", "choice1": "Otpuštila advokata.", "choice2": "Tražija razvod.", "question": "effect", "idx": 226}
+{"premise": "Na devojčicu vu ispala lopta.", "choice1": "Lopta odripnula.", "choice2": "Lopta zasijala.", "question": "effect", "idx": 227}
+{"premise": "Devojka pogrešila na ispit.", "choice1": "Nagađala odgovor.", "choice2": "Izbrisala odgovor.", "question": "effect", "idx": 228}
+{"premise": "Igrač sobalija protivnika.", "choice1": "Protivnik uvatija dodavanje.", "choice2": "Protivnik padnuja na zemnju.", "question": "effect", "idx": 229}
+{"premise": "Braja sam patlidžan od lozu.", "choice1": "Sazreja.", "choice2": "Navađuvaja sam ga.", "question": "cause", "idx": 230}
+{"premise": "Čovek teja bude romantičan.", "choice1": "Sretnaja se sas bivšu devojku na ručak.", "choice2": "Kupija na devojku čokoladice.", "question": "effect", "idx": 231}
+{"premise": "Živa u termometar se dizala.", "choice1": "Ispadnuja mi termometar.", "choice2": "Zavrućilo se.", "question": "cause", "idx": 232}
+{"premise": "Tornado prošja krz grad.", "choice1": "Krov od sud odleteja.", "choice2": "Auto-put postaja opasno ljizgav.", "question": "effect", "idx": 233}
+{"premise": "Učenik uzimaja časovi.", "choice1": "Ocene mu se opravile.", "choice2": "Varaja na ispit.", "question": "effect", "idx": 234}
+{"premise": "Bilo mi udobno.", "choice1": "Kleknuja sam na zemnju.", "choice2": "Umotaja sam se u ćebe.", "question": "cause", "idx": 235}
+{"premise": "Uglačaja sam kamen.", "choice1": "Postaja puzgav.", "choice2": "Postaja sjajan.", "question": "effect", "idx": 236}
+{"premise": "Turija sam šićer u kafu.", "choice1": "Kafa јако mеrisala.", "choice2": "Kafa bila slatka.", "question": "effect", "idx": 237}
+{"premise": "Čovek preturaja po papiri.", "choice1": "Posekja se na papir.", "choice2": "Uništija gi papiri.", "question": "effect", "idx": 238}
+{"premise": "Čuknuja sam eser sas čuk.", "choice1": "Eser se zabija u drvo.", "choice2": "Eser zarđaja.", "question": "effect", "idx": 239}
+{"premise": "Riba uapala udicu.", "choice1": "Ribar izvukja ribu.", "choice2": "Ribar popravija udicu.", "question": "effect", "idx": 240}
+{"premise": "Tinejdžerku gu bilo srmota da ide u školu.", "choice1": "Iskočila vu bubuljica.", "choice2": "Skinula protezu.", "question": "cause", "idx": 241}
+{"premise": "Ozarilo mi se lice.", "choice1": "Dobija sam dobru ves.", "choice2": "Izgubija sam strpljenje.", "question": "cause", "idx": 242}
+{"premise": "Obrisaja sam si ruke sas peškir.", "choice1": "Peškir bija mokar.", "choice2": "Ruke mi bile mokre.", "question": "cause", "idx": 243}
+{"premise": "Čovek izgubija ravnotežu na stolicu.", "choice1": "Stolica se zanjišala pod njega.", "choice2": "Rasipaja farbu po stolicu.", "question": "cause", "idx": 244}
+{"premise": "Saigrači kabatili jedan drugog.", "choice1": "Izgubili utakmicu.", "choice2": "Trener gi otkazaja trening.", "question": "cause", "idx": 245}
+{"premise": "Molija sam za oproštaj.", "choice1": "Pokajaja sam se zbog moju grešku.", "choice2": "Postigja sam cilj.", "question": "cause", "idx": 246}
+{"premise": "Na ženu vu se dosadilo sas njojnoga partnera.", "choice1": "Raspituvaja se od njum.", "choice2": "Ne prekiđuvaja da zbori od njega samog.", "question": "cause", "idx": 247}
+{"premise": "Devojka se nasmešila.", "choice1": "Obrazi vu se zarumeneli.", "choice2": "Pojavile vu se rupice na obrazi.", "question": "effect", "idx": 248}
+{"premise": "Neprijateljski brod eksplodiraja.", "choice1": "Prešja preko minu.", "choice2": "Uplovija u luku.", "question": "cause", "idx": 249}
+{"premise": "Čovek se isekja na stopalo.", "choice1": "Ušetaja u baru.", "choice2": "Zgazija na iskršeno staklo.", "question": "cause", "idx": 250}
+{"premise": "Detektivi uzeli otisci od prsti na mesto od zločin.", "choice1": "Otkrili koj je ubica.", "choice2": "Našli oružje na mesto od zločin.", "question": "effect", "idx": 251}
+{"premise": "Bila golema gužva na auto-put.", "choice1": "Pošja sam na zaobilaznicu.", "choice2": "Tražija sam prevoz.", "question": "effect", "idx": 252}
+{"premise": "Ekonomija na državu se pogoršala.", "choice1": "Mlogo ljudi se razboleli.", "choice2": "Mlogo ljudi ostali bez rabotu.", "question": "effect", "idx": 253}
+{"premise": "Policajka dunula sas pištaljku nakude deca.", "choice1": "Spremali se da ušetav u nadolazeć saobraćaj.", "choice2": "Prepoznala gi iz komšiluk.", "question": "cause", "idx": 254}
+{"premise": "Prevrnuja sam sas oči nakude prijatelja.", "choice1": "Rekja mi istinu.", "choice2": "Prokomentarisaja ništo sarkastično.", "question": "cause", "idx": 255}
+{"premise": "Na kola gi nestanulo gorivo.", "choice1": "Vozač bija zaglaven na put.", "choice2": "Vozač pokupija stopera.", "question": "effect", "idx": 256}
+{"premise": "Žena dobila trudovi.", "choice1": "Rodilo se bebe.", "choice2": "Žena imala jutarnje mučnine.", "question": "effect", "idx": 257}
+{"premise": "Na čoveka mu odleteja šešir.", "choice1": "Skinuja šešir.", "choice2": "Duvaja vetar napolje.", "question": "cause", "idx": 258}
+{"premise": "Devojčica bila na rođendan kude drugara iz razred.", "choice1": "Dobila pozivnicu.", "choice2": "Kupila poklon.", "question": "cause", "idx": 259}
+{"premise": "Na dečaka mu čelo bilo vrućo.", "choice1": "Majka mu izmerila temperaturu.", "choice2": "Majka ga izvela u park.", "question": "effect", "idx": 260}
+{"premise": "Čovek se naprskaja sas kolonjsku vodu.", "choice1": "Teja zadivi partnera.", "choice2": "Turija gel u kosu.", "question": "cause", "idx": 261}
+{"premise": "Nestanula struja u kuću.", "choice1": "Potražija sam lampu na baterije.", "choice2": "Uzeja sam lopatu.", "question": "effect", "idx": 262}
+{"premise": "Porodica se preselila u pogolemu kuću.", "choice1": "Sin završija srednju školu.", "choice2": "Majka rodila bliznaci.", "question": "cause", "idx": 263}
+{"premise": "Maratonka trčala usporeno.", "choice1": "Tela sačuva snagu.", "choice2": "Videla cilj.", "question": "cause", "idx": 264}
+{"premise": "Dečak ga ritnaja aparat za slatkiši.", "choice1": "Aparat isfrljija kusur.", "choice2": "Zaglavila se kesica čips.", "question": "cause", "idx": 265}
+{"premise": "Na mojega prijatelja crklo kuče.", "choice1": "Prevrnaja sam sas oči.", "choice2": "Zgrnaja sam ga.", "question": "effect", "idx": 266}
+{"premise": "Na biznismena mu odbili kreditnu karticu.", "choice1": "Napisaja priznanicu.", "choice2": "Platija sas gotovinu.", "question": "effect", "idx": 267}
+{"premise": "Čovek opsuvaja.", "choice1": "Isekja nokti.", "choice2": "Udarija se na prs na nogu.", "question": "cause", "idx": 268}
+{"premise": "Čovek bija ponosan na brata mu.", "choice1": "Brat mu pobedija u raspravu sas njini roditelji.", "choice2": "Brat mu upisaja pravni fakultet.", "question": "cause", "idx": 269}
+{"premise": "Devojčica tela da uči od Slunčev sistem.", "choice1": "Otišla u biblioteku.", "choice2": "Gledala u dzvezde.", "question": "effect", "idx": 270}
+{"premise": "Poster se zalepija za zid.", "choice1": "Turija sam poster poviše vrata.", "choice2": "Turija sam lepljivu traku na poster otpozadi.", "question": "cause", "idx": 271}
+{"premise": "Klijent se složija sas planovi od arhitektu od zgradu.", "choice1": "Arhitekta izgradija zgradu.", "choice2": "Arhitekta gi dopravija planovi.", "question": "effect", "idx": 272}
+{"premise": "Na čoveka mu ispala kašika.", "choice1": "Ruka mu se tresla.", "choice2": "Olizaja gu kašiku.", "question": "cause", "idx": 273}
+{"premise": "Izvršni direktor od firmu podneja ostavku.", "choice1": "Upravni odbor raspuštija firmu.", "choice2": "Upravni odbor mu našja zamenu.", "question": "effect", "idx": 274}
+{"premise": "Odocnija sam na predavanje.", "choice1": "Sednaja sam u zadnji red.", "choice2": "Prišja sam nakude katedru.", "question": "effect", "idx": 275}
+{"premise": "Čoveka ga puštili iz zatvor.", "choice1": "Porodica mu platila kauciju.", "choice2": "Napadnuja druguga zatvorenika.", "question": "cause", "idx": 276}
+{"premise": "Porodica izgubila celo imanje.", "choice1": "Prodali kuću.", "choice2": "Zapalila gi se kuća.", "question": "cause", "idx": 277}
+{"premise": "Zgazija sam na limenku.", "choice1": "Limenku gu reciklirali.", "choice2": "Limenka se zgnječila.", "question": "effect", "idx": 278}
+{"premise": "Devojka se pridružila na debatni tim.", "choice1": "Naučila da koristi kompjuter.", "choice2": "Naučila komunikativne veštine.", "question": "effect", "idx": 279}
+{"premise": "Popravilo mi se raspoloženje.", "choice1": "Slušaja sam muziku.", "choice2": "Opraja sam sudovi.", "question": "cause", "idx": 280}
+{"premise": "Dobrotvorna organizacija postavila cilj da skupi pare.", "choice1": "Naranili beskućnici.", "choice2": "Održali aukciju.", "question": "effect", "idx": 281}
+{"premise": "Rolerkoster se spuštija niz strmu padinu.", "choice1": "Putnici se rebećali.", "choice2": "Putnici vrištali.", "question": "effect", "idx": 282}
+{"premise": "Bija sam besan.", "choice1": "Proverija sam sanduče od poštu kad sam iskočija iz kuću.", "choice2": "Zalupija sam sas vrata kad sam iskočija iz kuću.", "question": "effect", "idx": 283}
+{"premise": "Čovek teja da gleda zalazak od slunce.", "choice1": "Otputuvaja na sever.", "choice2": "Ustanuja rano.", "question": "effect", "idx": 284}
+{"premise": "Presavija sam papir.", "choice1": "Recikliraja sam papir.", "choice2": "Papir se zgužvaja.", "question": "effect", "idx": 285}
+{"premise": "Državu gu zadesila prirodna katastrofa.", "choice1": "Vođe od druge države napravili savez.", "choice2": "Vođe od druge države odma ispratili pomoć.", "question": "effect", "idx": 286}
+{"premise": "Na dečaka mu se izmokrile džoljke.", "choice1": "Iskočija iz bazen.", "choice2": "Upadnuja u bazen.", "question": "cause", "idx": 287}
+{"premise": "Učenik žurija da završi knjigu.", "choice1": "Isticaja vu rok za vrćanje u biblioteku.", "choice2": "Pozajmija gu od prijatelja.", "question": "cause", "idx": 288}
+{"premise": "Kriminalca ga utepali.", "choice1": "Turili ga u zatvor.", "choice2": "Bija osuđen na smrt.", "question": "cause", "idx": 289}
+{"premise": "Slunce ušlo u sobu.", "choice1": "Pomerija sam zavese.", "choice2": "Otključaja sam vrata.", "question": "cause", "idx": 290}
+{"premise": "Povukja sam varalicu za kosu.", "choice1": "Ispadnula vu perika.", "choice2": "Oćelavela.", "question": "effect", "idx": 291}
+{"premise": "Urednik prepravija rečenicu u rukopis.", "choice1": "Mislija da je rukopis uverljiv.", "choice2": "Procenija da rečenica neje jasna.", "question": "cause", "idx": 292}
+{"premise": "Žena otkazala njojan račun od kreditnu karticu.", "choice1": "Svatila da vu fali kreditna kartica.", "choice2": "Svatila da vu ističa kreditna kartica.", "question": "cause", "idx": 293}
+{"premise": "Čovek i žena se zaljubili.", "choice1": "Išli na fakultet.", "choice2": "Uzeli se.", "question": "effect", "idx": 294}
+{"premise": "Muzika bila preslaba da se moš čuje.", "choice1": "Pojačaja sam zvuk.", "choice2": "Komponuvaja sam moju sopstvenu pesmu.", "question": "effect", "idx": 295}
+{"premise": "Na dečaka mu kosa bila ispreturana.", "choice1": "Devojčica mu gu razbarušila.", "choice2": "Devojčica mu gu povukla.", "question": "cause", "idx": 296}
+{"premise": "Bubaljka se zgnječila.", "choice1": "Poprskaja sam se sas sprej protiv bubaljke.", "choice2": "Stanuja sam na bubaljku.", "question": "cause", "idx": 297}
+{"premise": "Otvorija sam oči.", "choice1": "Probudija sam se.", "choice2": "Opuštija sam se.", "question": "cause", "idx": 298}
+{"premise": "Na mojega komšiju muzika treštala.", "choice1": "Zamolija sam ga da gu utiši.", "choice2": "Zamolija sam ga da mi pozajmi CD.", "question": "effect", "idx": 299}
+{"premise": "Na čoveka mu porodica živela u nemaštinu.", "choice1": "Bija je štedljiv sas njigovu zaradu.", "choice2": "Zarađuvaja pomanje od minimalac.", "question": "cause", "idx": 300}
+{"premise": "Student diplomiraja na univerzitet.", "choice1": "Tražija rabotu.", "choice2": "Našja hobi.", "question": "effect", "idx": 301}
+{"premise": "Slikar pomešaja žutu sas plavu boju.", "choice1": "Boja prsnula na sve strane.", "choice2": "Boja ispadnula zelena.", "question": "effect", "idx": 302}
+{"premise": "Promenija sam temu od razgovor.", "choice1": "Nesam imaja više od koje da zborim.", "choice2": "Razgovor postaja napet.", "question": "cause", "idx": 303}
+{"premise": "Brata mi puštili iz bolnicu.", "choice1": "Dočekaja sam ga dom.", "choice2": "Nesam obraćaja pažnju na njega.", "question": "effect", "idx": 304}
+{"premise": "Na scenu se digla zavesa.", "choice1": "Počela uvodna scena od prestavu.", "choice2": "Glumci iz prestavu iskočili od scenu.", "question": "effect", "idx": 305}
+{"premise": "Taoc pristanuja na zaktevi od otmičara.", "choice1": "Otmičar pretija će ga povredi taoca.", "choice2": "Otmičar ga ostavija taoca samog.", "question": "cause", "idx": 306}
+{"premise": "Bum odjeknuja krz binu.", "choice1": "Muzikant lupnaja sas nogu.", "choice2": "Muzikant udarija u bubanj.", "question": "cause", "idx": 307}
+{"premise": "Roditelji dotrčali u spavaću sobu od njino dete.", "choice1": "Dete se probudilo vrištećim od košmar.", "choice2": "Dete ga bilo stra da pogleda ispod krevet.", "question": "cause", "idx": 308}
+{"premise": "Žena komunicirala sas znakovan jezik.", "choice1": "Rodila se prevremeno.", "choice2": "Rodila se gluva.", "question": "cause", "idx": 309}
+{"premise": "Region ga zavatila suša.", "choice1": "Voda se zagadila.", "choice2": "Usevi stradali.", "question": "effect", "idx": 310}
+{"premise": "Mačka gu pojurila pticu.", "choice1": "Ptica odletela.", "choice2": "Ptica ufatila crva.", "question": "effect", "idx": 311}
+{"premise": "Devojčica promenila školu.", "choice1": "Školu gu zatvorili preko leto.", "choice2": "Preselila se u nov grad.", "question": "cause", "idx": 312}
+{"premise": "Gazda od firmu ne teja poveća plate na radnici.", "choice1": "Gazda imenuvaja novoga menadžera.", "choice2": "Radnici počeli štrajkujev.", "question": "effect", "idx": 313}
+{"premise": "Vođa se suprostavija na ekstremisti duž celu državu.", "choice1": "Ekstremisti uticali na njega.", "choice2": "Ekstremisti ga utepali.", "question": "effect", "idx": 314}
+{"premise": "Odija sam bos po plažu.", "choice1": "Pesak mi se zalepija za stopala.", "choice2": "Talasi udarali u obalu.", "question": "effect", "idx": 315}
+{"premise": "Probudija sam se u sred noć osićajeći da mi ladno.", "choice1": "Obukja sam trenerku.", "choice2": "Popija sam čašu vodu.", "question": "effect", "idx": 316}
+{"premise": "Majka stišuvala sina vu.", "choice1": "Sin vu se cerekaja.", "choice2": "Sin vu cvileja.", "question": "cause", "idx": 317}
+{"premise": "Icepile mi se farmerke.", "choice1": "Zakopčaja sam farmerke.", "choice2": "Sapnuja sam se na trotoar.", "question": "cause", "idx": 318}
+{"premise": "Dečak nosija protezu.", "choice1": "Dobija karjes.", "choice2": "Zubi mu se ispravili.", "question": "effect", "idx": 319}
+{"premise": "Treniraja sam juče u teretanu.", "choice1": "Probudija sam se danas sas upalu mišići.", "choice2": "Probudija sam se danas sas upalu grlo.", "question": "effect", "idx": 320}
+{"premise": "Devojke šapkale jedna na drugu kude astal za obed.", "choice1": "Drugi studenti sednuli za astal za obed.", "choice2": "Drugi studenti kude astal za obed se osićali zapostavljeni.", "question": "effect", "idx": 321}
+{"premise": "Dete sletelo na trampolinu.", "choice1": "Odripnula u vazduh.", "choice2": "Rešila proba da izvede salto.", "question": "effect", "idx": 322}
+{"premise": "Turija sam pismo u poštansko sanduče.", "choice1": "Pošta ga isporučila pismo.", "choice2": "Pošta ga brgo poslala pismo.", "question": "effect", "idx": 323}
+{"premise": "Kockar bija siguran u sebe.", "choice1": "Uložija sve pare.", "choice2": "Otišja dom bez pare.", "question": "effect", "idx": 324}
+{"premise": "Šumski požar se širija.", "choice1": "Vetar se pojačaja.", "choice2": "Piromani gi uapsili.", "question": "cause", "idx": 325}
+{"premise": "Dete se odralo na koleno.", "choice1": "Majka ga pratila u sobu.", "choice2": "Majka mu turila flaster na ranu.", "question": "effect", "idx": 326}
+{"premise": "Čovek preživeja smrtonosan boles.", "choice1": "Potpisaja testamenat.", "choice2": "Presadili mu organ.", "question": "cause", "idx": 327}
+{"premise": "Pinuja sam glić vrelu kafu.", "choice1": "Uapaja sam se za jezik.", "choice2": "Izgoreja sam jezik.", "question": "effect", "idx": 328}
+{"premise": "Urednik otpuštija autorku.", "choice1": "Autorka izbegavala pristrasnos u njojne si priče.", "choice2": "Autorka propuštila važan rok.", "question": "cause", "idx": 329}
+{"premise": "Osićaja sam se špirtosan.", "choice1": "Spaja sam cel dan.", "choice2": "Učija sam cel dan.", "question": "cause", "idx": 330}
+{"premise": "Dokturka udarila dijagnozu na pacijenta.", "choice1": "Otkrila sintomi na pacijenta.", "choice2": "Prepisala mu lekovi na pacijenta.", "question": "cause", "idx": 331}
+{"premise": "Počešaja sam se po kožu.", "choice1": "Bila znojava.", "choice2": "Svrbela me.", "question": "cause", "idx": 332}
+{"premise": "Čoveka ga kitno aperisali.", "choice1": "Izgubija živci.", "choice2": "Imaja srčani udar.", "question": "cause", "idx": 333}
+{"premise": "Na čoveka mu se naduli mišići na ruku.", "choice1": "Savija ruke.", "choice2": "Protrljaja ruke.", "question": "cause", "idx": 334}
+{"premise": "Čovek digja obrve.", "choice1": "Bija iznenađen.", "choice2": "Osićaja se obeshrabren.", "question": "cause", "idx": 335}
+{"premise": "Oprostija sam grešku na kolegu.", "choice1": "Veruvaja sam da su mu namere dobre.", "choice2": "Veruvaja sam da on ume bolje.", "question": "cause", "idx": 336}
+{"premise": "Čovek batalija pušenje.", "choice1": "Počeja više da vežba.", "choice2": "Počeja se budi porano ujutru.", "question": "effect", "idx": 337}
+{"premise": "Žena opesničila napadača po nos.", "choice1": "Telo od napadača postanulo beživotno.", "choice2": "Napadač počeja krvari.", "question": "effect", "idx": 338}
+{"premise": "Strelica promašila centar od metu.", "choice1": "Čovek ne nanišanija dobro.", "choice2": "Čovek gubija igru.", "question": "cause", "idx": 339}
+{"premise": "Gazda tražija da istrebljivač na štetočine dođe u njigovu kuću.", "choice1": "Našja pacovi u podrum.", "choice2": "Držaja mravlju farmu u njigovu sobu.", "question": "cause", "idx": 340}
+{"premise": "Predložija sam na moju gostinku da iskočimo na večeru.", "choice1": "Bija sam mlogo umoran da spraljam ništo.", "choice2": "Moja gostinka presedela preko svaku meru.", "question": "cause", "idx": 341}
+{"premise": "Devojčica uvatila brata vu kako čita njojan dnevnik.", "choice1": "Počela ga krije dnevnik.", "choice2": "Nabavila nov dnevnik.", "question": "effect", "idx": 342}
+{"premise": "Na ženu vu falile pare za zakup.", "choice1": "Rabotila prekovremeno.", "choice2": "Napuštila rabotu.", "question": "effect", "idx": 343}
+{"premise": "Na dete mu brgo ustuknula ruka.", "choice1": "Taknalo vruću pećku.", "choice2": "Mazilo kuče po glavu.", "question": "cause", "idx": 344}
+{"premise": "Firma tela proveri kolko su kupci zadovoljni.", "choice1": "Ponudili popus na novi kupci.", "choice2": "Poslali anketu na kupci.", "question": "effect", "idx": 345}
+{"premise": "Drven patos se izgrebaja.", "choice1": "Dačak pobacaja jastuci od kauč.", "choice2": "Dečak vukja stolicu po patos.", "question": "cause", "idx": 346}
+{"premise": "Zaklonija sam lice.", "choice1": "Moj neprijatelj mi se rugaja.", "choice2": "Moj neprijatelj stisnuja pesnicu.", "question": "cause", "idx": 347}
+{"premise": "Čuvena statua izgorela.", "choice1": "Udarija gu grom.", "choice2": "Ljudi dolazili da vu se diviv.", "question": "cause", "idx": 348}
+{"premise": "Ostavija sam voćke na astal.", "choice1": "Iz voćke se rasipale semke.", "choice2": "Mušice se nakupile na voćke.", "question": "effect", "idx": 349}
+{"premise": "Na balerinu vu pukja ligament.", "choice1": "Ispravila prsti na noge.", "choice2": "Uganula zglob.", "question": "cause", "idx": 350}
+{"premise": "Na dečaka mu se odvrzale perkle.", "choice1": "Naučija kako da gi vrže.", "choice2": "Trčaja po igralište.", "question": "cause", "idx": 351}
+{"premise": "Oduševija sam se sas knjigu.", "choice1": "Vrnuja sam gu knjigu.", "choice2": "Izgubija sam osićaj za vreme.", "question": "effect", "idx": 352}
+{"premise": "Čovek slično mislija ko njigovi roditelji.", "choice1": "Roditelji uticali na njega.", "choice2": "Roditelji se odrekli od njega.", "question": "cause", "idx": 353}
+{"premise": "Kola polagačke usporili dok nesu stanuli.", "choice1": "Nestanulo gi gorivo.", "choice2": "Vozač se uspaja.", "question": "cause", "idx": 354}
+{"premise": "Čovek izeja sladoled na slunce.", "choice1": "Sladoled izgubija ukus.", "choice2": "Sladoled kapaja iz kornet.", "question": "effect", "idx": 355}
+{"premise": "Okačija sam umetnički dela u sobu.", "choice1": "Tepih izgledaja prljav.", "choice2": "Zidovi izgledali prazni.", "question": "cause", "idx": 356}
+{"premise": "Otišja sam porano od rabotu.", "choice1": "Bolela me glava.", "choice2": "Moj šef držaja sastanak.", "question": "cause", "idx": 357}
+{"premise": "Kutrence isprljalo tepih.", "choice1": "Gazda ga nagrdija kutrence.", "choice2": "Gazda mu daja slatkiš na kutrence.", "question": "effect", "idx": 358}
+{"premise": "Izvinija sam se na prijatelja.", "choice1": "Prijatelj mi oprostija.", "choice2": "Prijatelj mi pobesneja.", "question": "effect", "idx": 359}
+{"premise": "Čovek štrčaja u vrčkolj.", "choice1": "Nosija ranac.", "choice2": "Nosija neonski prsluk.", "question": "cause", "idx": 360}
+{"premise": "Svedok lagaja pod zakletvu.", "choice1": "Završija svedočenje.", "choice2": "Gonili ga za lažnu zakletvu.", "question": "effect", "idx": 361}
+{"premise": "Žena si ofarbala kosu.", "choice1": "Tela promeni izgled.", "choice2": "Tela se uklopi.", "question": "cause", "idx": 362}
+{"premise": "Imigranti ufateni da nelegalno boraviv u državu.", "choice1": "Našli rabotu.", "choice2": "Deportovali gi.", "question": "effect", "idx": 363}
+{"premise": "Javni govornik se našalija.", "choice1": "Publika se nasmejala.", "choice2": "Publika ustanula.", "question": "effect", "idx": 364}
+{"premise": "Pogledaja sam u slunce.", "choice1": "Slunce me zaslepilo.", "choice2": "Koža mi pocrnela na slunce.", "question": "effect", "idx": 365}
+{"premise": "Dosađuvaja sam se.", "choice1": "Frknuja sam.", "choice2": "Zevnuja sam.", "question": "effect", "idx": 366}
+{"premise": "Odrezak ne mogja se iseče.", "choice1": "Nož bija tup.", "choice2": "Odrezak bija sirov.", "question": "cause", "idx": 367}
+{"premise": "Žena proglasila bankrot.", "choice1": "Dobila alimentaciju.", "choice2": "Golem dug vu se napravija.", "question": "cause", "idx": 368}
+{"premise": "Svetla u stan od mojega prijatelja bili upaleni.", "choice1": "Pitaja sam se ne li je iskočija.", "choice2": "Rešija sam da navrnem kude njega.", "question": "effect", "idx": 369}
+{"premise": "Turija sam cvećku pod nos.", "choice1": "Latice otpale od cvećku.", "choice2": "Udanuja sam miris od cvećku.", "question": "effect", "idx": 370}
+{"premise": "Žena se osićala nostalgično.", "choice1": "Sretnala prijatelja iz detinjsto.", "choice2": "Vikala po njojni si deca.", "question": "cause", "idx": 371}
+{"premise": "Student odugovlačija sas rad.", "choice1": "Predaja ga rad rano.", "choice2": "Predaja ga rad nedovršen.", "question": "effect", "idx": 372}
+{"premise": "Kola mi se pokvarili.", "choice1": "Otišja sam u tržni centar.", "choice2": "Viknuja sam majstora.", "question": "effect", "idx": 373}
+{"premise": "Odbacija sam poruku.", "choice1": "Bila anonimna.", "choice2": "Neje bila čitka.", "question": "cause", "idx": 374}
+{"premise": "Ptica zamanula sas krila.", "choice1": "Snela jajce.", "choice2": "Kačila sa na ugore.", "question": "effect", "idx": 375}
+{"premise": "Parkiraja sam se na ulicu.", "choice1": "Garaža bila otvorena.", "choice2": "Garaža bila puna.", "question": "cause", "idx": 376}
+{"premise": "Kriminalac uperija pištolj u žrtvu.", "choice1": "Kriminalac ga spuštija pištolj.", "choice2": "Žrtva digla ruke u vis.", "question": "effect", "idx": 377}
+{"premise": "Raduvaja sam se na vikend.", "choice1": "Planiraja sam idem na saranu na mojega čiču.", "choice2": "Planiraja sam idem na svadbu na mojega prijatelja.", "question": "cause", "idx": 378}
+{"premise": "Izgubija sam pojam od vreme.", "choice1": "Sanjarija sam.", "choice2": "Bilo mi muka.", "question": "cause", "idx": 379}
+{"premise": "Dokumenat se odštampaja nečitko.", "choice1": "U štampač nemalo dovoljno mastilo.", "choice2": "U štampač nemalo papiri.", "question": "cause", "idx": 380}
+{"premise": "Na stadion puštena nacionalna himna.", "choice1": "Navijači se obrnuli nakude zastavu.", "choice2": "Navijači pojurili na teren.", "question": "effect", "idx": 381}
+{"premise": "Sos imaja bljantav ukus.", "choice1": "Poslužija sam ga.", "choice2": "Posolija sam ga.", "question": "effect", "idx": 382}
+{"premise": "Turija sam papiran ubrus na prosipotinu.", "choice1": "Ubrus upija tečnos.", "choice2": "Od tečnost ostanulo lepljivo.", "question": "effect", "idx": 383}
+{"premise": "Ženu gu prekinali u sred čitanje knjigu.", "choice1": "Označila njojnu stranicu.", "choice2": "Nanovo čitala knjigu.", "question": "effect", "idx": 384}
+{"premise": "Avion naišja na turbulenciju.", "choice1": "Čovek stegja sigurnosan pojas.", "choice2": "Čovek pogledaja krz prozor.", "question": "effect", "idx": 385}
+{"premise": "Dečak se trgnuja.", "choice1": "Devojčica ne obraćala pažnju na njega.", "choice2": "Devojčica ga bocnula.", "question": "cause", "idx": 386}
+{"premise": "Dokturi na pacijentkinju ugradili veštačku nogu.", "choice1": "Amputirali vu nogu.", "choice2": "Pratili njojne vitalne funkcije.", "question": "cause", "idx": 387}
+{"premise": "Dečak gu uštipaja devojčicu za lakat.", "choice1": "Ona slegla sas ramena nakude njega.", "choice2": "Otrgnula ruku od njega.", "question": "effect", "idx": 388}
+{"premise": "Zamolija sam prijatelja za savet.", "choice1": "Cenija sam njigovo mišljenje.", "choice2": "Znaja sam da imam pravo.", "question": "cause", "idx": 389}
+{"premise": "Dečak koraknuja u blato.", "choice1": "Blato mu se privatilo za cipele.", "choice2": "Blato ga udarilo po lice.", "question": "effect", "idx": 390}
+{"premise": "U grad padnuja sneg nikolko santine.", "choice1": "Zatvorili škole.", "choice2": "Ljudi se skrili pod zemnju.", "question": "effect", "idx": 391}
+{"premise": "Na radnika mu se završila smena.", "choice1": "Otišja dom na dan.", "choice2": "Zapretija će napušti rabotu.", "question": "effect", "idx": 392}
+{"premise": "Drvo oštetilo kuću.", "choice1": "Drvo padnulo na krov.", "choice2": "Drvo bacalo senku na avliju.", "question": "cause", "idx": 393}
+{"premise": "Drvo se prepolovilo.", "choice1": "Naredija sam drva u kamin.", "choice2": "Zamanuja sam sas sikiru nakude drvo.", "question": "cause", "idx": 394}
+{"premise": "Porodica čestitala na par.", "choice1": "Par najavija da se rastanjujev.", "choice2": "Par najavija da čekav bebe.", "question": "cause", "idx": 395}
+{"premise": "Devojka mu pratila na valentinovo momka.", "choice1": "Sviđaja vu se.", "choice2": "Cunala ga.", "question": "cause", "idx": 396}
+{"premise": "Klimaja sam sas glavu na reči od mojega prijatelja.", "choice1": "Bija sam zbunjen.", "choice2": "Složija sam se sas njega.", "question": "cause", "idx": 397}
+{"premise": "Prijatelji frljili parku.", "choice1": "Teli postignev kompromis.", "choice2": "Teli pravedno odlučiv.", "question": "cause", "idx": 398}
+{"premise": "Isključija se tajmer u kujnu.", "choice1": "Čovek spakuvaja namirnice u frižider.", "choice2": "Čovek izvadija picu iz relnu.", "question": "effect", "idx": 399}
+{"premise": "Žena zacrtala ambiciozan cilj.", "choice1": "Postala nealjiva.", "choice2": "Narabotila se.", "question": "effect", "idx": 400}
+{"premise": "Bogataš umreja od staros.", "choice1": "Sin mu upadnuja u problemi sas zakon.", "choice2": "Sin mu nasledija njigovo imanje.", "question": "effect", "idx": 401}
+{"premise": "Žena ugazila u plamen.", "choice1": "Plamen zagasnuja.", "choice2": "Iz plamen se digja dim.", "question": "effect", "idx": 402}
+{"premise": "Na ženu vu kola bili u servis.", "choice1": "Oduzeli vu vozačku.", "choice2": "Imala saobraćajku.", "question": "cause", "idx": 403}
+{"premise": "Prespaja sam budilnik.", "choice1": "Spremija sam doručak.", "choice2": "Propuštija sam doručak.", "question": "effect", "idx": 404}
+{"premise": "Javna ličnos iskočila iz limuzinu.", "choice1": "Blicevi bljesnuli nakude njega.", "choice2": "Porodica mu prisustuvala na konferenciju za štampu.", "question": "effect", "idx": 405}
+{"premise": "Žena se dugačko zadržala u kadu.", "choice1": "Voda u kadu se proladila.", "choice2": "Voda iscurela iz kadu.", "question": "effect", "idx": 406}
+{"premise": "Student teja se upozna sas drugi studenti na kampus.", "choice1": "Pristupija u bratsto.", "choice2": "Diplomiraja inžinjersto.", "question": "effect", "idx": 407}
+{"premise": "Digja sam jastuci od kauč.", "choice1": "Tražija sam sitniš.", "choice2": "Preuređuvaja sam dnevnu sobu.", "question": "cause", "idx": 408}
+{"premise": "Dzolj leteja nakude dečaka.", "choice1": "Dečak pobegja.", "choice2": "Dečak ubraja cvećku.", "question": "effect", "idx": 409}
+{"premise": "Ženu gu proglasili krivu za omanji prekršaj.", "choice1": "Osudili gu na društveno-korisnu rabotu.", "choice2": "Dobila smrtnu kaznu.", "question": "effect", "idx": 410}
+{"premise": "Umešaja sam šićer u vruć čaj.", "choice1": "Čaj isparavaja.", "choice2": "Šićer se rastopija.", "question": "effect", "idx": 411}
+{"premise": "Veteran odija patravejeći.", "choice1": "Regrutuvali ga u rat.", "choice2": "Ranili ga u bitku.", "question": "cause", "idx": 412}
+{"premise": "Kriminalac utekja na miliciju.", "choice1": "Milicija se pobrinula za žrtvu.", "choice2": "Milicija ga jurila kriminalca.", "question": "effect", "idx": 413}
+{"premise": "Laptop ne teja se upali.", "choice1": "Ispadnuja mi.", "choice2": "Dopunija sam ga.", "question": "cause", "idx": 414}
+{"premise": "Žena nemala više mesto u njojan orman.", "choice1": "Nagomilala mlogo džoljke.", "choice2": "Nasložila si džoljke.", "question": "cause", "idx": 415}
+{"premise": "Na čoveka mu se slomilo srce.", "choice1": "Žena mu se porodila.", "choice2": "Žena ga napuštila.", "question": "cause", "idx": 416}
+{"premise": "Čovek diplomiraja.", "choice1": "Kvalifikuvaja se za robotu koju je teja.", "choice2": "Povukli mu ponudu za rabotu.", "question": "effect", "idx": 417}
+{"premise": "Na čoveka mu se glas lepo odražavaja krz celu salu.", "choice1": "Pozdravija publiku.", "choice2": "Zborija na mikrofon.", "question": "cause", "idx": 418}
+{"premise": "Frljija sam parku u fontanu.", "choice1": "Parka potonula na dno.", "choice2": "Parka se iskršila na dva dela.", "question": "effect", "idx": 419}
+{"premise": "Igrač udarija lopticu nakude rupu.", "choice1": "Loptica ušla u rupu.", "choice2": "Loptica se vrnula kude igrača.", "question": "effect", "idx": 420}
+{"premise": "Udanuja sam pršinu na tavan.", "choice1": "Lacnuja sam.", "choice2": "Kinuja sam.", "question": "effect", "idx": 421}
+{"premise": "Radnik na kasu u prodavnicu viknuja obezbeđenje.", "choice1": "Mušterija koristila falsifikovane pare.", "choice2": "Mušterija ostavila farovi upaleni.", "question": "cause", "idx": 422}
+{"premise": "Isfrljija sam đubre.", "choice1": "Kujna se usmrdela od đubre.", "choice2": "Slučajno sam si frljija spisak za kupuvinu.", "question": "cause", "idx": 423}
+{"premise": "Porodica otišla u zološki vrt.", "choice1": "Deca gi se divili na životinje.", "choice2": "Deca gi jurili životinje.", "question": "effect", "idx": 424}
+{"premise": "Čovek glasno disaja.", "choice1": "Bubrezi mu otkazuvali.", "choice2": "Pluća mu bili zagušeni.", "question": "cause", "idx": 425}
+{"premise": "Imaja sam kartu višak za koncert.", "choice1": "Pitaja sam prijatelja za putanju nakude dvoranu.", "choice2": "Pitaja sam prijatelja ne li mu se ide.", "question": "effect", "idx": 426}
+{"premise": "Pokvarila se klima u kuću.", "choice1": "Izneja sam ćebiki.", "choice2": "Otvorija sam prozori.", "question": "effect", "idx": 427}
+{"premise": "Dečaka ga bolela grbina.", "choice1": "Ranac mu se otvorija.", "choice2": "Ranac mu bija tešak.", "question": "cause", "idx": 428}
+{"premise": "Kupija sam poklon na majku.", "choice1": "Ispekja sam vu tortu.", "choice2": "Bija vu rođendan.", "question": "cause", "idx": 429}
+{"premise": "Narcisi gi uništili u bašču.", "choice1": "Pčela ga ubola baštovana.", "choice2": "Veverice iskopale lukovice.", "question": "cause", "idx": 430}
+{"premise": "Upalija sam šibicu.", "choice1": "Plamen zagasnuja.", "choice2": "Na šibicu nastanuja plamen.", "question": "effect", "idx": 431}
+{"premise": "Stranke u spor se nagodile.", "choice1": "Ne se teli raspraljav na sud.", "choice2": "Teli si popraviv ličan odnos.", "question": "cause", "idx": 432}
+{"premise": "Deca gi poslali u sirotište.", "choice1": "Umreli gi roditelji.", "choice2": "Roditelji gi ualili.", "question": "cause", "idx": 433}
+{"premise": "Meteor sleteja u okean.", "choice1": "Nastanuja cunami.", "choice2": "Počeja vrne grad.", "question": "effect", "idx": 434}
+{"premise": "Planinarka naišla na zmiju otrovnicu.", "choice1": "Dehidrirala.", "choice2": "Uspaničila se.", "question": "effect", "idx": 435}
+{"premise": "Relna se zagrejala.", "choice1": "Uključija sam relnu.", "choice2": "Turija sam posudu u relnu.", "question": "cause", "idx": 436}
+{"premise": "Stisnuja sam krišku limun.", "choice1": "Limun se buđosaja.", "choice2": "Limun prsnuja.", "question": "effect", "idx": 437}
+{"premise": "Država otkrila novu teritoriju.", "choice1": "Država gu napuštila teritoriju.", "choice2": "Država gu kolonizuvala teritoriju.", "question": "effect", "idx": 438}
+{"premise": "Čaša se srušila od astal.", "choice1": "Razmrskala se po cel patos.", "choice2": "Sletela u hrpu od veš.", "question": "effect", "idx": 439}
+{"premise": "Astal se njišaja.", "choice1": "Patos ne bija ravan.", "choice2": "Patos bija puzgav.", "question": "cause", "idx": 440}
+{"premise": "Tatko uvatija sina mu u laž.", "choice1": "Sin mu priznaja istinu.", "choice2": "Otac mu veruvaja na sina.", "question": "effect", "idx": 441}
+{"premise": "Na čoveka mu glava bridela od bol.", "choice1": "Popija sirup za kašalj.", "choice2": "Popija aspirin.", "question": "effect", "idx": 442}
+{"premise": "Voz usporija.", "choice1": "Približuvaja se na stanicu.", "choice2": "Zadocnjuvaja.", "question": "cause", "idx": 443}
+{"premise": "Čovek išja na terapiju.", "choice1": "U njigovu porodicu se širila psihička boles.", "choice2": "Dijagnostifikuvali mu depresiju.", "question": "cause", "idx": 444}
+{"premise": "Žena se uvatila za grlo.", "choice1": "Glinula si kranu.", "choice2": "Zagrcnula se sas kranu.", "question": "cause", "idx": 445}
+{"premise": "Ženu gu bolelo grlo.", "choice1": "Glas vu zvučaja promuklo.", "choice2": "Govorila sas naglasak.", "question": "effect", "idx": 446}
+{"premise": "Kuče osmatralo sočan odrezak na astal.", "choice1": "Balavilo.", "choice2": "Leglo.", "question": "effect", "idx": 447}
+{"premise": "Na ženu vu napreduvaja biznis.", "choice1": "Najurila njojni radnici.", "choice2": "Zagazdela.", "question": "effect", "idx": 448}
+{"premise": "Učenici iskočili iz učionicu.", "choice1": "Zvonilo zvono.", "choice2": "Učitelj zadaja domaći.", "question": "cause", "idx": 449}
+{"premise": "Žena vikala da je videla duha.", "choice1": "Njojni poznanici bili skeptični.", "choice2": "Njojni poznanici se povezali sas njum.", "question": "effect", "idx": 450}
+{"premise": "Čovek ogluveja.", "choice1": "Mal se neje udavija u okean.", "choice2": "Mal ga nesu utepali u eksploziju.", "question": "cause", "idx": 451}
+{"premise": "Dete puštilo konopče od balon.", "choice1": "Balon se izduja.", "choice2": "Balon odleteja u vazduk.", "question": "effect", "idx": 452}
+{"premise": "Čovek izgubija sposobnos da zbori.", "choice1": "Imaja moždani udar.", "choice2": "Duboko uzdanuja.", "question": "cause", "idx": 453}
+{"premise": "Žena se sapnala na trotoar.", "choice1": "Imala rupa na asvalt.", "choice2": "Čula da gu niki zove.", "question": "cause", "idx": 454}
+{"premise": "Čovek ripnuja bombu u bazen.", "choice1": "Spasioc ripnuja po njega.", "choice2": "Čovek ga isprskaja spasioca.", "question": "effect", "idx": 455}
+{"premise": "Uzeja sam antibiotik.", "choice1": "Infekcija mi se povukla.", "choice2": "Infekcija mi se raširila.", "question": "effect", "idx": 456}
+{"premise": "Upalilo se žuto na semafor.", "choice1": "Vozač stisnаja kočnicu.", "choice2": "Vozač pritisnаja svirenu.", "question": "effect", "idx": 457}
+{"premise": "Plastična posuda se rastopila.", "choice1": "Potopija sam gu posudu u vruću vodu.", "choice2": "Turija sam gu posudu na vrel šporet.", "question": "cause", "idx": 458}
+{"premise": "Kola se ulubili.", "choice1": "Vozač udarija u telefonski stub.", "choice2": "Vozač prošja krz crveno.", "question": "cause", "idx": 459}
+{"premise": "Dečak učija cel noć.", "choice1": "Propuštija ispit.", "choice2": "Položija ispit.", "question": "effect", "idx": 460}
+{"premise": "Dečak se držaja za ivicu od bazen.", "choice1": "Plašija se da uči pliva.", "choice2": "Spasioc bija na dužnos.", "question": "cause", "idx": 461}
+{"premise": "Turija sam ruku na grudi.", "choice1": "Osićaja sam otkucaji od srce.", "choice2": "Srce mi se ubrzalo.", "question": "effect", "idx": 462}
+{"premise": "Zgradu do moju kancelariju gu renovirali.", "choice1": "U moju kancelariju bija vrčkolj.", "choice2": "U moju kancelariju bilo bučno.", "question": "effect", "idx": 463}
+{"premise": "Porodica se tela upozna sas njine nove komšije.", "choice1": "Porodica viknula komšije na večeru.", "choice2": "Porodica kimala na komšije iz njinu avliju.", "question": "effect", "idx": 464}
+{"premise": "Voda šljusnula iz bazen.", "choice1": "Plivač zagnjurija u bazen.", "choice2": "Plivač plutaja po bazen.", "question": "cause", "idx": 465}
+{"premise": "Zagrizja sam krišku bostan.", "choice1": "Slučajno sam glinuja semku.", "choice2": "Slučajno sam okrznuja zub.", "question": "effect", "idx": 466}
+{"premise": "Dečak se sapnаja.", "choice1": "Jakna mu ne bila zakopčana.", "choice2": "Perkle mu ne bile vrzane.", "question": "cause", "idx": 467}
+{"premise": "Žena turila čepovi za uši.", "choice1": "Smićala vu galama.", "choice2": "Probušila uši.", "question": "cause", "idx": 468}
+{"premise": "Dopunija sam moju flašu sas vodu.", "choice1": "Popija sam celu vodu iz njum.", "choice2": "Držaja sam gu u frižider.", "question": "cause", "idx": 469}
+{"premise": "Seriju gu cenzurisali.", "choice1": "U njuma se koristija pogan jezik.", "choice2": "Imala zamrsenu priču.", "question": "cause", "idx": 470}
+{"premise": "Brod se slupaja.", "choice1": "Posada se udavila.", "choice2": "Posada naletela na gusari.", "question": "effect", "idx": 471}
+{"premise": "Dečaka ga zabunila zagonetka.", "choice1": "Rešija gu zagonetku.", "choice2": "Potražija pripomoć.", "question": "effect", "idx": 472}
+{"premise": "Zazvonija telefon.", "choice1": "Čovek spuštija slušalicu.", "choice2": "Čovek se javija na telefon.", "question": "effect", "idx": 473}
+{"premise": "Žena buljila u mene.", "choice1": "Zgrnaja sam gu.", "choice2": "Ne mi bilo prjatno.", "question": "effect", "idx": 474}
+{"premise": "Grupa ljudi iskočili iz muzej.", "choice1": "Slikali eksponati.", "choice2": "Videli svi eksponati.", "question": "cause", "idx": 475}
+{"premise": "Čovek počeja se raspralja sas mene.", "choice1": "Prijatelj me upoznaja sas toga čoveka.", "choice2": "Prijatelj me podržaja.", "question": "effect", "idx": 476}
+{"premise": "Ispuštila mi guma na biciklu.", "choice1": "Naduvaja sam gu gumu.", "choice2": "Promenija sam brzinu na biciklu.", "question": "effect", "idx": 477}
+{"premise": "Devojka izgledala bledo.", "choice1": "Tatko vu pročitaja priču.", "choice2": "Tatko vu pipnuja čelo.", "question": "effect", "idx": 478}
+{"premise": "Na hemisku se ispraznilo mastilo.", "choice1": "Koristija sam olovku.", "choice2": "Potpisaja sam se.", "question": "effect", "idx": 479}
+{"premise": "Čoveka ga odbili za kredit.", "choice1": "Imaja dugovi.", "choice2": "Započeja biznis.", "question": "cause", "idx": 480}
+{"premise": "Devojčica ostanula dom da ne ide u školu.", "choice1": "Imala cvećke.", "choice2": "Uživala učejeći matematiku.", "question": "cause", "idx": 481}
+{"premise": "Kesa za đubre bila puna.", "choice1": "Odneja sam gu u kontejner.", "choice2": "Frljija sam gu u sudoperu.", "question": "effect", "idx": 482}
+{"premise": "Usisaja sam tepih.", "choice1": "Moj cimer rasipaja punč.", "choice2": "Kuče mi se linjalo.", "question": "cause", "idx": 483}
+{"premise": "Čovek izgubija živci.", "choice1": "Isključija kompjuter.", "choice2": "Frljija stolicu preko sobu.", "question": "effect", "idx": 484}
+{"premise": "Devojka frljila šumku u logorsku vatru.", "choice1": "Šumka izgorela.", "choice2": "Vatra zagasnula.", "question": "effect", "idx": 485}
+{"premise": "Čovek iskočija iz tuš-kabinu.", "choice1": "Nestanula topla voda.", "choice2": "Ne mogja nađe peškir.", "question": "cause", "idx": 486}
+{"premise": "Roditelji teli da gi deca idev na fakultet.", "choice1": "Šparali za školarinu.", "choice2": "Ohrabruvali deca da se igrav napolje.", "question": "effect", "idx": 487}
+{"premise": "Čovek otperklaja cipele.", "choice1": "Cipele se olabile.", "choice2": "Cipele se izlizale.", "question": "effect", "idx": 488}
+{"premise": "Čovek izeja pola jelo.", "choice1": "Ostaci gi turija u frižider.", "choice2": "Sačuvaja recept.", "question": "effect", "idx": 489}
+{"premise": "Zglob mi otekja.", "choice1": "Turija sam led na njega.", "choice2": "Utrljaja sam ga sas losion.", "question": "effect", "idx": 490}
+{"premise": "Vrata od moju kancelariju bili otvoreni.", "choice1": "Zborija sam sas kolegu kude moj pisaći astal.", "choice2": "Načuja sam razgovor u kodnik.", "question": "effect", "idx": 491}
+{"premise": "Moraja sam čekam u red.", "choice1": "Sednаja sam.", "choice2": "Prelistavaja sam časopis.", "question": "effect", "idx": 492}
+{"premise": "Čovek zamanuja nakude mušicu.", "choice1": "Mušica odzujala.", "choice2": "Mušica ostanula mirna.", "question": "effect", "idx": 493}
+{"premise": "Čovek sastavija testamenat.", "choice1": "Umiraja.", "choice2": "Bija udаvac.", "question": "cause", "idx": 494}
+{"premise": "Trkač osićaja da će ga konkurenat stigne.", "choice1": "Odustaja od trku.", "choice2": "Ubrzaja se.", "question": "effect", "idx": 495}
+{"premise": "Pažljivo sam promislija od problem.", "choice1": "Pitaja sam za savet.", "choice2": "Našja sam rešenje.", "question": "effect", "idx": 496}
+{"premise": "Putnik šetaja po klimav viseći mos.", "choice1": "Bija preplašen.", "choice2": "Bija uzbuđen.", "question": "effect", "idx": 497}
+{"premise": "Čovek očekivaja da njigov tim pobedi.", "choice1": "Našja se s prijatelji da gledav utakmicu.", "choice2": "Kladija se sas prijatelji.", "question": "effect", "idx": 498}
+{"premise": "Dečak ne mogja se uspije.", "choice1": "Navija alarm.", "choice2": "Brojija ovce.", "question": "effect", "idx": 499}

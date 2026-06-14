@@ -1,0 +1,1402 @@
+[
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.57,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.57
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.57,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.57
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.92,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.92
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.95,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.95
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.9,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.9
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.85,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.85
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.91,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.91
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.63,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.63
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.75,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.75
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.5,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.5
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.6,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.6
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.84,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.84
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.9,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.9
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.84,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.84
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.86,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.86
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.87,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.87
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.93,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.93
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.48,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.48
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.5,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.5
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.83,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.83
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.92,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.92
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.54,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.54
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.85,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.85
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.93,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.93
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.6,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.6
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.53,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.53
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.89,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.89
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.55,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.55
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.49,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.49
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.89,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.89
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.6,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.6
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.48,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.48
+      }
+    }
+  },
+  {
+    "Model": "gemma3:27b",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "deepseek-r1:14b",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 0.73,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 0.73
+      }
+    }
+  },
+  {
+    "Model": "llama3.3:latest",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.87,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.87
+      }
+    }
+  },
+  {
+    "Model": "qwen3:32b",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.54,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.54
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.86,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.86
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.78,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.78
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.79,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.79
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.8,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.8
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.88,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.88
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.78,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.78
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.74,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.74
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.49,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.49
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.78,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.78
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.95,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.95
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "gpt-4o-2024-08-06",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.59,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.59
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.5,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.5
+      }
+    }
+  },
+  {
+    "Model": "gpt-3.5-turbo-0125",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.88,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.88
+      }
+    }
+  },
+  {
+    "Model": "gpt-5-2025-08-07",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.76,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.76
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.95,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.95
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.62,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.62
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.86,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.86
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.77,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.77
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.61,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.61
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.92,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.92
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.93,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.93
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.95,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.95
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.53,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.53
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.57,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.57
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.91,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.91
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.89,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.89
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.5,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.5
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.95,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.95
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.93,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.93
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.95,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.95
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.79,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.79
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.48,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.48
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.84,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.84
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.73,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.73
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.87,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.87
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.82,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.82
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.72,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.72
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.76,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.76
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 0.94,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 0.94
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 0.75,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 0.75
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.79,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.79
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.72,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.72
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.76,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.76
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.74,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.74
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 0.97,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 0.97
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.58,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.58
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.51,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.51
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.58,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.58
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 0.85,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 0.85
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.87,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.87
+      }
+    }
+  },
+  {
+    "Model": "GaMS-27B-quantized",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.81,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.81
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-bg",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "bg": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-sl",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "sl": {
+        "Accuracy": 1.0
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-sr_latn",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "sr_latn": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-bs",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "bs": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-hr",
+    "Accuracy": 0.99,
+    "Language-Specific Scores": {
+      "hr": {
+        "Accuracy": 0.99
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-sl-cer",
+    "Accuracy": 0.92,
+    "Language-Specific Scores": {
+      "sl-cer": {
+        "Accuracy": 0.92
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-en",
+    "Accuracy": 0.96,
+    "Language-Specific Scores": {
+      "en": {
+        "Accuracy": 0.96
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-sr_cyrl",
+    "Accuracy": 0.98,
+    "Language-Specific Scores": {
+      "sr_cyrl": {
+        "Accuracy": 0.98
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-hr-ckm",
+    "Accuracy": 0.73,
+    "Language-Specific Scores": {
+      "hr-ckm": {
+        "Accuracy": 0.73
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3-flash-preview",
+    "Test Dataset": "piqa-mk",
+    "Accuracy": 1.0,
+    "Language-Specific Scores": {
+      "mk": {
+        "Accuracy": 1.0
+      }
+    }
+  }
+]
