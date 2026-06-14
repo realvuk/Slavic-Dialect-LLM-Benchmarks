@@ -46,12 +46,10 @@ TARGET_DATASETS = [
     "sl_prl",
 ]
 
-
 def load_true_labels(dataset_name: str):
     """Load ground-truth labels from the TSV test file (label column)."""
     df = pd.read_csv(DATA_DIR / f"{dataset_name}.tsv", sep="\t")
     return df["label"].tolist()
-
 
 def evaluate(submission_folder: Path) -> list[dict]:
     RESULTS_DIR.mkdir(exist_ok=True)
@@ -98,7 +96,6 @@ def evaluate(submission_folder: Path) -> list[dict]:
           f"Results written to {results_path}")
     return results_list
 
-
 def write_tables(results_list: list[dict]) -> None:
     result_df = pd.DataFrame(results_list)
     master_path = TABLES_DIR / "language-specific-results.md"
@@ -131,7 +128,6 @@ def write_tables(results_list: list[dict]) -> None:
 
     print(f"\nLanguage-specific results written to {master_path}")
 
-
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__,
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -141,7 +137,6 @@ def main() -> None:
 
     results_list = evaluate(Path(args.submission))
     write_tables(results_list)
-
 
 if __name__ == "__main__":
     main()

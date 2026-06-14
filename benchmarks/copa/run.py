@@ -18,7 +18,7 @@ Usage examples
     python run.py --force                            # clean re-run of everything
 
 The OpenRouter key is read from ``OPENROUTER_API_KEY`` (see ``.env.example`` at
-the repo root). No key is ever hardcoded.
+the repo root).
 """
 from __future__ import annotations
 

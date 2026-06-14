@@ -1,11 +1,8 @@
 # Slavic-Dialect LLM Benchmarks
 
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
-[![Models via OpenRouter](https://img.shields.io/badge/models-OpenRouter-7c3aed)](https://openrouter.ai/)
-
 Zero-shot evaluation of large language models on **commonsense reasoning in
 South-Slavic languages, scripts, and dialects**. How well do frontier and open
-models reason in Croatian, Serbian, Slovenian, and Macedonian — and how much do
+models reason in Croatian, Serbian, Slovenian, and Macedonian, and how much do
 they *degrade* on low-resource dialects like Chakavian, Torlak, and the Cerkno
 and Prlekija varieties of Slovenian?
 

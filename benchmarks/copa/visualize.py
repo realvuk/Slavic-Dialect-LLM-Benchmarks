@@ -24,7 +24,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-# ── Configuration ─────────────────────────────────────────────────────────────
+# Configuration
 HERE = Path(__file__).resolve().parent
 RESULTS_PATH = HERE / "results" / "all_results.json"
 OUTPUT_DIR = HERE / "results" / "plots"
@@ -37,11 +37,11 @@ ANNOT_FONTSIZE = 14
 
 # COPA lang codes are dataset_name.replace("copa-", "") — keys must match results exactly.
 LANG_DISPLAY = {
-    "en": "English",
-    "sl": "Slovenian",
-    "hr": "Croatian",
-    "mk": "Macedonian",
-    "sr": "Serbian",
+    "en":     "English",
+    "sl":     "Slovenian",
+    "hr":     "Croatian",
+    "mk":     "Macedonian",
+    "sr":     "Serbian",
     "hr-ckm": "Chakavian",
     "sl-cer": "Slovenian Cerkno",
     "sr-tor": "Serbian Torlak",
@@ -83,7 +83,7 @@ RENAME_DICT = {
     "mistralai/mistral-large-2512": "Mistral Large",
     "mistralai/mistral-small-2603": "Mistral Small",
     "meta-llama/llama-4-maverick": "Llama 4 Maverick",
-    # taja-run (local/Ollama) model ids
+    # old-run model ids
     "gpt-5-2025-08-07": "GPT-5",
     "gpt-4o-2024-08-06": "GPT-4o",
     "gpt-3.5-turbo-0125": "GPT-3.5 Turbo",
@@ -99,7 +99,7 @@ EXCLUDE_MODELS = [
     "dummy-most_frequent", "dummy-stratified",
 ]
 
-# Custom row order — models absent from the data are silently skipped.
+# Custom row order, models absent from the data are silently skipped.
 CUSTOM_ORDER = [
     # OpenAI
     "GPT-5.4 Pro", "GPT-5.4", "GPT-5", "GPT-4o", "GPT-3.5 Turbo",
@@ -117,7 +117,7 @@ CUSTOM_ORDER = [
 ]
 
 
-# ── Data Processing ───────────────────────────────────────────────────────────
+# Data Processing
 def load_and_process_data(filepath: Path, setup_filter=None) -> pd.DataFrame:
     results = json.loads(Path(filepath).read_text())
 
@@ -162,7 +162,7 @@ def load_and_process_data(filepath: Path, setup_filter=None) -> pd.DataFrame:
     return df[ordered_cols + remaining]
 
 
-# ── Visualizations ────────────────────────────────────────────────────────────
+# Visualizations
 def plot_bar_chart(df: pd.DataFrame, output_dir: Path, setup_filter=None) -> None:
     df_t = df.T
     df_t.index.name = "Language"
@@ -195,8 +195,6 @@ def plot_bar_chart(df: pd.DataFrame, output_dir: Path, setup_filter=None) -> Non
 
 
 def plot_heatmap(df: pd.DataFrame, output_dir: Path) -> None:
-    # Canvas scales with the data so each cell is the same physical size in both
-    # the PIQA and COPA figures (identical style, comparable side by side).
     fig, ax = plt.subplots(
         figsize=(max(8, len(df.columns) * 1.2), max(4, len(df) * 0.6)), dpi=300
     )
@@ -226,7 +224,7 @@ def plot_heatmap(df: pd.DataFrame, output_dir: Path) -> None:
     print(f"Heatmap saved: {output_path}")
 
 
-# ── Execution ─────────────────────────────────────────────────────────────────
+# Execution
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

@@ -24,7 +24,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-# ── Configuration ─────────────────────────────────────────────────────────────
+# Configuration
 HERE = Path(__file__).resolve().parent
 RESULTS_PATH = HERE / "results" / "all_results.json"
 OUTPUT_DIR = HERE / "results" / "plots"
@@ -39,20 +39,20 @@ ANNOT_FONTSIZE = 14
 # Keys must match the language codes in all_results.json, which combine_results.py
 # normalises to short COPA-style codes (eng_latin -> en, srp_latin -> sr_latn, ...).
 LANG_DISPLAY = {
-    "hr-ckm": "Chakavian",
-    "en": "English",
-    "hr": "Croatian",
-    "mk": "Macedonian",
-    "sl-cer": "Slovenian Cerkno",
-    "sl": "Slovenian",
-    "sr_cyrl": "Serbian (Cyrillic)",
-    "sr_latn": "Serbian (Latin)",
+    "hr-ckm":      "Chakavian",
+    "en":          "English",
+    "hr":          "Croatian",
+    "mk":          "Macedonian",
+    "sl-cer":      "Slovenian Cerkno",
+    "sl":          "Slovenian",
+    "sr_cyrl":     "Serbian (Cyrillic)",
+    "sr_latn":     "Serbian (Latin)",
     "sr-tor_cyrl": "Serbian Torlak (Cyrillic)",
-    "sl-prl": "Slovenian Prlekija",
+    "sl-prl":      "Slovenian Prlekija",
     "sr-tor_latn": "Serbian Torlak (Latin)",
 }
 
-# Desired column order — names must match LANG_DISPLAY values exactly.
+# Desired column order names must match LANG_DISPLAY values exactly.
 LANG_ORDER = [
     "English",
     "Slovenian",
@@ -88,7 +88,7 @@ RENAME_DICT = {
     "mistralai/mistral-large-2512": "Mistral Large",
     "mistralai/mistral-small-2603": "Mistral Small",
     "meta-llama/llama-4-maverick": "Llama 4 Maverick",
-    # taja-run (local/Ollama) model ids
+    # old-run model ids
     "gpt-5-2025-08-07": "GPT-5",
     "gpt-4o-2024-08-06": "GPT-4o",
     "gpt-3.5-turbo-0125": "GPT-3.5 Turbo",
@@ -99,7 +99,7 @@ RENAME_DICT = {
 # Models to drop from the figure (matched against raw id or renamed name).
 EXCLUDE_MODELS = ["Gemma 3 27B IT", "DeepSeek R1 14B", "GaMS-27B (quant.)"]
 
-# Custom row order — models absent from the data are silently skipped.
+# Custom row order models absent from the data are silently skipped.
 CUSTOM_ORDER = [
     # OpenAI
     "GPT-5.4 Pro", "GPT-5.4", "GPT-5", "GPT-4o", "GPT-3.5 Turbo",
@@ -117,7 +117,7 @@ CUSTOM_ORDER = [
 ]
 
 
-# ── Data Processing ───────────────────────────────────────────────────────────
+#cData Processing
 def load_and_process_data(filepath: Path, setup_filter=None) -> pd.DataFrame:
     results = json.loads(Path(filepath).read_text())
 
@@ -181,7 +181,7 @@ def load_and_process_data(filepath: Path, setup_filter=None) -> pd.DataFrame:
     return df[ordered_cols + remaining]
 
 
-# ── Visualizations ────────────────────────────────────────────────────────────
+# Visualizations
 def plot_bar_chart(df: pd.DataFrame, output_dir: Path, setup_filter=None) -> None:
     df_t = df.T
     df_t.index.name = "Language"
@@ -244,7 +244,7 @@ def plot_heatmap(df: pd.DataFrame, output_dir: Path) -> None:
     print(f"Heatmap saved: {output_path}")
 
 
-# ── Execution ─────────────────────────────────────────────────────────────────
+# Execution
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

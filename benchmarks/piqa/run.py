@@ -22,7 +22,7 @@ Usage examples
     python run.py --force
 
 The OpenRouter key is read from ``OPENROUTER_API_KEY`` (see ``.env.example`` at
-the repo root). No key is ever hardcoded.
+the repo root).
 """
 from __future__ import annotations
 
@@ -84,7 +84,6 @@ DEFAULT_DATASETS = [
 # 0/1, so 2 is unambiguous and lets evaluate.py / re-runs spot failed instances.
 SENTINEL = 2
 
-
 def build_client() -> OpenAI:
     """Construct the OpenRouter client from OPENROUTER_API_KEY."""
     load_dotenv(find_dotenv())
@@ -95,7 +94,6 @@ def build_client() -> OpenAI:
             "root and add your OpenRouter key (https://openrouter.ai/keys)."
         )
     return OpenAI(base_url="https://openrouter.ai/api/v1", api_key=api_key)
-
 
 def is_failed_submission(path: Path, fail_ratio: float = 0.9) -> bool:
     """Return True if a submission file is mostly sentinels (a failed run)."""
@@ -108,7 +106,6 @@ def is_failed_submission(path: Path, fail_ratio: float = 0.9) -> bool:
         return (n_sentinel / len(preds)) >= fail_ratio
     except Exception:
         return True  # unreadable/corrupt -> treat as failed
-
 
 def extract_answer(raw: str):
     """Two-stage parse: strict JSON first, then a regex fallback.
@@ -142,7 +139,6 @@ def extract_answer(raw: str):
 
     return None
 
-
 def build_prompt(entry) -> str:
     return (
         f"### Task\n"
@@ -156,7 +152,6 @@ def build_prompt(entry) -> str:
         f"or 1 (if option 1 is more plausible). "
         f"Answer ONLY with the JSON dictionary, no explanation."
     )
-
 
 def predict(client: OpenAI, dataset: str, model: str, *, force: bool,
             keep_failed: bool, fail_ratio: float, max_tokens: int) -> None:

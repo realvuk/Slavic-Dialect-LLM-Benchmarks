@@ -38,6 +38,7 @@ DATASETS = [
     "copa-en", "copa-sl", "copa-hr", "copa-hr-ckm",
     "copa-mk", "copa-sl-cer", "copa-sr", "copa-sr-tor", "copa-sl-prl",
 ]
+
 LANGUAGES = [d.replace("copa-", "") for d in DATASETS]
 
 

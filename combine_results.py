@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
-"""Merge each benchmark's own runs with the collaborator ("taja") baseline runs
+"""Merge each benchmark's own runs with the old baseline runs
 into a single ``all_results.json`` per task, which the visualize scripts read.
 
 For each task it concatenates:
     benchmarks/<task>/results/results.json        # this project's OpenRouter runs
-    benchmarks/<task>/results/taja_results.json    # baseline runs from a collaborator
+    benchmarks/<task>/results/taja_results.json    # baseline runs from a previous project
 
 normalises every row to a common shape (a short language code, plus a "Source"
 tag of "new" or "taja"), sorts by (language, model), and writes:
     benchmarks/<task>/results/all_results.json
 
-Run from anywhere — paths resolve relative to this file.
+Run from anywhere, paths resolve relative to this file.
 
 Usage:
     python combine_results.py
@@ -25,24 +25,23 @@ ROOT = Path(__file__).resolve().parent
 # (path relative to ROOT, task, source)
 FILES = [
     ("benchmarks/copa/results/results.json", "copa", "new"),
-    ("benchmarks/copa/results/taja_results.json", "copa", "taja"),
+    ("benchmarks/copa/results/old_results.json", "copa", "taja"),
     ("benchmarks/piqa/results/results.json", "piqa", "new"),
-    ("benchmarks/piqa/results/taja_results.json", "piqa", "taja"),
+    ("benchmarks/piqa/results/old_results.json", "piqa", "taja"),
 ]
 
-# New PIQA run stems -> short language codes used by the taja files (minus "piqa-").
 PIQA_NEW_LANG = {
-    "eng_latin": "en",
-    "hrv_latin": "hr",
-    "ckm_latin": "hr-ckm",
-    "mkd_cyrl": "mk",
-    "slv_latin": "sl",
+    "eng_latin":      "en",
+    "hrv_latin":      "hr",
+    "ckm_latin":      "hr-ckm",
+    "mkd_cyrl":       "mk",
+    "slv_latin":      "sl",
     "slv_latin_cerk": "sl-cer",
-    "sl_prl": "sl-prl",
-    "srp_cyrl": "sr_cyrl",
-    "srp_latin": "sr_latn",
-    "srp_tor_cyrl": "sr-tor_cyrl",
-    "srp_tor_latin": "sr-tor_latn",
+    "sl_prl":         "sl-prl",
+    "srp_cyrl":       "sr_cyrl",
+    "srp_latin":      "sr_latn",
+    "srp_tor_cyrl":   "sr-tor_cyrl",
+    "srp_tor_latin":  "sr-tor_latn",
 }
 
 OUTPUTS = {

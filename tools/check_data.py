@@ -37,7 +37,7 @@ def inspect(data_dir: Path) -> None:
         labels = [r["label"] for r in records if "label" in r]
         changed = [r["changed"] for r in records if "changed" in r]
 
-        print(f"\n📄 {Path(filepath).name}")
+        print(f"\n {Path(filepath).name}")
         print(f"   Total records : {len(records)}")
         print(f"   Label dist    : {Counter(labels)}")
         print(f"   Changed dist  : {Counter(changed)}")
