@@ -9,7 +9,7 @@ repo-root ``combine_results.py``) and writes two publication-style figures to
     paper_bar_chart.png   grouped bars per language
 
 The figure style matches the PIQA script so the two benchmarks can sit side by
-side. This stage needs no API key.
+side.
 
 Usage:
     python visualize.py
@@ -46,6 +46,7 @@ LANG_DISPLAY = {
     "sl-cer": "Slovenian Cerkno",
     "sr-tor": "Serbian Torlak",
     "sl-prl": "Slovenian Prlekija",
+    "sr-satro": "Serbian Satro",
 }
 
 # Desired column order — standard languages first, then dialect varieties.
@@ -59,6 +60,7 @@ LANG_ORDER = [
     "Chakavian",
     "Serbian Torlak",
     "Slovenian Prlekija",
+    "Serbian Satro",
 ]
 
 RENAME_DICT = {

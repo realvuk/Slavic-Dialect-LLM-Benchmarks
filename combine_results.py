@@ -42,6 +42,7 @@ PIQA_NEW_LANG = {
     "srp_latin":      "sr_latn",
     "srp_tor_cyrl":   "sr-tor_cyrl",
     "srp_tor_latin":  "sr-tor_latn",
+    "srp_satro":      "sr-satro",
 }
 
 OUTPUTS = {

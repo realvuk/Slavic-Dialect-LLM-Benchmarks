@@ -38,26 +38,14 @@ DATA_DIR = HERE / "data"
 SUBMISSIONS_DIR = HERE / "submissions"
 
 DEFAULT_MODELS = [
-    "google/gemini-3.1-pro-preview",
-    "anthropic/claude-opus-4.6",
-    "google/gemini-3.1-flash-lite-preview",
-    "anthropic/claude-sonnet-4.6",
-    "openai/gpt-5",
-    "google/gemini-2.5-pro",
-    "google/gemini-2.5-flash",
-    "openai/gpt-4o",
-    "anthropic/claude-haiku-4.5",
-    "mistralai/mistral-medium-3.1",
-    "meta-llama/llama-3.3-70b-instruct",
-    "google/gemma-4-31b-it",
-    "google/gemma-4-26b-a4b-it",
-    "qwen/qwen3-32b",
-    "openai/gpt-3.5-turbo",
-    "openai/gpt-5.4-pro",
-    "openai/gpt-5.4",
-    "mistralai/mistral-large-2512",
-    "mistralai/mistral-small-2603",
-    "meta-llama/llama-4-maverick",
+    "gemma4:31b",
+    "gemma4:26b",
+    "gemma4:12b",
+    "gemma4:e4b",
+    "gemma4:e2b",
+    "gemma3:27b",
+    "qwen3-vl:30b",
+    "gpt-oss:20b",
 ]
 
 # Dataset stems matching the *-test.jsonl files in data/.
@@ -76,19 +64,15 @@ DEFAULT_DATASETS = [
 
 
 def build_client() -> OpenAI:
-    """Construct the OpenRouter client from OPENROUTER_API_KEY."""
-    load_dotenv(find_dotenv())
-    api_key = os.environ.get("OPENROUTER_API_KEY")
-    if not api_key:
-        raise SystemExit(
-            "OPENROUTER_API_KEY is not set. Copy .env.example to .env at the repo "
-            "root and add your OpenRouter key (https://openrouter.ai/keys)."
-        )
-    return OpenAI(base_url="https://openrouter.ai/api/v1", api_key=api_key)
+    """Talk to the local Ollama server (OpenAI-compatible endpoint)."""
+    return OpenAI(
+        base_url="http://localhost:11434/v1",
+        api_key="ollama",  # required by the SDK, ignored by Ollama
+    )
 
 
 def get_completion(client: OpenAI, model: str, prompt: str, retries: int = 3):
-    """Request a JSON-object completion with exponential backoff and timeout."""
+    """Request a JSON-object completion with exponential backoff."""
     for attempt in range(retries):
         try:
             completion = client.chat.completions.create(
@@ -96,7 +80,6 @@ def get_completion(client: OpenAI, model: str, prompt: str, retries: int = 3):
                 response_format={"type": "json_object"},
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0,
-                timeout=20.0  # Force a timeout after 20 seconds
             )
             choice = completion.choices[0] if completion.choices else None
             content = choice.message.content if choice else None
@@ -110,11 +93,7 @@ def get_completion(client: OpenAI, model: str, prompt: str, retries: int = 3):
             )
         except Exception as e:
             print(f"  request failed: {e}, retry {attempt + 1}/{retries}")
-        
-        # Avoid sleeping on the final failed attempt
-        if attempt < retries - 1:
-            time.sleep(2**attempt)
-            
+        time.sleep(2**attempt)
     return None
 
 
@@ -165,24 +144,16 @@ def predict(client: OpenAI, dataset: str, model: str, *, force: bool) -> None:
 
     responses = []
     start = time.time()
-    for i, line in enumerate(open(data_path)):
+    for line in open(data_path):
         line = line.strip()
         if not line:
             continue
-        
-        # Log the current instance to track progress
-        print(f"  [Instance {i}] Requesting completion...", end="\r")
-        
         entry = json.loads(line)
         prompt = build_prompt(entry, dataset)
 
         raw = get_completion(client, model, prompt)
-        
-        # Clear the line
-        print(" " * 60, end="\r")
-
         if raw is None:
-            print(f"  [Instance {i}] No usable output, defaulting to 0")
+            print(f"  instance {len(responses)}: no usable output, defaulting to 0")
             responses.append(0)
             continue
 
@@ -190,7 +161,7 @@ def predict(client: OpenAI, dataset: str, model: str, *, force: bool) -> None:
         if match:
             responses.append(int(match.group(1)) - 1)  # store 0-indexed
         else:
-            print(f"  [Instance {i}] Could not parse answer from: {raw[:120]!r}")
+            print(f"  could not parse answer from: {raw[:120]!r}")
             responses.append(0)
 
     elapsed = time.time() - start

@@ -18,6 +18,7 @@ Usage:
     python evaluate.py                 # scores ./submissions
     python evaluate.py path/to/subs    # scores a different folder
 """
+
 from __future__ import annotations
 
 import argparse
@@ -35,8 +36,16 @@ RESULTS_DIR = HERE / "results"
 TABLES_DIR = RESULTS_DIR / "tables"
 
 DATASETS = [
-    "copa-en", "copa-sl", "copa-hr", "copa-hr-ckm",
-    "copa-mk", "copa-sl-cer", "copa-sr", "copa-sr-tor", "copa-sl-prl",
+    #"copa-en",
+    #"copa-sl",
+    #"copa-hr",
+    #"copa-hr-ckm",
+    #"copa-mk",
+    #"copa-sl-cer",
+    #"copa-sr",
+    #"copa-sr-tor",
+    #"copa-sl-prl",
+    "copa-sr-satro",
 ]
 
 LANGUAGES = [d.replace("copa-", "") for d in DATASETS]
@@ -132,8 +141,10 @@ def evaluate(submission_folder: Path) -> list[dict]:
     results_list = list(results.values())
     results_path.write_text(json.dumps(results_list, indent=2))
 
-    print(f"\nAll evaluations completed ({len(results_list)} model×dataset rows). "
-          f"Results written to {results_path}")
+    print(
+        f"\nAll evaluations completed ({len(results_list)} model×dataset rows). "
+        f"Results written to {results_path}"
+    )
     if skipped:
         print(f"\n{len(skipped)} submission(s) skipped:")
         for name, reason in skipped:
@@ -171,21 +182,21 @@ def write_tables(results_list: list[dict]) -> None:
     for result in results_list:
         lang = result["Test Dataset"].replace("copa-", "")
         if lang in result.get("Language-Specific Scores", {}):
-            lang_rows.append({
-                "Model": result["Model"],
-                "Test Dataset": result["Test Dataset"],
-                "Language": lang,
-                "Accuracy": result["Language-Specific Scores"][lang]["Accuracy"],
-            })
+            lang_rows.append(
+                {
+                    "Model": result["Model"],
+                    "Test Dataset": result["Test Dataset"],
+                    "Language": lang,
+                    "Accuracy": result["Language-Specific Scores"][lang]["Accuracy"],
+                }
+            )
 
     lang_df = pd.DataFrame(lang_rows)
     master_path = TABLES_DIR / "language-specific-results.md"
     with open(master_path, "w") as f:
         for lang in LANGUAGES:
             subset = (
-                lang_df[lang_df["Language"] == lang]
-                .sort_values("Accuracy", ascending=False)
-                .copy()
+                lang_df[lang_df["Language"] == lang].sort_values("Accuracy", ascending=False).copy()
             )
             if subset.empty:
                 continue
@@ -198,10 +209,15 @@ def write_tables(results_list: list[dict]) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description=__doc__,
-                                     formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("submission", nargs="?", default=str(HERE / "submissions"),
-                        help="Folder of submission JSON files (default: ./submissions).")
+    parser = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
+    parser.add_argument(
+        "submission",
+        nargs="?",
+        default=str(HERE / "submissions"),
+        help="Folder of submission JSON files (default: ./submissions).",
+    )
     args = parser.parse_args()
 
     results_list = evaluate(Path(args.submission))

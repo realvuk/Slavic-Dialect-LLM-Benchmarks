@@ -1078,5 +1078,205 @@
         "Accuracy": 0.982
       }
     }
+  },
+  {
+    "Model": "meta-llama/llama-4-maverick",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.538,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.538
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-large-2512",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.526,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.526
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-haiku-4.5",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.528,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.528
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-opus-4.6",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.89,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.89
+      }
+    }
+  },
+  {
+    "Model": "anthropic/claude-sonnet-4.6",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.756,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.756
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-flash",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.604,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.604
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-2.5-pro",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.902,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.902
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-flash-lite-preview",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.606,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.606
+      }
+    }
+  },
+  {
+    "Model": "google/gemini-3.1-pro-preview",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.988,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.988
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-26b-a4b-it",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.566,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.566
+      }
+    }
+  },
+  {
+    "Model": "google/gemma-4-31b-it",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.516,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.516
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-3.5-turbo",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.498,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.498
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-4o",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.59,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.59
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.89,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.89
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.584,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.584
+      }
+    }
+  },
+  {
+    "Model": "openai/gpt-5.4-pro",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.984,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.984
+      }
+    }
+  },
+  {
+    "Model": "meta-llama/llama-3.3-70b-instruct",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.538,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.538
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-medium-3.1",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.58,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.58
+      }
+    }
+  },
+  {
+    "Model": "mistralai/mistral-small-2603",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.532,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.532
+      }
+    }
+  },
+  {
+    "Model": "qwen/qwen3-32b",
+    "Test Dataset": "copa-sr-satro",
+    "Accuracy": 0.546,
+    "Language-Specific Scores": {
+      "sr-satro": {
+        "Accuracy": 0.546
+      }
+    }
   }
 ]
