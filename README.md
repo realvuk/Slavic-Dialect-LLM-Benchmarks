@@ -18,21 +18,7 @@ Each benchmark has its own README with data-format and language details.
 
 ## The pipeline
 
-Both benchmarks follow the same four stages:
 
-```
-            ┌─────────────┐   run.py    ┌──────────────┐  evaluate.py  ┌──────────────┐
-   data/ ──▶│  1. RUN     │────────────▶│ submissions/ │──────────────▶│ results.json │
- (tsv/jsonl)│  query LLMs │             │   *.json     │   vs. gold    │  + tables/   │
-            └─────────────┘             └──────────────┘               └──────┬───────┘
-                                                                              │
-   taja_results.json (collaborator baselines) ──┐                             │
-                                                 ▼  combine_results.py        ▼
-                                          ┌──────────────────┐   visualize.py ┌──────────┐
-                                          │ all_results.json │───────────────▶│ plots/   │
-                                          └──────────────────┘                │ *.png    │
-                                                                              └──────────┘
-```
 
 1. **Run** — `run.py` queries each OpenRouter model on each dataset and writes a
    `submission-<model>-<dataset>.json` per run. Resume-safe.
