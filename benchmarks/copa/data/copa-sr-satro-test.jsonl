@@ -1,0 +1,500 @@
+{"premise": "метПред је оби ванзапако у вупуцкета јуфоли.", "choice1": "оБи је мљивло.", "choice2": "оБи је лима.", "question": "cause", "label": 0, "idx": 0, "changed": false}
+{"premise": "оИспразни сам веџепо.", "choice1": "оНаша сам оде цеулазни.", "choice2": "оПронаша сам јеоруж.", "question": "effect", "label": 0, "idx": 1, "changed": false}
+{"premise": "тиТерми су линапа ћуку.", "choice1": "тиТерми су линеста из ћеку.", "choice2": "тиТерми су липоје све нодрве у ћику.", "question": "effect", "label": 1, "idx": 2, "changed": false}
+{"premise": "циПутни су глисти до цеграни.", "choice1": "никЦари им је опрегледа шепасо.", "choice2": "никЦари их је ооптужи за њекријумчаре.", "question": "effect", "label": 0, "idx": 3, "changed": false}
+{"premise": "јаКанцелари је лаби назатворе.", "choice1": "оБи је зникпра.", "choice2": "лоБи је толе.", "question": "cause", "label": 0, "idx": 4, "changed": false}
+{"premise": "цаДевојчи је лапотроши сву јуенерги.", "choice1": "лаИгра је шах.", "choice2": "лаПрескака је пацконо.", "question": "cause", "label": 1, "idx": 5, "changed": false}
+{"premise": "наЖе је лаизгуби стоме у дуре.", "choice1": "шеВи диљу је шлоу у ред.", "choice2": "шлаИза је из даре.", "question": "cause", "label": 1, "idx": 6, "changed": false}
+{"premise": "цаДевојчи је лазапуши нос.", "choice1": "баБе је лабали по клипорти.", "choice2": "баБе је ланапуни нупеле.", "question": "cause", "label": 1, "idx": 7, "changed": false}
+{"premise": "Бенд је освира свој хит.", "choice1": "каПубли је латапша уз кумузи.", "choice2": "каПубли је воучти ласлуша у нитиши.", "question": "effect", "label": 0, "idx": 8, "changed": false}
+{"premise": "цаДевојчи је лажеле да се лизахва цинаставни кематемати.", "choice1": "цаДевојчи је по зника лаоста слепо венаста.", "choice2": "цаДевојчи је ладоне цинаставни кујабу.", "question": "effect", "label": 1, "idx": 9, "changed": false}
+{"premise": "диМла рикампе су либи ниуплаше.", "choice1": "дичВо им је оисприча нустраш чупри.", "choice2": "клиПе су либе слез на скојлогор трива.", "question": "cause", "label": 0, "idx": 10, "changed": false}
+{"premise": "векЧо је оудари вугла.", "choice1": "оИзгуби се у мамисли.", "choice2": "оДоби је треспо згамо.", "question": "effect", "label": 1, "idx": 11, "changed": false}
+{"premise": "Чек јико сам лапопуни јени оима ћепокри.", "choice1": "чунРа у цибан ми је оби занпра.", "choice2": "лаЗаради сам цуповиши.", "question": "cause", "label": 0, "idx": 12, "changed": false}
+{"premise": "воЧовеко мноприје чесанду е-штепо је лоби нопу нихнежеље капору.", "choice1": "оИзбриса је ненежеље кепору.", "choice2": "оПосла је нумасов е-купору.", "question": "effect", "label": 0, "idx": 13, "changed": false}
+{"premise": "нарМор је вљенста у тинкаран.", "choice1": "оБи је женизло стиболе.", "choice2": "оОпорави се од стиболе.", "question": "cause", "label": 0, "idx": 14, "changed": false}
+{"premise": "каДевој је лазапамти фруши.", "choice1": "лаПонавља ју је у бисе.", "choice2": "лаЗаборави је да је шезапи.", "question": "cause", "label": 0, "idx": 15, "changed": false}
+{"premise": "оСипа сам дуво у шуча.", "choice1": "даВо ми је лаугаси жеђ.", "choice2": "шаЧа се ланапуни.", "question": "effect", "label": 1, "idx": 16, "changed": false}
+{"premise": "векЧо је оћута дака је говње тељприја опреста да ригово.", "choice1": "оЖеле је да жипру љупријате шкуподр.", "choice2": "оРазмишља је маречи свог љапријате.", "question": "cause", "label": 1, "idx": 17, "changed": false}
+{"premise": "Ја сам лаби вакри за ћунесре.", "choice1": "лаОсећа сам цукриви.", "choice2": "лаПодне сам жбуту.", "question": "effect", "label": 0, "idx": 18, "changed": false}
+{"premise": "нацЛа се опокида.", "choice1": "нацЛа је оби танобмо коо мегу.", "choice2": "нацЛа је оима нуполомље кукари.", "question": "cause", "label": 1, "idx": 19, "changed": false}
+{"premise": "Пар се оодлучи на мискомпро.", "choice1": "лиУмори су се од вераспра.", "choice2": "лиИзбегава су ворразго о мупробле.", "question": "cause", "label": 0, "idx": 20, "changed": false}
+{"premise": "наЖе је лаодлучи да се јекандиду на маизбори.", "choice1": "лаАнгажова је раменаџе њекампа.", "choice2": "лаСведочи је на дусу.", "question": "effect", "label": 0, "idx": 21, "changed": false}
+{"premise": "векЧо је оочекива днохла мевре на њупутова.", "choice1": "оСпакова је плуто ћуоде у ферко.", "choice2": "оПутова је са кимвели ромкофе.", "question": "effect", "label": 0, "idx": 22, "changed": false}
+{"premise": "никУче је озна вородго на њепита.", "choice1": "оПодига је куру.", "choice2": "оГлупира се.", "question": "effect", "label": 0, "idx": 23, "changed": false}
+{"premise": "куЧове су чио лезасузи.", "choice1": "наПраши му је шлау у чио.", "choice2": "оСтави је незаштит ренаоча на чио.", "question": "cause", "label": 0, "idx": 24, "changed": false}
+{"premise": "каТакмичар је лапобеди у пет њатакмиче домзаре.", "choice1": "цаПротивни је лаоптужи да рава.", "choice2": "цаПротивни се ласажали над њом.", "question": "effect", "label": 0, "idx": 25, "changed": false}
+{"premise": "сорПрофе је опоцепа спити тастуден.", "choice1": "оУхвати је тастуден да рава.", "choice2": "риОдгово тастуден суни либи нитач.", "question": "cause", "label": 0, "idx": 26, "changed": false}
+{"premise": "оНаправи сам зупау у ругово.", "choice1": "оИзгуби сам глас.", "choice2": "оОста сам без хада.", "question": "cause", "label": 1, "idx": 27, "changed": false}
+{"premise": "таЗамрзну нахра се лаодмрзну.", "choice1": "лаСтави сам је у снумикротала.", "choice2": "лаПокри сам је номпластич јомфоли.", "question": "cause", "label": 0, "idx": 28, "changed": false}
+{"premise": "ниЗапосле се оправи да је станболе.", "choice1": "оИма је вегрче у кустома.", "choice2": "оХте је данслобо дан.", "question": "cause", "label": 1, "idx": 29, "changed": false}
+{"premise": "цаДевојчи је лаулете у зенба.", "choice1": "лаТрча је коо набазе.", "choice2": "лаСкочи је са цескакаони.", "question": "cause", "label": 1, "idx": 30, "changed": false}
+{"premise": "цеУлазни за филм су се лераспрода.", "choice1": "лаБи је рапремије мафил.", "choice2": "Филм је одоби шело кекрити.", "question": "cause", "label": 0, "idx": 31, "changed": false}
+{"premise": "векЧо је осмрша.", "choice1": "диЉу су га лиизбегава.", "choice2": "диЉу су га липохвали.", "question": "effect", "label": 1, "idx": 32, "changed": false}
+{"premise": "каДевој је ладоби вежуље на марука.", "choice1": "лаОткуца је смопи.", "choice2": "лаПопе се уз пацконо.", "question": "cause", "label": 1, "idx": 33, "changed": false}
+{"premise": "зантЦирку је ожонглира док је овози циклмоно.", "choice1": "каПубли је ноодушевље ланавија.", "choice2": "таАкроба се озаљуља на зутрапе.", "question": "effect", "label": 0, "idx": 34, "changed": false}
+{"premise": "оИзгуби сам њестрпље.", "choice1": "оЧека сам љапријате.", "choice2": "Мој тељприја је одоша на мевре.", "question": "cause", "label": 0, "idx": 35, "changed": false}
+{"premise": "неЗараће мљезе су лежеле мир.", "choice1": "леРазви су нонуклеар јеоруж.", "choice2": "леПреговара су о муспоразу.", "question": "effect", "label": 1, "idx": 36, "changed": false}
+{"premise": "векЧо је оузе лек за њеспава.", "choice1": "оПоста је спанпо.", "choice2": "оДоби је рутемперату.", "question": "effect", "label": 0, "idx": 37, "changed": false}
+{"premise": "наЖе је ланалете на веткре.", "choice1": "цаНоги такреве се ларазлабави.", "choice2": "лаДоби је цумодри на нуколе.", "question": "effect", "label": 1, "idx": 38, "changed": false}
+{"premise": "чакДе је остисну лонба.", "choice1": "лонБа је опука.", "choice2": "лонБа је оодлете.", "question": "effect", "label": 0, "idx": 39, "changed": false}
+{"premise": "циПутни су се липријави у скухотел бусо.", "choice1": "лиРаспакова су рекофе.", "choice2": "шлиОти су на дромаеро.", "question": "effect", "label": 0, "idx": 40, "changed": false}
+{"premise": "оЗагриза сам квубрес.", "choice1": "кваБрес се ланагњечи.", "choice2": "оПроли се сок.", "question": "effect", "label": 1, "idx": 41, "changed": false}
+{"premise": "кеРу су ми лепоста велепљи.", "choice1": "лаПоје сам нукроф.", "choice2": "лаВоле сам да демје ткосла.", "question": "cause", "label": 0, "idx": 42, "changed": false}
+{"premise": "оГурну сам тавра.", "choice1": "таВра су се лаотвори.", "choice2": "таВра су се лазакључа.", "question": "effect", "label": 0, "idx": 43, "changed": false}
+{"premise": "стиАктиви су либојкотова депроизво.", "choice1": "ниИзврше су витесто њаосигура таквалите на мапроизводи.", "choice2": "У њипроизвод дапроизво су лаучествова цаде.", "question": "cause", "label": 1, "idx": 44, "changed": false}
+{"premise": "оПробуши сам пуру у дузи.", "choice1": "Из перу је оиспуза миш.", "choice2": "Из перу је лаизлете напраши.", "question": "effect", "label": 1, "idx": 45, "changed": false}
+{"premise": "наЖе је лазавиде стрисе.", "choice1": "наЊе страсе је лаби насрећ.", "choice2": "наЊе страсе се ларазве.", "question": "cause", "label": 0, "idx": 46, "changed": false}
+{"premise": "лаПросу сам нови по љикошу.", "choice1": "лаСтави сам љукеце.", "choice2": "лаПромени сам љукошу.", "question": "effect", "label": 1, "idx": 47, "changed": false}
+{"premise": "каКасир је лаотвори сука.", "choice1": "пацКу је отражи свој никновча.", "choice2": "пацКу је опружи вацно.", "question": "cause", "label": 1, "idx": 48, "changed": false}
+{"premise": "ниУлич чармузи је опривука купубли.", "choice1": "диЉу су му лидава нишсит.", "choice2": "оОтера је купубли.", "question": "effect", "label": 0, "idx": 49, "changed": false}
+{"premise": "чићДеча је оплака код љедади.", "choice1": "лиНедостаја су му љиродите.", "choice2": "лоБи је мевре за нуужи.", "question": "cause", "label": 0, "idx": 50, "changed": false}
+{"premise": "дарРа тапило је ооткри јуолу.", "choice1": "лотПи се оудаљи од јеолу.", "choice2": "лотПи је опролете кроз јуолу.", "question": "effect", "label": 0, "idx": 51, "changed": false}
+{"premise": "Са тадрве је лоопада ћелиш.", "choice1": "ћеЛиш је лопромени јубо.", "choice2": "ћеЛиш се лонакупи на мљизе.", "question": "effect", "label": 1, "idx": 52, "changed": false}
+{"premise": "чакДе је оби женрасполо за кенесташлу.", "choice1": "оОдлучи је да граи текар са стромсе.", "choice2": "оОдлучи је да се линаша са стромсе.", "question": "effect", "label": 1, "idx": 53, "changed": false}
+{"premise": "теДе се ложали да рамо да деи у леттоа.", "choice1": "тацО му је ода сок да јепопи.", "choice2": "тацО је озаустави билаутомо на скојбензин пипум.", "question": "effect", "label": 1, "idx": 54, "changed": false}
+{"premise": "теДе је лопосу нухра за бери по муакварију.", "choice1": "баРи је лаискочи из маакварију.", "choice2": "баРи је лаплива ка нихра.", "question": "effect", "label": 1, "idx": 55, "changed": false}
+{"premise": "киПолитич виставо неже су се липромени.", "choice1": "шлаПре је у гудру јупарти.", "choice2": "лаУкључи се у тестпро.", "question": "effect", "label": 0, "idx": 56, "changed": false}
+{"premise": "никУмивао је оби шензапу.", "choice1": "оОтвори сам нуслави.", "choice2": "оСипа сам твосредс за њечишће даодво у гање.", "question": "effect", "label": 1, "idx": 57, "changed": false}
+{"premise": "циПутни су шлииза из заво.", "choice1": "Воз је остига у цустани.", "choice2": "Воз је озазвижда.", "question": "cause", "label": 0, "idx": 58, "changed": false}
+{"premise": "векЧо је опритисну женнавла клоппре на туковер.", "choice1": "оСтави је цумарки на раткове.", "choice2": "оЗалепи је туковер.", "question": "effect", "label": 1, "idx": 59, "changed": false}
+{"premise": "љиПријате су лиизгуби такткон.", "choice1": "лиУжива су номмеђусоб њудруже.", "choice2": "лиПресели су се у теразличи веградо.", "question": "cause", "label": 1, "idx": 60, "changed": false}
+{"premise": "ђаРачуново је шело лауправља масредстви јекомпани.", "choice1": "лаДоби је тказо на дномра стуме.", "choice2": "шлаОти је на скопородиљ твоодсус.", "question": "effect", "label": 0, "idx": 61, "changed": false}
+{"premise": "оПогледа сам на сат.", "choice1": "оЧу сам кока сат цаку.", "choice2": "оХте сам да димви коколи маи тиса.", "question": "cause", "label": 1, "idx": 62, "changed": false}
+{"premise": "каРу ми се лазгрчи.", "choice1": "оНаписа сам ставса комру.", "choice2": "наЖе и ја смо се лидржа за керу.", "question": "cause", "label": 0, "idx": 63, "changed": false}
+{"premise": "јакВи се озаврну.", "choice1": "оЗамени сам јакви.", "choice2": "оОкрену сам кључ.", "question": "cause", "label": 1, "idx": 64, "changed": false}
+{"premise": "Пар је опотписа воруго о пузаку наста.", "choice1": "Пар се оусели у стан.", "choice2": "Град је озапечати стан.", "question": "effect", "label": 0, "idx": 65, "changed": false}
+{"premise": "наЖе је ласеде љунапо на мутре.", "choice1": "лаЖеле је да дагле закзала цасун.", "choice2": "лаМисли је да је лавиде њуму.", "question": "cause", "label": 0, "idx": 66, "changed": false}
+{"premise": "векЧо је оноси слукпр за њеспасава у диво.", "choice1": "јеНи озна да вапли.", "choice2": "даВо је лаби ткапли.", "question": "cause", "label": 0, "idx": 67, "changed": false}
+{"premise": "наЖе је ланаправи нуслов шкугре у мупрогра за дуобра статек.", "choice1": "лаИзбриса је ментдоку.", "choice2": "лаПритисну је стерта за њебриса.", "question": "effect", "label": 1, "idx": 68, "changed": false}
+{"premise": "цаДевојчи се лахвали мадругови.", "choice1": "лаДоби је шуло нуоце.", "choice2": "лаПобеди је на њутакмиче.", "question": "cause", "label": 1, "idx": 69, "changed": false}
+{"premise": "њакТрав је оби њавблат.", "choice1": "лаЛи је шаки леце ћино.", "choice2": "оБи је пун вакоро.", "question": "cause", "label": 0, "idx": 70, "changed": false}
+{"premise": "наЖе се лауспава.", "choice1": "лаПрове је ноћ у лухоте.", "choice2": "лаЗаборави је да јенави никбудил.", "question": "cause", "label": 1, "idx": 71, "changed": false}
+{"premise": "векЧо се онамаза момкре за њесунча.", "choice1": "оСеде је у духла.", "choice2": "оОтиша је на жупла.", "question": "cause", "label": 1, "idx": 72, "changed": false}
+{"premise": "чиИстражива су липотврди јутеори.", "choice1": "чиИстражива су клипову јутеори.", "choice2": "гиДру су липрихвати јутеори.", "question": "effect", "label": 1, "idx": 73, "changed": false}
+{"premise": "чиНавија су лизвижда на циутакми.", "choice1": "лиМора су да се јуигра ципродуже.", "choice2": "јаСуди је одоне нупогреш куодлу.", "question": "cause", "label": 1, "idx": 74, "changed": false}
+{"premise": "лаУне сам јусво јукомбинаци у нацката.", "choice1": "лаЗакључа сам нацката.", "choice2": "нацКата се оотвори.", "question": "effect", "label": 1, "idx": 75, "changed": false}
+{"premise": "жваГу се лаповећа.", "choice1": "тацО је нуси опружи вацно.", "choice2": "тацО је озграби наси за куру.", "question": "effect", "label": 1, "idx": 76, "changed": false}
+{"premise": "Снег је облокира зниприла пут.", "choice1": "оСкупи сам снег у двугру.", "choice2": "оОчисти сам томлопа снег са тапу.", "question": "effect", "label": 1, "idx": 77, "changed": false}
+{"premise": "шиКајака су ливесла.", "choice1": "јакКа је остига до леоба.", "choice2": "јакКа је оудари у ласта.", "question": "effect", "label": 0, "idx": 78, "changed": false}
+{"premise": "цаДевојчи је лаизгуби луконтро над кломбици.", "choice1": "лаПусти је вљачупра.", "choice2": "лаЗаби се у дуогра.", "question": "effect", "label": 1, "idx": 79, "changed": false}
+{"premise": "лаУкључи сам торвентила.", "choice1": "даВо ме је лаиспрска по жико.", "choice2": "тлаОсе сам кока копре неме зипрела данхла здухва.", "question": "effect", "label": 1, "idx": 80, "changed": false}
+{"premise": "риСурфе су се ливрати на жупла.", "choice1": "лиБи су нинатопље домво.", "choice2": "лиВиде су луајку.", "question": "cause", "label": 1, "idx": 81, "changed": false}
+{"premise": "оИзвука сам чеп на дуодво дека.", "choice1": "даВо је лаисцури из дека.", "choice2": "даВо је лапљусну на под.", "question": "effect", "label": 0, "idx": 82, "changed": false}
+{"premise": "Муж је оосећа цукриви тоза што је овара нуже.", "choice1": "оОптужи ју је за твоневерс.", "choice2": "оПризна јој је јесво твоневерс.", "question": "effect", "label": 1, "idx": 83, "changed": false}
+{"premise": "лоМасти на рупосте се лоразмаза.", "choice1": "оЧека сам да се ломасти шиосу.", "choice2": "оПросу сам дуво на стерпо.", "question": "cause", "label": 1, "idx": 84, "changed": false}
+{"premise": "теДе се лопробуди ћивриште.", "choice1": "лоИма је нуноћ румо.", "choice2": "лоМокри је у тукреве.", "question": "cause", "label": 0, "idx": 85, "changed": false}
+{"premise": "макМо је оподига гено на сто.", "choice1": "говЊе тацо је осе за сто.", "choice2": "тацО му је оодржа њепредава.", "question": "effect", "label": 1, "idx": 86, "changed": false}
+{"premise": "Мој тељприја је оокрену вугла ка ниме.", "choice1": "оВикну сам воњего меи.", "choice2": "оМаха сам марука.", "question": "cause", "label": 0, "idx": 87, "changed": false}
+{"premise": "Власт је лаугњетава јесво неграђа.", "choice1": "ниГрађа су глиди нупобу.", "choice2": "ниГрађа су се липријави за његласа.", "question": "effect", "label": 0, "idx": 88, "changed": false}
+{"premise": "чакДе се оизгуби у мишу.", "choice1": "оПодига је торша.", "choice2": "оВика је моћупо.", "question": "effect", "label": 1, "idx": 89, "changed": false}
+{"premise": "наЖе је лапутова у твоиностранс.", "choice1": "лаХте је да чинау да тацр.", "choice2": "лаХте је да знаса шеви о гимдру макултура.", "question": "cause", "label": 1, "idx": 90, "changed": false}
+{"premise": "векЧо је оби ранљубомо на гуколе.", "choice1": "говЊе гаколе је одоби њеунапређе.", "choice2": "говЊе гаколе је оради до снока.", "question": "cause", "label": 0, "idx": 91, "changed": false}
+{"premise": "векЧо је овиде цеванземаљ.", "choice1": "оХалуцинира је.", "choice2": "оМедитира је.", "question": "cause", "label": 0, "idx": 92, "changed": false}
+{"premise": "ваЧовеко сако је лапоста вапла.", "choice1": "оСтави је вачизбељи на њу.", "choice2": "оСтави је поншам на њу.", "question": "cause", "label": 0, "idx": 93, "changed": false}
+{"premise": "цаУметни је ланаправи воно лоде.", "choice1": "лаКритикова је јесво днопретхо лоде.", "choice2": "лаДоби је летна јеинспираци.", "question": "cause", "label": 1, "idx": 94, "changed": false}
+{"premise": "Син се оодсели из ћеку.", "choice1": "штенОтпу је из скевој.", "choice2": "оКрену је на тетфакул.", "question": "cause", "label": 1, "idx": 95, "changed": false}
+{"premise": "геКњи су леиспа из кебиблиоте.", "choice1": "цеПоли су леби непрекриве номпраши.", "choice2": "тресЗемљо је озатреса кубиблиоте.", "question": "cause", "label": 1, "idx": 96, "changed": false}
+{"premise": "лаНеста ми је јастру у ћику.", "choice1": "лаУкључи сам тлосве.", "choice2": "лаРесетова сам рачосигу.", "question": "effect", "label": 1, "idx": 97, "changed": false}
+{"premise": "лиВози смо се на руролеркосте.", "choice1": "лоДелова је ностраш.", "choice2": "лоДелова је нозабав.", "question": "cause", "label": 1, "idx": 98, "changed": false}
+{"premise": "цеКоки су лепоче да се јукока у сике.", "choice1": "оСипа сам терпу у суке.", "choice2": "оЗагреја сам снумикротала.", "question": "cause", "label": 1, "idx": 99, "changed": false}
+{"premise": "воДр је лопа на воддалеко.", "choice1": "лоНеста је јестру у јукра.", "choice2": "скаВремен запрогно је лапредвиде јак тарве.", "question": "effect", "label": 0, "idx": 100, "changed": false}
+{"premise": "никГовор је оизне киполитич ненекорект рекомента.", "choice1": "оДосађива је ципубли.", "choice2": "оУвреди је купубли.", "question": "effect", "label": 1, "idx": 101, "changed": false}
+{"premise": "лаУбо сам се на глуи.", "choice1": "шкаГра јазно ми је ласклизну са цали.", "choice2": "На ступр ми се ластвори кап викр.", "question": "effect", "label": 1, "idx": 102, "changed": false}
+{"premise": "баРи је лаплута на ниповрши маакварију.", "choice1": "лаБи је днагла.", "choice2": "лаБи је твамр.", "question": "cause", "label": 1, "idx": 103, "changed": false}
+{"premise": "ковЧове глас је озвуча клопрому.", "choice1": "оБи је ђенпрехла.", "choice2": "оПреста је да шипу.", "question": "cause", "label": 0, "idx": 104, "changed": false}
+{"premise": "лаОтвори су се тавра на тулиф.", "choice1": "Лифт је остига на нинаведе спрат.", "choice2": "Лифт се озаглави ђуизме васпрато.", "question": "cause", "label": 0, "idx": 105, "changed": false}
+{"premise": "џерТинеј се оискра из ћеку.", "choice1": "оЛага је љеродите.", "choice2": "љиРодите су му лизабрани да зиизла.", "question": "cause", "label": 1, "idx": 106, "changed": false}
+{"premise": "лоКупати је лоби нопоплавље.", "choice1": "лаИзли се WC љашо.", "choice2": "оПоквари се лербој.", "question": "cause", "label": 0, "idx": 107, "changed": false}
+{"premise": "неШте је ностал лоби у ниблизи кавласни.", "choice1": "сникВла је туштене остави цуогрли.", "choice2": "сникВла је одржа неште на цупово.", "question": "cause", "label": 1, "idx": 108, "changed": false}
+{"premise": "векЧо је оугледа свој дразо.", "choice1": "оСтаја је споди тогразграна тадрве.", "choice2": "оСтаја је знади ногмир рајезе.", "question": "cause", "label": 1, "idx": 109, "changed": false}
+{"premise": "оПропусти сам зивпо јесво кедевој.", "choice1": "оПозва сам је јекасни.", "choice2": "шлиНа смо се на ривече.", "question": "effect", "label": 0, "idx": 110, "changed": false}
+{"premise": "цаПороди је лапретражива љенасе.", "choice1": "Пас им је опобега од ћеку.", "choice2": "оНеста им је нискупоце китна из ћеку.", "question": "cause", "label": 0, "idx": 111, "changed": false}
+{"premise": "оВиде сам свој дах дака сам оиздахну.", "choice1": "меВре је лоби днохла.", "choice2": "лоСтеза ме је у магруди.", "question": "cause", "label": 0, "idx": 112, "changed": false}
+{"premise": "ниЗапосле су линаправи катсинди.", "choice1": "лиЖеле су љебо днера веусло.", "choice2": "вацПослода им је оподига тепла.", "question": "cause", "label": 0, "idx": 113, "changed": false}
+{"premise": "клаИспе сам тупи од кајабу.", "choice1": "Смрад житруле је оиспуни њукухи.", "choice2": "танПрија рисми је оиспуни њукухи.", "question": "effect", "label": 1, "idx": 114, "changed": false}
+{"premise": "наЖе је шкоте лахода.", "choice1": "лаНоси је кевисо цепотпети.", "choice2": "лаИзу је леципе.", "question": "cause", "label": 0, "idx": 115, "changed": false}
+{"premise": "Из цалон са домво се ладиза рапа.", "choice1": "даВо је лаври.", "choice2": "оПоклопи сам нацло.", "question": "cause", "label": 0, "idx": 116, "changed": false}
+{"premise": "Све јемо печара су леби на њупра.", "choice1": "лаОбу сам лесанда.", "choice2": "лаОбу сам змечи.", "question": "effect", "label": 0, "idx": 117, "changed": false}
+{"premise": "ментАргу раполитича је трансма днимапсур.", "choice1": "оИзгуби је шкуподр чагласа.", "choice2": "женОпту је за јукорупци", "question": "effect", "label": 0, "idx": 118, "changed": false}
+{"premise": "коНи јени оодобрава буверид рапа.", "choice1": "Пар је оочекива бубе.", "choice2": "Пар је опобега.", "question": "effect", "label": 1, "idx": 119, "changed": false}
+{"premise": "наГрађеви је лаби напосвеће румилионе.", "choice1": "нерМилио је ожеле да шисру нуграђеви.", "choice2": "нерМилио је одонира твасредс за нуње њуизград.", "question": "cause", "label": 1, "idx": 120, "changed": false}
+{"premise": "вацПрода је ооптужи кудевој за ђукра.", "choice1": "вацПрода је овиде кока кадевој вљаста буро у јусво нуташ.", "choice2": "вацПрода је опомога цидевој да ђепрона нуташ јако јој се ђасви.", "question": "cause", "label": 0, "idx": 121, "changed": false}
+{"premise": "мљаЗе је лаобјави рат днојсусе јитеритори.", "choice1": "циВојни су типосла у бубор.", "choice2": "циВојни су се ливрати мапородица.", "question": "effect", "label": 0, "idx": 122, "changed": false}
+{"premise": "Суд је опотврди знуконтровер дупресу.", "choice1": "спредИ дезгра дасу је лаизби напобу.", "choice2": "Пар се овенчава спреди дезгра дасу.", "question": "effect", "label": 0, "idx": 123, "changed": false}
+{"premise": "каДевој је лаосети да штоне риго.", "choice1": "лаИзвади је чекола из јекути.", "choice2": "лаЗаборави је чекола у нирер.", "question": "cause", "label": 1, "idx": 124, "changed": false}
+{"premise": "лаПљушта је шаки.", "choice1": "меНевре се лопогорша.", "choice2": "оПојури сам да ђему трауну.", "question": "effect", "label": 1, "idx": 125, "changed": false}
+{"premise": "даЗгра је наевакуиса.", "choice1": "Лифт је опреста да дира.", "choice2": "оУкључи се нипротивпожар ларма.", "question": "cause", "label": 1, "idx": 126, "changed": false}
+{"premise": "цуО је лосмета што му је син чаралкохоли.", "choice1": "тацО је нуси окупи вопи.", "choice2": "тацО је оизбаци наси из ћеку.", "question": "effect", "label": 1, "idx": 127, "changed": false}
+{"premise": "цаАдвокати се лапопе мастепеница до јеканцелари.", "choice1": "цаСекретари је шлаоти ћику слепо слапо.", "choice2": "Лифт јени оради.", "question": "cause", "label": 1, "idx": 128, "changed": false}
+{"premise": "каЧове је оизнервира тељприја.", "choice1": "тељПрија га је опрекину.", "choice2": "тељПрија га је очасти комруч.", "question": "cause", "label": 0, "idx": 129, "changed": false}
+{"premise": "каДевој је лада вацно рукаси.", "choice1": "сирКа је цидевој ода сурку.", "choice2": "сирКа је озаборави да да цидевој чунра", "question": "effect", "label": 0, "idx": 130, "changed": false}
+{"premise": "наЖе је лазаврши у скиминвалид маколици.", "choice1": "лаОста је напарализова конна ћенесре.", "choice2": "шлаУ је у цуболни на маносили.", "question": "cause", "label": 0, "idx": 131, "changed": false}
+{"premise": "ниГрађа су глиподи ненационал везаста спреди ћаку.", "choice1": "мљаЗе је лаобележава дан стинезависно.", "choice2": "мљаЗе се ласуочава са скомеконом зомкри.", "question": "cause", "label": 0, "idx": 132, "changed": false}
+{"premise": "паЕки је лаизгуби ниртур.", "choice1": "лиРазочара су јесво ченавија.", "choice2": "лиОдушеви су јесво ченавија.", "question": "effect", "label": 0, "idx": 133, "changed": false}
+{"premise": "тељПрија ми је опоказа да ми је лаоста нахра ђуме мазуби.", "choice1": "лоБи ме је тасрамо.", "choice2": "оБи сам санпоно.", "question": "effect", "label": 0, "idx": 134, "changed": false}
+{"premise": "чакДе је опа на туиспи из јеистори.", "choice1": "оПази је на суча.", "choice2": "оЗаборави је да чиу.", "question": "cause", "label": 1, "idx": 135, "changed": false}
+{"premise": "лаСруши се дазгра у труцен дагра.", "choice1": "тресЗемљо је опогоди град.", "choice2": "паСто лакримина у дугра је слапора.", "question": "cause", "label": 0, "idx": 136, "changed": false}
+{"premise": "каДевој је лараскину са коммом.", "choice1": "оМоли је да му се тивра.", "choice2": "оУпозна је са јимсво мародитељи.", "question": "effect", "label": 0, "idx": 137, "changed": false}
+{"premise": "јеДво цеде се ноистовреме лосагну да тидохва птуло.", "choice1": "птаЛо се лаоткотрља.", "choice2": "лиСудари су се маглава.", "question": "effect", "label": 1, "idx": 138, "changed": false}
+{"premise": "кунРа је оиспретура тукан за бређу.", "choice1": "У тикан за бређу је оби тонкар.", "choice2": "Са текан за бређу је оби нутски пацпокло.", "question": "cause", "label": 1, "idx": 139, "changed": false}
+{"premise": "чакДе је онаоштри куолов.", "choice1": "лаБи је најефти.", "choice2": "лаБи је пату.", "question": "cause", "label": 1, "idx": 140, "changed": false}
+{"premise": "сирКа јени охте да тивра ниже вацно за нухаљи.", "choice1": "лаИзгуби је чунра.", "choice2": "наХаљи јој јени бродо ластаја.", "question": "cause", "label": 0, "idx": 141, "changed": false}
+{"premise": "наОгреботи на јојмо жико је лаби кадубо.", "choice1": "зоБр је слазара.", "choice2": "оОста ми је љакожи.", "question": "effect", "label": 1, "idx": 142, "changed": false}
+{"premise": "циПутни из заво су дночу лигледа качове.", "choice1": "оЗури је под.", "choice2": "оПрича је са бомсо.", "question": "cause", "label": 1, "idx": 143, "changed": false}
+{"premise": "теДе је лоостави цемрви на дупо.", "choice1": "виМра су се лискупи на цемрви.", "choice2": "теДе је лосклони хлеб.", "question": "effect", "label": 0, "idx": 144, "changed": false}
+{"premise": "наЖе је ладода стрисе цумарами.", "choice1": "наЖени страсе је лапрекрсти керу.", "choice2": "наЖени страсе је лапоче да чепла.", "question": "cause", "label": 1, "idx": 145, "changed": false}
+{"premise": "векЧо је оузе толмен нубомбо.", "choice1": "лаБи су му лаиспуца стау.", "choice2": "оПлаши се да му дисмр из стау.", "question": "cause", "label": 1, "idx": 146, "changed": false}
+{"premise": "Пар је окрену нора на вупредста.", "choice1": "лиОчекива су жвугу у јусаобраћа коо штапозори.", "choice2": "лиДоби су цесмерни до штапозори.", "question": "cause", "label": 0, "idx": 147, "changed": false}
+{"premise": "наЖе јени шлаоти на опоса.", "choice1": "Шеф је опохвали.", "choice2": "гаКоле је озамени.", "question": "effect", "label": 1, "idx": 148, "changed": false}
+{"premise": "векЧо је опотписа јупетици стаактиви.", "choice1": "оПодржава је ховњи циљ.", "choice2": "оСматра је да су дилу.", "question": "cause", "label": 0, "idx": 149, "changed": false}
+{"premise": "цуГлум је цеср лолупа пре панасту.", "choice1": "оИма је мутре.", "choice2": "оЗапамти је свој текст.", "question": "cause", "label": 0, "idx": 150, "changed": false}
+{"premise": "лаИзгуби сам се.", "choice1": "лаИзброја сам јусво нуготови.", "choice2": "лаОтвори сам тукар.", "question": "effect", "label": 1, "idx": 151, "changed": false}
+{"premise": "лоЗре ћево је году лостаја на цусун.", "choice1": "лиПоје су га.", "choice2": "лоСмежура се.", "question": "effect", "label": 1, "idx": 152, "changed": false}
+{"premise": "билАутомо се опоквари.", "choice1": "оУкључи сам такткон.", "choice2": "торМо се опрегреја.", "question": "cause", "label": 1, "idx": 153, "changed": false}
+{"premise": "векЧо је оповреди ђале.", "choice1": "оПосети је трапсихија.", "choice2": "оОста је у тукреве конеколи нада.", "question": "effect", "label": 1, "idx": 154, "changed": false}
+{"premise": "оЗапали сам трува у нуками.", "choice1": "самНи оима вадр за грево.", "choice2": "лоБи је днохла у ћику.", "question": "cause", "label": 1, "idx": 155, "changed": false}
+{"premise": "наЖе је лапреста да читр.", "choice1": "лаОсети је грч у куку.", "choice2": "шлаДо је до хада.", "question": "cause", "label": 0, "idx": 156, "changed": false}
+{"premise": "оКуца сам на накомшиници тавра.", "choice1": "цаКомшини ме је лапозва трауну.", "choice2": "цаКомшини је шлаиза из ћеку.", "question": "effect", "label": 0, "idx": 157, "changed": false}
+{"premise": "наЖе је нофрустрира лауздахну.", "choice1": "Муж јени оразуме нуње губри.", "choice2": "Муж је опољуби на курастан.", "question": "cause", "label": 0, "idx": 158, "changed": false}
+{"premise": "сорПрофе је опохвали кађа.", "choice1": "Ђак је нотач оодговори на њепита.", "choice2": "Ђак је ооклева да риодгово на њепита.", "question": "cause", "label": 0, "idx": 159, "changed": false}
+{"premise": "ниЖе је лонеста јаја.", "choice1": "шлаОти је на муфар.", "choice2": "шлаОти је у цупродавни.", "question": "effect", "label": 1, "idx": 160, "changed": false}
+{"premise": "лаСре сам рогста љапријате.", "choice1": "лаОткри сам му нутај.", "choice2": "лаЗагрли сам га.", "question": "effect", "label": 1, "idx": 161, "changed": false}
+{"premise": "наЖе је лаизбегава да деи на ројезе.", "choice1": "лаУлови је бури.", "choice2": "лоИзгледа је нозагађе.", "question": "cause", "label": 1, "idx": 162, "changed": false}
+{"premise": "никУче је остига на час нопотпу кармо.", "choice1": "оПоквари му се бранкишо.", "choice2": "лиУкра су му циклби.", "question": "cause", "label": 0, "idx": 163, "changed": false}
+{"premise": "оПомери се соркур на нуекра рарачуна.", "choice1": "сникКори је окликну шемми.", "choice2": "сникКори је опомери шами.", "question": "cause", "label": 1, "idx": 164, "changed": false}
+{"premise": "зачВо је окрену знимобила темпу.", "choice1": "На номглав тупу се ладогоди ћанесре.", "choice2": "оПрати је онками спреди бесе.", "question": "cause", "label": 0, "idx": 165, "changed": false}
+{"premise": "оОкачи сам крумо нупостељи на штрик у штудвори.", "choice1": "наПостељи се лаосуши.", "choice2": "наПостељи се лаисфлека.", "question": "effect", "label": 0, "idx": 166, "changed": false}
+{"premise": "наЖе је ластави ренаоча за цесун.", "choice1": "цеСун је лоби која.", "choice2": "лаПозва је ситак.", "question": "cause", "label": 0, "idx": 167, "changed": false}
+{"premise": "векЧо се озагледа у ноноћ боне.", "choice1": "оЖеле је да дебу толе.", "choice2": "оСматра је да је поле.", "question": "cause", "label": 1, "idx": 168, "changed": false}
+{"premise": "оОсећа сам се ноисцрпље.", "choice1": "оОтиша сам нора на њеспава.", "choice2": "оОста сам данбу леце ћино.", "question": "effect", "label": 0, "idx": 169, "changed": false}
+{"premise": "векЧо је оотиша код рафризе.", "choice1": "оПушта је суко.", "choice2": "саКо му је слапора.", "question": "cause", "label": 1, "idx": 170, "changed": false}
+{"premise": "чакДе је оподмета цесмицали вомно куучени.", "choice1": "чакДе је опожеле цудобродошли вомно куучени.", "choice2": "куДеча се јени освиђа вино никуче.", "question": "cause", "label": 1, "idx": 171, "changed": false}
+{"premise": "лоПи ми се комле.", "choice1": "лаЈе сам чекола.", "choice2": "клаПе сам хлеб.", "question": "cause", "label": 0, "idx": 172, "changed": false}
+{"premise": "лаПоче је да дапа шаки.", "choice1": "зачВо је оукључи вефаро.", "choice2": "зачВо је опребаци њачме у кверцри.", "question": "effect", "label": 0, "idx": 173, "changed": false}
+{"premise": "кингПар дезгра је оби занпра.", "choice1": "оПаркира сам копре тапу.", "choice2": "оПаркира сам зубли заула.", "question": "effect", "label": 1, "idx": 174, "changed": false}
+{"premise": "цаСписатељи је лапропусти рок за јупреда вепр јеверзи.", "choice1": "лаИма је кустваралач зукри.", "choice2": "лаПрегледа је вупр јуверзи.", "question": "cause", "label": 0, "idx": 175, "changed": false}
+{"premise": "дникСара ми је опрекину зивпо.", "choice1": "оТражи сам да рамразгова са нимпретпоставље.", "choice2": "оДа сам му свој ниидентификацио број.", "question": "cause", "label": 0, "idx": 176, "changed": false}
+{"premise": "тарВе је одува кроз ренотво зорпро.", "choice1": "лоЗачу се нозво на маврати.", "choice2": "сеЗаве су левијори.", "question": "effect", "label": 1, "idx": 177, "changed": false}
+{"premise": "лоНеста ми је јестру у ћику.", "choice1": "оИскључи сам пулам.", "choice2": "оПрегоре ми је рачосигу.", "question": "cause", "label": 1, "idx": 178, "changed": false}
+{"premise": "зачДи ватего је озастења.", "choice1": "оНапумпа је ћемиши спреди лаогледа.", "choice2": "оПодига је тег знади вегла.", "question": "cause", "label": 1, "idx": 179, "changed": false}
+{"premise": "никУче је опокуша да наизрачу штоне у вигла.", "choice1": "оИзвади је трондиги.", "choice2": "оЗбуни се.", "question": "effect", "label": 1, "idx": 180, "changed": false}
+{"premise": "баБе је лазаспа.", "choice1": "тацО је опромени бибе нупеле.", "choice2": "тацО је нонеж ољуља бубе.", "question": "cause", "label": 1, "idx": 181, "changed": false}
+{"premise": "цаДевојчи је лабаци ниводе лонба на кадеча.", "choice1": "чакДе је одоби треспо згамо.", "choice2": "чакДе се опокваси.", "question": "effect", "label": 1, "idx": 182, "changed": false}
+{"premise": "графФото је озаборави да чиукљу блиц на туфотоапара.", "choice1": "јеФотографи су леиспа немут.", "choice2": "коНи на мафотографија јени охте да се јенасме.", "question": "effect", "label": 0, "idx": 183, "changed": false}
+{"premise": "оОдби сам зивпо на данрођен.", "choice1": "оБи сам мљенуса.", "choice2": "самНи оби у дугра.", "question": "cause", "label": 1, "idx": 184, "changed": false}
+{"premise": "лаВежба сам.", "choice1": "лаБи сам напу јеенерги.", "choice2": "лаБи сам науплаше.", "question": "cause", "label": 0, "idx": 185, "changed": false}
+{"premise": "оСтисну сам жанвла ђерсун.", "choice1": "оУпи је дуво.", "choice2": "лаЦури је даво из гање.", "question": "effect", "label": 1, "idx": 186, "changed": false}
+{"premise": "стиТури су шлии томтрајек до штаодмарали.", "choice1": "штеОдмарали је лоби норезервиса.", "choice2": "штеОдмарали је лоби на вуостр.", "question": "cause", "label": 1, "idx": 187, "changed": false}
+{"premise": "каТинејџер се лаистетовира.", "choice1": "лаПлаши се глеи.", "choice2": "лаХте је да дебу цабунтовни.", "question": "cause", "label": 1, "idx": 188, "changed": false}
+{"premise": "тиНепозна билаутомо се опаркира спреди јемо ћеку.", "choice1": "оПоста сам чавсумњи.", "choice2": "оПозва сам јуполици.", "question": "effect", "label": 0, "idx": 189, "changed": false}
+{"premise": "лацКримина се опреда.", "choice1": "зиДока су лиуказива на гање.", "choice2": "јеНи лоби задока тивпро гање.", "question": "cause", "label": 0, "idx": 190, "changed": false}
+{"premise": "панКру рацмушка је оодлучи да шасмр.", "choice1": "оПреста је да деје шеслатки.", "choice2": "оИзбегава је инкофе.", "question": "effect", "label": 0, "idx": 191, "changed": false}
+{"premise": "цаДевојчи је лакрочи на лед.", "choice1": "лаОклизну се.", "choice2": "лаЗадрхта је.", "question": "effect", "label": 0, "idx": 192, "changed": false}
+{"premise": "наЖе је лаима кеподочња.", "choice1": "лаОста је днабу леце ћино.", "choice2": "лаСтави је наси у веткре.", "question": "cause", "label": 0, "idx": 193, "changed": false}
+{"premise": "ваЛа је лаистица из навулка.", "choice1": "канВул је оеруптира.", "choice2": "канВул јени оби ванакти.", "question": "cause", "label": 0, "idx": 194, "changed": false}
+{"premise": "наЖе је лаобу леципе.", "choice1": "лаПознава је све на визаба.", "choice2": "лаХте је да део са везаба.", "question": "cause", "label": 1, "idx": 195, "changed": false}
+{"premise": "оПлати сам цислужбени на нојнаплат пирам.", "choice1": "лаПусти ме је да ђемпро кроз нунаплат пурам.", "choice2": "лаЗадржа ме је на нојнаплат пирам.", "question": "effect", "label": 0, "idx": 196, "changed": false}
+{"premise": "ниИзврш тордирек је обанкротира.", "choice1": "оПрода је цедеони јесво јекомпани.", "choice2": "оПротраћи је јесво твобогатс.", "question": "cause", "label": 1, "idx": 197, "changed": false}
+{"premise": "векЧо је оотиша рулека.", "choice1": "карЛе је оби на руодмо.", "choice2": "векЧо се оосећа сноболе.", "question": "cause", "label": 1, "idx": 198, "changed": false}
+{"premise": "шлаИза сам из ћеспава бесо кроз зорпро.", "choice1": "ћаКу је лагоре.", "choice2": "ћаКу је лаби знапра.", "question": "cause", "label": 0, "idx": 199, "changed": false}
+{"premise": "стиПр кадеча су се лисмежура.", "choice1": "гоДу се отушира.", "choice2": "оНасапуна је керу номсапу.", "question": "cause", "label": 0, "idx": 200, "changed": false}
+{"premise": "оИспљуну сам комле.", "choice1": "коМле је лоби слопроки.", "choice2": "стаУ су ми лаби васу.", "question": "cause", "label": 0, "idx": 201, "changed": false}
+{"premise": "лаПропусти сам бусауто.", "choice1": "глаСти сам нора на опоса.", "choice2": "лаЗакасни сам на опоса.", "question": "effect", "label": 1, "idx": 202, "changed": false}
+{"premise": "онКами се осудари са ломаутомоби.", "choice1": "онКами је оубрза.", "choice2": "билАутомо се ослупа.", "question": "effect", "label": 1, "idx": 203, "changed": false}
+{"premise": "Тим је онамести њетакмиче у јусво ристко.", "choice1": "лиПобеди су.", "choice2": "лиОдуста су.", "question": "effect", "label": 0, "idx": 204, "changed": false}
+{"premise": "цаБо ноггазира касо је лазашишта.", "choice1": "оПреврну сам цубо.", "choice2": "оОдврну сам чеп.", "question": "cause", "label": 1, "idx": 205, "changed": false}
+{"premise": "каДеча су лизакључа ван ћеку.", "choice1": "оУвука се кроз ренотво зорпро.", "choice2": "оПопе се на кров.", "question": "effect", "label": 0, "idx": 206, "changed": false}
+{"premise": "лоЗачу се нозво на маврати.", "choice1": "лацПосети је опокуца на тавра.", "choice2": "наЖе је лапровири кроз цукључаони на маврати.", "question": "effect", "label": 1, "idx": 207, "changed": false}
+{"premise": "векЧо је оупрља лооде.", "choice1": "оОдне га је на скохемиј њечишће.", "choice2": "оОкачи га је у марор.", "question": "effect", "label": 0, "idx": 208, "changed": false}
+{"premise": "цаДевојчи је ластисну буту степа за безу.", "choice1": "стаПа за безу је лаизлете из бету.", "choice2": "цаДевојчи је лаиспљуну ступа за безу.", "question": "effect", "label": 0, "idx": 209, "changed": false}
+{"premise": "оРаста је број нихцивил важрта у тура.", "choice1": "стиПацифи су лиорганизова тестпро.", "choice2": "стиПацифи су лиодржа дупара.", "question": "effect", "label": 0, "idx": 210, "changed": false}
+{"premise": "каДевој је лаишчупа кутра из секо.", "choice1": "лаВеза је кутра.", "choice2": "каТра је лаизгледа стодетиња.", "question": "cause", "label": 1, "idx": 211, "changed": false}
+{"premise": "векЧо је оотиша на нупластич јуопераци.", "choice1": "оОстари је.", "choice2": "оИзгледа је ђемла.", "question": "effect", "label": 1, "idx": 212, "changed": false}
+{"premise": "Из тајаје је шлоиза лепи.", "choice1": "јеЈа се глоизле.", "choice2": "лаРазби сам јеја.", "question": "cause", "label": 0, "idx": 213, "changed": false}
+{"premise": "никЗатворе је огладова.", "choice1": "мроУ је.", "choice2": "оПобега је.", "question": "effect", "label": 0, "idx": 214, "changed": false}
+{"premise": "векЧо је оизгуби журавноте на мамердевина.", "choice1": "оПопе се уз немердеви.", "choice2": "оПа је са намердеви.", "question": "effect", "label": 1, "idx": 215, "changed": false}
+{"premise": "теДе је лоподригну.", "choice1": "лоПопи је љајгут ноггазира касо.", "choice2": "лоОтвори је кулимен ноггазира касо.", "question": "cause", "label": 0, "idx": 216, "changed": false}
+{"premise": "Кроз зорпро је лаулази днахла јапрома.", "choice1": "оОпусти сам се.", "choice2": "оЗадрхта сам.", "question": "effect", "label": 1, "idx": 217, "changed": false}
+{"premise": "цаУчени је ладоби јустипенди за тетфакул.", "choice1": "виДруго из даразре су је липоштова.", "choice2": "лаИма је бредо неоце.", "question": "cause", "label": 1, "idx": 218, "changed": false}
+{"premise": "цаДевојчи се ларуга кудеча.", "choice1": "лаЖиве је редпо гање.", "choice2": "лаБи је назаљубље у гање.", "question": "cause", "label": 1, "idx": 219, "changed": false}
+{"premise": "данГла никбескућ је оукра нухра.", "choice1": "оИзазива је њесажаље.", "choice2": "јеНи оима цанов.", "question": "cause", "label": 1, "idx": 220, "changed": false}
+{"premise": "оНазва сам љапријате да мопоприча.", "choice1": "оЖеле да дембу сам.", "choice2": "оОсећа сам се ноусамље.", "question": "cause", "label": 1, "idx": 221, "changed": false}
+{"premise": "векЧо ми је опружи куру.", "choice1": "лиРукова смо се.", "choice2": "оОшамари сам га.", "question": "effect", "label": 0, "idx": 222, "changed": false}
+{"premise": "лаСагну сам се.", "choice1": "метВатро је љениспа у здухва.", "choice2": "збиФри је олете ка јојмо вигла.", "question": "cause", "label": 1, "idx": 223, "changed": false}
+{"premise": "цаДевојчи је злагри тенок.", "choice1": "лаБи је тазабрину.", "choice2": "лаБи је наизненађе.", "question": "cause", "label": 0, "idx": 224, "changed": false}
+{"premise": "оОкрену сам лист на рукаленда.", "choice1": "оОзначи сам наксаста у рукаленда.", "choice2": "оБи је такпоче ћегследе цамесе.", "question": "cause", "label": 1, "idx": 225, "changed": false}
+{"premise": "Муж је ооткри да га гасупру рава.", "choice1": "оОтпусти је таадвока.", "choice2": "оТражи је зводра кабра.", "question": "effect", "label": 1, "idx": 226, "changed": false}
+{"premise": "цаДевојчи је лаиспусти нугуме птуло.", "choice1": "птаЛо је лаодскочи.", "choice2": "птаЛо ја лазасија.", "question": "effect", "label": 0, "idx": 227, "changed": false}
+{"premise": "каДевој је ланаправи шкугре на туиспи.", "choice1": "лаПогоди је вородго.", "choice2": "лаИзбриса је вородго.", "question": "effect", "label": 1, "idx": 228, "changed": false}
+{"premise": "грачИ је ообори капротивни.", "choice1": "никПротив је оухвати њедодава.", "choice2": "никПротив је опа на мљузе.", "question": "effect", "label": 1, "idx": 229, "changed": false}
+{"premise": "оБра сам дајзпара са жевре.", "choice1": "оБи је озре.", "choice2": "оЗали сам га.", "question": "cause", "label": 0, "idx": 230, "changed": false}
+{"premise": "векЧо је ожеле да дебу чанроманти.", "choice1": "оСре се са шомбив комдевој на куруч.", "choice2": "оКупи је цидевој дучокола.", "question": "effect", "label": 1, "idx": 231, "changed": false}
+{"premise": "ваЖи у трутермоме је слара.", "choice1": "лаИспусти сам тартермоме.", "choice2": "меВре је лоби све јетопли.", "question": "cause", "label": 1, "idx": 232, "changed": false}
+{"premise": "доТорна је опроша кроз град.", "choice1": "оОдлете је кров са дезгра дасу.", "choice2": "тоАу-пут се сноопа озаледи.", "question": "effect", "label": 0, "idx": 233, "changed": false}
+{"premise": "никУче је оиша на неприват вечасо.", "choice1": "веЊего неоце су се лепоправи.", "choice2": "оВара је на стуте.", "question": "effect", "label": 0, "idx": 234, "changed": false}
+{"premise": "лоБи ми је ноудоб.", "choice1": "оКлекну сам на мљузе.", "choice2": "оУмота сам се у беће.", "question": "cause", "label": 1, "idx": 235, "changed": false}
+{"premise": "лаУглача сам менка.", "choice1": "оПоста је завкли.", "choice2": "оПоста је јансја.", "question": "effect", "label": 1, "idx": 236, "changed": false}
+{"premise": "оДода сам ћерше у фука.", "choice1": "фаКа је која ламириса.", "choice2": "фаКа је лаима даксла кусу.", "question": "effect", "label": 1, "idx": 237, "changed": false}
+{"premise": "векЧо је опретура по мапапири.", "choice1": "оПосека се на пирпа.", "choice2": "оУништи је репапи.", "question": "effect", "label": 0, "idx": 238, "changed": false}
+{"premise": "оУдари сам серек ћемчеки.", "choice1": "серЕк се озаби у водр.", "choice2": "серЕк је озарђа.", "question": "effect", "label": 0, "idx": 239, "changed": false}
+{"premise": "баРи је злазагри цууди.", "choice1": "барРи је оизвука бури.", "choice2": "барРи је опоправи цууди.", "question": "effect", "label": 0, "idx": 240, "changed": false}
+{"premise": "куТинејџер је лоби тасрамо да деи у лушко.", "choice1": "шлаИза јој је цабубуљи.", "choice2": "лаСкину је зупроте.", "question": "cause", "label": 0, "idx": 241, "changed": false}
+{"premise": "лоОзари ми се цели.", "choice1": "лаДоби сам бредо стиве.", "choice2": "лаИзгуби сам њестрпље.", "question": "cause", "label": 0, "idx": 242, "changed": false}
+{"premise": "оОбриса сам керу ромпешки.", "choice1": "шкирПе је оби кармо.", "choice2": "кеРу су ми леби кремо.", "question": "cause", "label": 1, "idx": 243, "changed": false}
+{"premise": "векЧо је оизгуби журавноте на цистоли.", "choice1": "цаСтоли се лазаљуља споди гање.", "choice2": "оПросу је јубо по цистоли.", "question": "cause", "label": 0, "idx": 244, "changed": false}
+{"premise": "чиСаигра су се лиоптужива номеђусоб.", "choice1": "лиИзгуби су цуутакми.", "choice2": "нерТре је оотказа нингтре.", "question": "cause", "label": 0, "idx": 245, "changed": false}
+{"premise": "оТражи сам штајопро.", "choice1": "оКаја сам се због јесво шкегре.", "choice2": "оПостига сам циљ.", "question": "cause", "label": 0, "idx": 246, "changed": false}
+{"premise": "ниЖе је опоста дандоса рацмушка на кусастан.", "choice1": "оПоставља јој је њапита о њој.", "choice2": "ноНепреста је оприча о бисе.", "question": "cause", "label": 1, "idx": 247, "changed": false}
+{"premise": "каДевој се лаосмехну.", "choice1": "зиОбра су јој липоцрвене.", "choice2": "леВиде су јој се церупи на маобрази.", "question": "effect", "label": 1, "idx": 248, "changed": false}
+{"premise": "скиНепријатељ брод је оексплодира.", "choice1": "оПреша је копре неми.", "choice2": "оУплови је у кулу.", "question": "cause", "label": 0, "idx": 249, "changed": false}
+{"premise": "векЧо је оисека лостопа.", "choice1": "оУша је у руба.", "choice2": "оЗгази је на нополомље клоста.", "question": "cause", "label": 1, "idx": 250, "changed": false}
+{"premise": "виДетекти су лиузе скеоти јупрсти на стуме назлочи.", "choice1": "лиОткри су тетиденти цеуби.", "choice2": "шлиПрона су јеоруж на стуме назлочи.", "question": "effect", "label": 0, "idx": 251, "changed": false}
+{"premise": "На тоау-тупу је лаби кавели жвагу.", "choice1": "оКрену сам знимзаобила темпу.", "choice2": "оТражи сам возпре.", "question": "effect", "label": 0, "idx": 252, "changed": false}
+{"premise": "скаЕконом јаситуаци у видржа се лапогорша.", "choice1": "гоМно диљу се лоразболе.", "choice2": "гоМно диљу се лосуочи са ћунезапосленош.", "question": "effect", "label": 1, "idx": 253, "changed": false}
+{"premise": "каПолицај је на компешач зупрела ладуну компиштаљ на цуде.", "choice1": "лиСпрема су се да ђуу на возколо са јемсаобраћа.", "choice2": "лаПрепозна их је из твасуседс.", "question": "cause", "label": 0, "idx": 254, "changed": false}
+{"premise": "оПреврну сам маочи мапре љупријате.", "choice1": "оРека ми је нуисти.", "choice2": "оУпути је нусаркастич бупримед.", "question": "cause", "label": 1, "idx": 255, "changed": false}
+{"premise": "лоНеста је вагори у луаутомоби.", "choice1": "зачВо је ооста на тупу.", "choice2": "зачВо је опокупи растопе.", "question": "effect", "label": 0, "idx": 256, "changed": false}
+{"premise": "наЖе је ладоби ветрудо.", "choice1": "наРође је бабе.", "choice2": "наЖе је лаима њејутар немучни.", "question": "effect", "label": 0, "idx": 257, "changed": false}
+{"premise": "куЧове је оодлете ширше.", "choice1": "оСкину је ширше.", "choice2": "љуНапо је одува тарве.", "question": "cause", "label": 1, "idx": 258, "changed": false}
+{"premise": "цаДевојчи је лаби на нурођенда код гадру из даразре.", "choice1": "лаДоби је цупозивни.", "choice2": "лаКупи је клонпо.", "question": "cause", "label": 0, "idx": 259, "changed": false}
+{"premise": "лоЧе кадеча је лоби ћевру.", "choice1": "каМај му је лаизмери рутемперату.", "choice2": "каМај га је лаодве у парк.", "question": "effect", "label": 0, "idx": 260, "changed": false}
+{"premise": "рацМушка се онапрска момпарфе.", "choice1": "оЖеле је да раимпресиони кудевој на кусастан.", "choice2": "оСтави је гел у суко.", "question": "cause", "label": 0, "idx": 261, "changed": false}
+{"premise": "лоНеста је јестру у ћику.", "choice1": "лаПотражи сам скубатериј пулам.", "choice2": "лаУзе сам тулопа.", "question": "effect", "label": 0, "idx": 262, "changed": false}
+{"premise": "цаПороди се лапресели у ћуве ћуку.", "choice1": "Син је озаврши њусред лушко.", "choice2": "каМај је лароди цеблизан.", "question": "cause", "label": 1, "idx": 263, "changed": false}
+{"premise": "нацМарато је отрча римспо помтем.", "choice1": "оХте је да васачу јуенерги.", "choice2": "оВиде је циљ.", "question": "cause", "label": 0, "idx": 264, "changed": false}
+{"premise": "чакДе је ошутну матауто са номхра.", "choice1": "матАуто је оизбаци сурку.", "choice2": "лаЗаглави се цакеси псачи.", "question": "cause", "label": 1, "idx": 265, "changed": false}
+{"premise": "мроУ је пас мог љапријате.", "choice1": "оПреврну сам маочи.", "choice2": "оЗагрли сам га.", "question": "effect", "label": 1, "idx": 266, "changed": false}
+{"premise": "нуБизнисме је наодбије накредит цакарти.", "choice1": "оНаписа је цумени.", "choice2": "оПлати је номготови.", "question": "effect", "label": 1, "idx": 267, "changed": false}
+{"premise": "векЧо је оопсова.", "choice1": "оИсека је тенок.", "choice2": "оУдари је прст на зино.", "question": "cause", "label": 1, "idx": 268, "changed": false}
+{"premise": "векЧо је оби санпоно на табра.", "choice1": "говЊе брат се опосвађа са мародитељи.", "choice2": "Брат му је мљенпри на ниправ тетфакул.", "question": "cause", "label": 1, "idx": 269, "changed": false}
+{"premise": "цаДевојчи је лажеле на знаса шеви о вомСунче мусисте.", "choice1": "шлаОти је у кубиблиоте.", "choice2": "лаГледа је у здезве.", "question": "effect", "label": 0, "idx": 270, "changed": false}
+{"premise": "стерПо се озалепи за зид.", "choice1": "лаПостави сам стерпо знади тавра.", "choice2": "лаСтави сам вулепљи кутра на нуполеђи рапосте.", "question": "cause", "label": 1, "idx": 271, "changed": false}
+{"premise": "јентКли је оодобри веплано теархитек за дузгра.", "choice1": "таАрхитек је оизгради дузгра.", "choice2": "таАрхитек је оизмени веплано.", "question": "effect", "label": 0, "idx": 272, "changed": false}
+{"premise": "векЧо је оиспусти кукаши.", "choice1": "каРу му се слатре.", "choice2": "оОлиза је кукаши.", "question": "cause", "label": 0, "idx": 273, "changed": false}
+{"premise": "ниИзврш тордирек ћапредузе је ода куостав.", "choice1": "ниУправ бород је ораспусти ћепредузе.", "choice2": "ниУправ бород му је опронаша нузаме.", "question": "effect", "label": 1, "idx": 274, "changed": false}
+{"premise": "оСтига сам снока на њепредава.", "choice1": "оСе сам у њипослед ред.", "choice2": "оПриша сам дрикате.", "question": "effect", "label": 0, "idx": 275, "changed": false}
+{"premise": "векЧо је штенпу из разатво.", "choice1": "цаПороди му је лаплати јукауци.", "choice2": "оНапа је гогдру казатворени.", "question": "cause", "label": 0, "idx": 276, "changed": false}
+{"premise": "цаПороди је лаизгуби сву нуимови.", "choice1": "лиПрода су ћуку.", "choice2": "лаЗапали им се ћаку.", "question": "cause", "label": 1, "idx": 277, "changed": false}
+{"premise": "лаНагази сам кулимен.", "choice1": "каЛимен је лаби нарециклира.", "choice2": "каЛимен се лазгњечи.", "question": "effect", "label": 1, "idx": 278, "changed": false}
+{"premise": "каДевој се лапридружи номдебат мути.", "choice1": "лаНаучи је да стикори наррачу.", "choice2": "лаНаучи је невешти јекомуникаци.", "question": "effect", "label": 1, "idx": 279, "changed": false}
+{"premise": "лоПоправи ми се њерасположе.", "choice1": "оСлуша сам кумузи.", "choice2": "оОпра сам весудо.", "question": "cause", "label": 0, "idx": 280, "changed": false}
+{"premise": "наДобротвор јаорганизаци је лаима циљ да пиприку вацно.", "choice1": "лаНахрани је кебескућни.", "choice2": "лаОдржа је јуаукци.", "question": "effect", "label": 1, "idx": 281, "changed": false}
+{"premise": "стерРолерко је оурони у мистр спуст.", "choice1": "циПутни су се ликикота.", "choice2": "циПутни су ливришта.", "question": "effect", "label": 1, "idx": 282, "changed": false}
+{"premise": "лаБи сам снабе.", "choice1": "лаПровери сам скопоштан чесанду кад сам шлаиза из ћеку.", "choice2": "лаЗалупи сам тавра кад сам шлаиза из ћеку.", "question": "effect", "label": 1, "idx": 283, "changed": false}
+{"premise": "векЧо је ожеле да дагле закзала цасун.", "choice1": "оОтпутова је на версе.", "choice2": "оУста је нора.", "question": "effect", "label": 1, "idx": 284, "changed": false}
+{"premise": "оСави сам пирпа.", "choice1": "оРециклира сам пирпа.", "choice2": "пирПа се озгужва.", "question": "effect", "label": 1, "idx": 285, "changed": false}
+{"premise": "мљаЗе је лапретрпе днуприро фукатастро.", "choice1": "риЛиде гихдру љазема су лиоформи везса.", "choice2": "риЛиде гихдру љазема су липосла нухуманитар моћпо.", "question": "effect", "label": 1, "idx": 286, "changed": false}
+{"premise": "ваДечако ћаоде се ланатопи.", "choice1": "оИзаша је из набазе.", "choice2": "оУпа је у зенба.", "question": "cause", "label": 1, "idx": 287, "changed": false}
+{"premise": "никУче је ожури да тапрочи гукњи.", "choice1": "оИстека јој је рок за њевраћа у кубиблиоте.", "choice2": "оПозајми ју је од љапријате.", "question": "cause", "label": 0, "idx": 288, "changed": false}
+{"premise": "нацЗлочи је бљенпогу.", "choice1": "ченБа је у творза.", "choice2": "оБи је ђеносу за твоубис.", "question": "cause", "label": 1, "idx": 289, "changed": false}
+{"premise": "цеСун је шлоу у бусо.", "choice1": "оОтвори сам сезаве.", "choice2": "оОткључа сам тавра.", "question": "cause", "label": 0, "idx": 290, "changed": false}
+{"premise": "оПовука сам цуварали за суко.", "choice1": "лаСпа јој је капери.", "choice2": "лаОћелави је.", "question": "effect", "label": 0, "idx": 291, "changed": false}
+{"premise": "дникУре је опреформулиса цуречени у сурукопи.", "choice1": "оМисли је да је писруко мљивзани.", "choice2": "оСматра је да царечени јени снаја.", "question": "cause", "label": 1, "idx": 292, "changed": false}
+{"premise": "наЖе је лазатвори чунра некредит цекарти.", "choice1": "лаСхвати је да јој јенедоста цакарти.", "choice2": "лаСхвати је да јој је цакарти клаисте.", "question": "cause", "label": 0, "idx": 293, "changed": false}
+{"premise": "рацМушка и наже су се лизаљуби.", "choice1": "лиУписа су се на тетфакул.", "choice2": "лиВенча су се.", "question": "effect", "label": 1, "idx": 294, "changed": false}
+{"premise": "каМузи је лаби бапресла да би се лачу.", "choice1": "оПојача сам звук.", "choice2": "оИскомпонова сам јусво смупе.", "question": "effect", "label": 0, "idx": 295, "changed": false}
+{"premise": "куДеча је лаби днанеуре сако.", "choice1": "цаДевојчи му је ларазбаруши.", "choice2": "цаДевојчи га је клапову за суко.", "question": "cause", "label": 0, "idx": 296, "changed": false}
+{"premise": "баБу је лаби назгњече.", "choice1": "лаПопрска сам је твомсредс тивпро таинсека.", "choice2": "лаСта сам на бубу.", "question": "cause", "label": 1, "idx": 297, "changed": false}
+{"premise": "оОтвори сам чио.", "choice1": "оПробуди сам се.", "choice2": "оОпусти сам се.", "question": "cause", "label": 0, "idx": 298, "changed": false}
+{"premise": "каМузи код мог дасусе је латрешта.", "choice1": "лаЗамоли сам га да је њисма.", "choice2": "лаЗамоли сам га да ми мипозај CD.", "question": "effect", "label": 0, "idx": 299, "changed": false}
+{"premise": "ваЧовеко цапороди је лаживе у твусиромаш.", "choice1": "воШтедљи је отроши јусво дузара.", "choice2": "оЗарађива је споди неминимал тепла.", "question": "cause", "label": 1, "idx": 300, "changed": false}
+{"premise": "дентСту је одипломира на туфакулте.", "choice1": "оТражи је опоса.", "choice2": "оПронаша је бихо.", "question": "effect", "label": 0, "idx": 301, "changed": false}
+{"premise": "карСли је оумеша тужу јубо у вупла.", "choice1": "јаБо је све лаиспрска.", "choice2": "јаБо је лапоста назеле.", "question": "effect", "label": 1, "idx": 302, "changed": false}
+{"premise": "оПромени сам муте раразгово.", "choice1": "лоПонеста ми је ламатерија за ворразго.", "choice2": "ворРазго је опоста петна.", "question": "cause", "label": 1, "idx": 303, "changed": false}
+{"premise": "Мој брат је штенпу из цеболни.", "choice1": "ноСрдач сам га одочека код ћеку.", "choice2": "оОкрену сам му ђале.", "question": "effect", "label": 0, "idx": 304, "changed": false}
+{"premise": "глаПоди се сазаве на нисце.", "choice1": "лаЗапоче је днауво насце вепредста.", "choice2": "циГлум из вепредста су шлииза са несце.", "question": "effect", "label": 0, "idx": 305, "changed": false}
+{"premise": "лацТа се оповинова мазахтеви раотмича.", "choice1": "чарОтми је опрети да диповре цатао.", "choice2": "чарОтми је оостави цатао могса.", "question": "cause", "label": 0, "idx": 306, "changed": false}
+{"premise": "Бум је оодјекну номби.", "choice1": "чарМузи је олупи гомно.", "choice2": "чарМузи је олупи у бањбу.", "question": "cause", "label": 1, "idx": 307, "changed": false}
+{"premise": "љиРодите су липојури у ћуспава бусо тадете.", "choice1": "теДе се лопробуди ћивриште због ракошма.", "choice2": "теДе се лоплаши да дапогле споди такреве.", "question": "cause", "label": 0, "idx": 308, "changed": false}
+{"premise": "наЖе је лакомуницира нимзнаков комјези.", "choice1": "ноПрера је нарође.", "choice2": "наРође је ваглу.", "question": "cause", "label": 1, "idx": 309, "changed": false}
+{"premise": "шаСу је лапогоди онреги.", "choice1": "даВо је лапоста назагађе.", "choice2": "виУсе су листрада.", "question": "effect", "label": 1, "idx": 310, "changed": false}
+{"premise": "каМач је лапојури цупти.", "choice1": "цаПти је лаодлете.", "choice2": "цаПти је лаухвати вацр.", "question": "effect", "label": 0, "idx": 311, "changed": false}
+{"premise": "цаДевојчи је лапромени лушко.", "choice1": "лаШко се лазатвори комто тале.", "choice2": "лаПресели се у гидру град.", "question": "cause", "label": 1, "idx": 312, "changed": false}
+{"premise": "сникВла кефабри је оодби да неподиг тепла мазапослени.", "choice1": "сникВла је оименова вогно царуководио.", "choice2": "ниЗапосле су лизапоче штрајк.", "question": "effect", "label": 1, "idx": 313, "changed": false}
+{"premise": "дерЛи се осупротстави маекстремисти ромши мљезе.", "choice1": "стиЕкстреми су лиутица на гање.", "choice2": "стиЕкстреми су га лиуби.", "question": "effect", "label": 1, "idx": 314, "changed": false}
+{"premise": "оХода сам бос жомпла.", "choice1": "сакПе ми се озалепи на ластопа.", "choice2": "сиТала су лиудара у луоба.", "question": "effect", "label": 0, "idx": 315, "changed": false}
+{"premise": "лаПробуди сам се среду ћино и лоби ми је днохла.", "choice1": "клаОбу сам кутренер.", "choice2": "лаПопи сам шуча дево.", "question": "effect", "label": 0, "idx": 316, "changed": false}
+{"premise": "каМај је ластишава наси.", "choice1": "Њен син се оцерека.", "choice2": "Њен син је оцвили.", "question": "cause", "label": 1, "idx": 317, "changed": false}
+{"premise": "леПоцепа су ми се кефрамер.", "choice1": "оЗакопча сам кефармер.", "choice2": "оСпотака сам се на рутротоа.", "question": "cause", "label": 1, "idx": 318, "changed": false}
+{"premise": "чакДе је оноси зупроте.", "choice1": "оПоквари му се зуб.", "choice2": "лиИсправи су му се бизу.", "question": "effect", "label": 1, "idx": 319, "changed": false}
+{"premise": "чеЈу сам лавежба у нитерета.", "choice1": "лаПробуди сам се насда са ломупа ћамиши.", "choice2": "лаПробуди сам се насда са ломупа лагр.", "question": "effect", "label": 0, "idx": 320, "changed": false}
+{"premise": "кеДевој су лешапута ђуизме бесе за ломсто за њеручава.", "choice1": "гиДру тистуден су лисе за сто за њеручава.", "choice2": "гиДру тистуден за ломсто за њеручава су се лиосећа ноизоставље.", "question": "effect", "label": 1, "idx": 321, "changed": false}
+{"premise": "цаДевојчи је ласлете на нутрамполи.", "choice1": "лаОдскочи је вису.", "choice2": "лаОдлучи је да бапро да винапра тосал.", "question": "effect", "label": 0, "idx": 322, "changed": false}
+{"premise": "оУбаци сам смопи у скопоштан чесанду.", "choice1": "штаПо је лаиспоручи смопи.", "choice2": "штаПо је лаубрза њесла смапи.", "question": "effect", "label": 0, "idx": 323, "changed": false}
+{"premise": "карКоц је оби ренсамоуве.", "choice1": "оУложи је сав свој вацно.", "choice2": "оОтиша је ћику без цанов.", "question": "effect", "label": 0, "idx": 324, "changed": false}
+{"premise": "скиШум жарпо се ошири.", "choice1": "оПојачава се тарве.", "choice2": "неУхапше су беосо јеко су леподметну жарпо.", "question": "cause", "label": 0, "idx": 325, "changed": false}
+{"premise": "теДе је лоодра ноколе.", "choice1": "каМај га је лапосла у бусо.", "choice2": "каМај му је ластави стерфла на нура.", "question": "effect", "label": 1, "idx": 326, "changed": false}
+{"premise": "векЧо је опреживе снусмртоно лестбо.", "choice1": "оНаправи је менттеста.", "choice2": "наУрађе му је јатрансплантаци наорга.", "question": "cause", "label": 1, "idx": 327, "changed": false}
+{"premise": "лаПопи сам љајгут левре фека.", "choice1": "лаУје сам се за зикје.", "choice2": "клаИспе сам зикје.", "question": "effect", "label": 1, "idx": 328, "changed": false}
+{"premise": "дникУре је оотпусти куаутор.", "choice1": "каАутор је лаизбегава сностпристра у јимсво маприча.", "choice2": "каАутор је лапропусти жанва рок.", "question": "cause", "label": 1, "idx": 329, "changed": false}
+{"premise": "оОсећа сам се ноисцрпље.", "choice1": "оСпава сам оце дан.", "choice2": "оУчи сам оце дан.", "question": "cause", "label": 1, "idx": 330, "changed": false}
+{"premise": "каЛекар је лапостави зудијагно тупацијен.", "choice1": "лаПрепозна је месимпто тапацијен.", "choice2": "лаПреписа је велеко тупацијен.", "question": "cause", "label": 0, "idx": 331, "changed": false}
+{"premise": "лаИзгреба сам се.", "choice1": "лаБи сам вазноја.", "choice2": "лоСврбе ме је.", "question": "cause", "label": 1, "idx": 332, "changed": false}
+{"premise": "куЧове је наурађе нахит јаопераци.", "choice1": "оИзгуби је цежив.", "choice2": "оИма је нисрча дару.", "question": "cause", "label": 1, "idx": 333, "changed": false}
+{"premise": "ћиМиши на циру цамушкар су се лиизбочи.", "choice1": "оСави је керу.", "choice2": "оПротрља је керу.", "question": "cause", "label": 0, "idx": 334, "changed": false}
+{"premise": "векЧо је оподига веобр.", "choice1": "оБи је ђенизнена.", "choice2": "оОсећа се нообесхрабре.", "question": "cause", "label": 0, "idx": 335, "changed": false}
+{"premise": "оОпрости сам шкугре гиколе.", "choice1": "оВерова сам да је оима бредо ренаме.", "choice2": "оСматра сам да је отреба да дебу јипаметни.", "question": "cause", "label": 0, "idx": 336, "changed": false}
+{"premise": "векЧо је опреста да шипу.", "choice1": "оПоче је шеви да жбаве.", "choice2": "оПоче је јерани да јеуста.", "question": "effect", "label": 0, "idx": 337, "changed": false}
+{"premise": "наЖе је лаудари чанапада у нос.", "choice1": "лоТе чанапада је лопоста нобеживот.", "choice2": "дачНапа је опоче да рикрва.", "question": "effect", "label": 1, "idx": 338, "changed": false}
+{"premise": "цаСтрели је лапромаши тарцен теме.", "choice1": "векЧо јени бродо онанишани.", "choice2": "векЧо је огуби на њутакмиче.", "question": "cause", "label": 0, "idx": 339, "changed": false}
+{"premise": "сникВла је отражи да вачистребљи ђедо у вуњего ћуку.", "choice1": "оОткри је вепацо у муподру.", "choice2": "оИма је муфар вамра у јојсво бисо.", "question": "cause", "label": 0, "idx": 340, "changed": false}
+{"premise": "оПредложи сам ћигош да мооде гдене на рувече.", "choice1": "оБи сам шесуви ранумо да би штоне оскува.", "choice2": "јаМо ћагош се лазадржа жеду гоне што сам ожеле.", "question": "cause", "label": 0, "idx": 341, "changed": false}
+{"premise": "цаДевојчи је клазате табра кока тачи њен никднев.", "choice1": "лаПоче је да васакри никднев.", "choice2": "лаНабави је вино никднев.", "question": "effect", "label": 0, "idx": 342, "changed": false}
+{"premise": "наЖе јени лаима нодовољ цанов за нузакупни.", "choice1": "лаРади је нопрековреме.", "choice2": "лаНапусти је опоса.", "question": "effect", "label": 0, "idx": 343, "changed": false}
+{"premise": "теДе је зобр клопову куру.", "choice1": "клоДота је ћувру пећ.", "choice2": "лоМази је пса по вигла.", "question": "cause", "label": 0, "idx": 344, "changed": false}
+{"premise": "јаКомпани је лажеле да рипрове твозадовољс цакупа.", "choice1": "лиПонуди су пустпо вимно макупци.", "choice2": "лиПодели су туанке макупци.", "question": "effect", "label": 1, "idx": 345, "changed": false}
+{"premise": "ниДрве под се оизгреба.", "choice1": "чакДе је озбаци кејасту са такреве.", "choice2": "чакДе је овука цустоли по дупо.", "question": "cause", "label": 1, "idx": 346, "changed": false}
+{"premise": "лаЗаштити сам цели.", "choice1": "никПротив ми се оруга.", "choice2": "Мој никпротив је остисну цупесни.", "question": "cause", "label": 1, "idx": 347, "changed": false}
+{"premise": "наЧуве раскулпту је лаизгоре.", "choice1": "оУдари је гром.", "choice2": "диЉу су лидолази да јој се веди.", "question": "cause", "label": 0, "idx": 348, "changed": false}
+{"premise": "оОстави сам ћево на лусто.", "choice1": "ћеВо је лорасу месе.", "choice2": "На ћуво су се лескупи цемуши.", "question": "effect", "label": 1, "idx": 349, "changed": false}
+{"premise": "ниБалери је опука ментлига.", "choice1": "лаИспружи је степр на манога.", "choice2": "лаУгану је зглоб.", "question": "cause", "label": 1, "idx": 350, "changed": false}
+{"premise": "куДеча су се леодвеза тлепер.", "choice1": "оНаучи је кока да их жеве.", "choice2": "оТрча је по штуиграли.", "question": "cause", "label": 1, "idx": 351, "changed": false}
+{"premise": "лаЗане сам се њемчита гекњи.", "choice1": "лаВрати сам гукњи.", "choice2": "лаИзгуби сам ћајосе за мевре.", "question": "effect", "label": 1, "idx": 352, "changed": false}
+{"premise": "векЧо је оима наслич њаувере ока вињего љиродите.", "choice1": "љиРодите су лиутица на гање.", "choice2": "љиРодите су га се клиодре.", "question": "cause", "label": 0, "idx": 353, "changed": false}
+{"premise": "билАутомо је копола оуспорава и оста.", "choice1": "лоНеста му је вагори.", "choice2": "зачВо је озаспа.", "question": "cause", "label": 0, "idx": 354, "changed": false}
+{"premise": "векЧо је оје ледсладо на цусун.", "choice1": "ледСладо је оизгуби кусу.", "choice2": "ледСладо је оцури из такорне.", "question": "effect", "label": 1, "idx": 355, "changed": false}
+{"premise": "оОкачи сам кусли у бисо.", "choice1": "пихТе је оделова вопрља.", "choice2": "виЗидо су лиделова знопра.", "question": "cause", "label": 1, "idx": 356, "changed": false}
+{"premise": "оИзаша сам јерани са слапо.", "choice1": "лаБоле ме је вагла.", "choice2": "Мој шеф је одржа наксаста.", "question": "cause", "label": 0, "idx": 357, "changed": false}
+{"premise": "неШте је лоунереди пихте.", "choice1": "сникВла је оизгрди неште.", "choice2": "сникВла је туштене ода цупосласти.", "question": "effect", "label": 0, "idx": 358, "changed": false}
+{"premise": "оИзвини сам се љупријате.", "choice1": "тељПрија ми је оопрости.", "choice2": "Мој тељприја је опобесне.", "question": "effect", "label": 0, "idx": 359, "changed": false}
+{"premise": "векЧо се оистица у лигоми.", "choice1": "оНоси је нацра.", "choice2": "оНоси је нифлуоресцент слукпр.", "question": "cause", "label": 1, "idx": 360, "changed": false}
+{"premise": "докСве је олага под твомзакле.", "choice1": "оЗаврши је њесведоче.", "choice2": "женОпту је за нолаж њесведоче.", "question": "effect", "label": 1, "idx": 361, "changed": false}
+{"premise": "наЖе је лаофарба суко.", "choice1": "лаЖеле је да нипроме гледиз.", "choice2": "лаЖеле је да се пиукло.", "question": "cause", "label": 0, "idx": 362, "changed": false}
+{"premise": "тиИмигран су ниухваће кока ноилегал вебора у мљизе.", "choice1": "шлиПрона су њезапосле.", "choice2": "лиБи су нидепортова.", "question": "effect", "label": 1, "idx": 363, "changed": false}
+{"premise": "никГовор на пуску се онашали.", "choice1": "каПубли се ласмеја.", "choice2": "каПубли је лауста.", "question": "effect", "label": 0, "idx": 364, "changed": false}
+{"premise": "лаПогледа сам у цесун.", "choice1": "цеСун ме је лозаслепи.", "choice2": "жаКо ми је лапотамне на цусун.", "question": "effect", "label": 0, "idx": 365, "changed": false}
+{"premise": "лоБи ми је днодоса.", "choice1": "лаНегодова сам.", "choice2": "лаЗевну сам.", "question": "effect", "label": 1, "idx": 366, "changed": false}
+{"premise": "закОдре јени омога да се чеисе.", "choice1": "Нож је оби туп.", "choice2": "закОдре је оби жив.", "question": "cause", "label": 0, "idx": 367, "changed": false}
+{"premise": "наЖе је лапрогласи кротбан.", "choice1": "лаДоби је јуалиментаци.", "choice2": "лаНаправи је мнеогро ведуго.", "question": "cause", "label": 1, "idx": 368, "changed": false}
+{"premise": "тлаСве у вомпријатеље нуста су лаби наупаље.", "choice1": "оПита сам се да ли је оизаша.", "choice2": "оОдлучи сам да га тимпосе.", "question": "effect", "label": 1, "idx": 369, "changed": false}
+{"premise": "лаСтави сам цвет споди сано.", "choice1": "цеЛати су леспа са тацве.", "choice2": "лаОсети сам рисми тацве.", "question": "effect", "label": 1, "idx": 370, "changed": false}
+{"premise": "наЖе је лаосети јуносталги.", "choice1": "лаСре је љапријате из твадетињс.", "choice2": "лаВика је на јусво цуде.", "question": "cause", "label": 0, "idx": 371, "changed": false}
+{"premise": "дентСту је оодуговлачи са домра.", "choice1": "оПреда је рад пре каро.", "choice2": "оПреда је шеннедовр рад.", "question": "effect", "label": 1, "idx": 372, "changed": false}
+{"premise": "оПоквари ми се билаутомо.", "choice1": "оОтиша сам у нитрж тарцен.", "choice2": "оПозва сам тоау-рамеханича.", "question": "effect", "label": 1, "idx": 373, "changed": false}
+{"premise": "лаБаци сам купору.", "choice1": "лаБи је мнаанони.", "choice2": "лаБи је тканечи.", "question": "cause", "label": 1, "idx": 374, "changed": false}
+{"premise": "цаПти је лазамахну макрили.", "choice1": "лаСне је јеја.", "choice2": "лаВину се вису.", "question": "effect", "label": 1, "idx": 375, "changed": false}
+{"premise": "оПаркира сам се на циули.", "choice1": "жаГара је лаби наотворе.", "choice2": "жаГара је лаби напу.", "question": "cause", "label": 1, "idx": 376, "changed": false}
+{"premise": "лацКримина је оупери штољпи у твужр.", "choice1": "лацКримина је оспусти штољпи.", "choice2": "тваЖр је глаподи керу.", "question": "effect", "label": 1, "idx": 377, "changed": false}
+{"premise": "оРадова сам се дувикен.", "choice1": "оПланира сам да демо на нусахра цастри.", "choice2": "оПланира сам да демо на њевенча љапријате.", "question": "cause", "label": 1, "idx": 378, "changed": false}
+{"premise": "лаИзгуби сам јампо о нувреме.", "choice1": "лаСањари сам.", "choice2": "лаБи ми је каму.", "question": "cause", "label": 0, "idx": 379, "changed": false}
+{"premise": "ментДоку је панодштам тконечи.", "choice1": "пачШтам јени оима нодовољ ратоне.", "choice2": "пачШтам јени моима рапапи.", "question": "cause", "label": 0, "idx": 380, "changed": false}
+{"premise": "На нустадио је наинтонира надржав мнахи.", "choice1": "чиНавија су се лиокрену ка визаста.", "choice2": "чиНавија су лиистрча на ренте.", "question": "effect", "label": 0, "idx": 381, "changed": false}
+{"premise": "макУ је оби тавбљу.", "choice1": "лаПослужи сам га.", "choice2": "лаПосоли сам га.", "question": "effect", "label": 1, "idx": 382, "changed": false}
+{"premise": "оСтави сам нипапир брусу на нупроливе носттеч.", "choice1": "брусУ је оупи носттеч.", "choice2": "ностТеч је лаостави вилепљи траг.", "question": "effect", "label": 0, "idx": 383, "changed": false}
+{"premise": "нуЖе су липрекину среду њачита гекњи.", "choice1": "лаОбележи је кледо је гласти.", "choice2": "воПоно је лапрочита гукњи.", "question": "effect", "label": 0, "idx": 384, "changed": false}
+{"premise": "У нуавио се лаосети јатурбуленци.", "choice1": "векЧо је озатега снисигурно јаспо.", "choice2": "векЧо је опогледа кроз зорпро.", "question": "effect", "label": 0, "idx": 385, "changed": false}
+{"premise": "чакДе се отргну.", "choice1": "цаДевојчи га је лаигнориса.", "choice2": "цаДевојчи га је лакуцну.", "question": "cause", "label": 1, "idx": 386, "changed": false}
+{"premise": "риЛека су њипацијентки лиугради кивештач уд.", "choice1": "лиАмпутира су јој гуно.", "choice2": "лиПрати су нење невитал јефункци.", "question": "cause", "label": 0, "idx": 387, "changed": false}
+{"premise": "чакДе је оуштину цудевојчи за катла.", "choice1": "глаСле је марамени.", "choice2": "лаТргну је куру ка бисе.", "question": "effect", "label": 1, "idx": 388, "changed": false}
+{"premise": "оТражи сам ветса од љапријате.", "choice1": "оЦени сам воњего њемишље.", "choice2": "оЗна сам да сам у вупра.", "question": "cause", "label": 0, "idx": 389, "changed": false}
+{"premise": "чакДе је оста у тобла.", "choice1": "тоБла му се лозалепи за леципе.", "choice2": "тоБла му је лопрсну у цели.", "question": "effect", "label": 0, "idx": 390, "changed": false}
+{"premise": "У дугра је лопа гомно гасне.", "choice1": "леШко су се лезатвори.", "choice2": "диЉу су се лисакри споди мљезе.", "question": "effect", "label": 0, "idx": 391, "changed": false}
+{"premise": "куРадни се лазаврши насме.", "choice1": "оОтиша је ћику са слапо.", "choice2": "оЗапрети је да ће тида тказо.", "question": "effect", "label": 0, "idx": 392, "changed": false}
+{"premise": "воДр је лооштети ћуку.", "choice1": "воДр је лопа на кров.", "choice2": "воДр је лобаца кусен на штедвори.", "question": "cause", "label": 0, "idx": 393, "changed": false}
+{"premise": "цаЦепани се лапреполови.", "choice1": "оСложи сам цецепани у минка.", "choice2": "оЗамахну сам ромсеки на цуцепани.", "question": "cause", "label": 1, "idx": 394, "changed": false}
+{"premise": "цаПороди је лачестита рупа.", "choice1": "Пар је ообјави да се јераста.", "choice2": "Пар је ообјави да јуочеку вуприно.", "question": "cause", "label": 1, "idx": 395, "changed": false}
+{"premise": "каДевој је лапосла кумом клонпо за дан нихзаљубље.", "choice1": "оСвиђа јој се.", "choice2": "лаПољуби га је.", "question": "cause", "label": 0, "idx": 396, "changed": false}
+{"premise": "лаКлима сам вомгла на вупријатеље вуизја.", "choice1": "лаБи сам назбуње.", "choice2": "лаСлага сам се са њим.", "question": "cause", "label": 1, "idx": 397, "changed": false}
+{"premise": "љиПријате су либаци чићнов.", "choice1": "лиХте су да ђупрона снокомпроми њереше.", "choice2": "лиХте су да судоне нупоште куодлу.", "question": "cause", "label": 1, "idx": 398, "changed": false}
+{"premise": "оОгласи се мертај у њикухи.", "choice1": "векЧо је оспакова ценамирни у дерфрижи.", "choice2": "векЧо је оизвади цупи из нерер.", "question": "effect", "label": 1, "idx": 399, "changed": false}
+{"premise": "наЖе је лапостави занамбицио циљ.", "choice1": "лаЗабушава је.", "choice2": "ноНапор је ларади.", "question": "effect", "label": 1, "idx": 400, "changed": false}
+{"premise": "ћанИму векчо је мроу од стистаро.", "choice1": "говЊе син је оупа у мепробле са номзако.", "choice2": "говЊе син је онаследи воњего твобогатс.", "question": "effect", "label": 1, "idx": 401, "changed": false}
+{"premise": "наЖе је лагази менпла.", "choice1": "менПла се оугаси.", "choice2": "Из напламе се оподига дим.", "question": "effect", "label": 0, "idx": 402, "changed": false}
+{"premise": "нинЖе билаутомо је оби у цирадиони.", "choice1": "таОдузе јој је кавозач ладозво.", "choice2": "лаИма је нусаобраћај ћунесре.", "question": "cause", "label": 1, "idx": 403, "changed": false}
+{"premise": "лаПреспава сам ларма.", "choice1": "лаНаправи сам чакдору.", "choice2": "лаПропусти сам чакдору.", "question": "effect", "label": 1, "idx": 404, "changed": false}
+{"premise": "наЈав ностлич је шлаиза из нелимузи.", "choice1": "лиСева су виблице мапре муње.", "choice2": "ваЊего цапороди је лаприсуствова јиконференци за пуштам.", "question": "effect", "label": 0, "idx": 405, "changed": false}
+{"premise": "наЖе се году лазадржа у дика.", "choice1": "даВо у дика је лапоста камла.", "choice2": "даВо је лаисцуре из дека.", "question": "effect", "label": 0, "idx": 406, "changed": false}
+{"premise": "дентСту је охте да знаупо гедру тестуден у сукампу.", "choice1": "оПридружи се твубратс.", "choice2": "оДипломира је куелектротехни.", "question": "effect", "label": 0, "idx": 407, "changed": false}
+{"premise": "глаПоди сам кејасту са чакау.", "choice1": "лаТражи сам танси вацно.", "choice2": "лаПреуређива сам нуднев бусо.", "question": "cause", "label": 0, "idx": 408, "changed": false}
+{"premise": "саО је лалете ка кудеча.", "choice1": "чакДе је опобега.", "choice2": "чакДе је оубра цвет.", "question": "effect", "label": 0, "idx": 409, "changed": false}
+{"premise": "наЖе је напроглаше вомкри за шајпрекр.", "choice1": "наОсуђе је на нодруштве-станкори рад.", "choice2": "лаДоби је нусмрт знука.", "question": "effect", "label": 0, "idx": 410, "changed": false}
+{"premise": "оУмеша сам ћерше у врућ чај.", "choice1": "Чај се опуши.", "choice2": "ћерШе се ораствори.", "question": "effect", "label": 1, "idx": 411, "changed": false}
+{"premise": "ранВете је охода ћишепају.", "choice1": "оБи је ванрегруто је за рат.", "choice2": "оБи је њенра у циби.", "question": "cause", "label": 1, "idx": 412, "changed": false}
+{"premise": "лацКримина је опобега од јеполици.", "choice1": "јаПолици је лазбрину твужр.", "choice2": "јаПолици је лајури цакриминал.", "question": "effect", "label": 1, "idx": 413, "changed": false}
+{"premise": "птопЛа јени охте да се чиукљу.", "choice1": "лаИспусти сам га.", "choice2": "лаНапуни сам га.", "question": "cause", "label": 0, "idx": 414, "changed": false}
+{"premise": "наЖе јени шеви лаима стаме у руорма.", "choice1": "лаНабави је шепреви бегардеро.", "choice2": "лаСложи је веш.", "question": "cause", "label": 0, "idx": 415, "changed": false}
+{"premise": "куЧове је оби носломље цеср.", "choice1": "ваЊего наже се лапороди.", "choice2": "наЖе га је лаостави.", "question": "cause", "label": 1, "idx": 416, "changed": false}
+{"premise": "векЧо је одоби мудипло.", "choice1": "оПоста је ванквалифико за опоса јико је ожеле.", "choice2": "наПовуче му је дапону за опоса.", "question": "effect", "label": 0, "idx": 417, "changed": false}
+{"premise": "ковЧове глас се сноја очу у лојце лиса.", "choice1": "оПоздрави је купубли.", "choice2": "оГовори је у фонмикро.", "question": "cause", "label": 1, "idx": 418, "changed": false}
+{"premise": "лаБаци сам чићнов у нуфонта.", "choice1": "чићНов је опотону на дно.", "choice2": "чићНов се опреполови.", "question": "effect", "label": 0, "idx": 419, "changed": false}
+{"premise": "грачИ је оудари цулопти мапре пиру.", "choice1": "цаЛопти је шлау у пуру.", "choice2": "цаЛопти се лаврати до чаигра.", "question": "effect", "label": 0, "idx": 420, "changed": false}
+{"premise": "оУдахну сам нупраши на нутава.", "choice1": "оШтуцну сам.", "choice2": "оКихну сам.", "question": "effect", "label": 1, "idx": 421, "changed": false}
+{"premise": "каКасир у ципродавни је лапозва њеобезбеђе.", "choice1": "пацКу је окористи нифалсификова вацно.", "choice2": "пацКу је оостави неукључе вефаро.", "question": "cause", "label": 0, "idx": 422, "changed": false}
+{"premise": "лаИзне сам бређу.", "choice1": "бреЂу је лоусмрде њукухи.", "choice2": "ноСлучај сам лабаци сакспи за нукупови.", "question": "cause", "label": 0, "idx": 423, "changed": false}
+{"premise": "цаПороди је шлаоти у шкизооло врт.", "choice1": "цаДе су се ладиви маживотиња.", "choice2": "цаДе су лајури њеживоти.", "question": "effect", "label": 0, "idx": 424, "changed": false}
+{"premise": "векЧо је сногла одиса.", "choice1": "зиБубре су му лиотказива.", "choice2": "ћаПлу су му лаби напу зислу.", "question": "cause", "label": 1, "idx": 425, "changed": false}
+{"premise": "оИма сам тукар шкави за церткон.", "choice1": "оПита сам љапријате кока да немстиг до недвора.", "choice2": "оПита сам љапријате да ли лиже да деи.", "question": "effect", "label": 1, "idx": 426, "changed": false}
+{"premise": "оПоквари се макли-ђајуре у ћику.", "choice1": "лаИзне сам бадће.", "choice2": "лаОтвори сам репрозо.", "question": "effect", "label": 1, "idx": 427, "changed": false}
+{"premise": "каДеча су лаболе ђале.", "choice1": "нацРа му је оби ренотво.", "choice2": "нацРа му је оби жакте.", "question": "cause", "label": 1, "idx": 428, "changed": false}
+{"premise": "оДоне сам цимај клонпо.", "choice1": "оНаправи сам јој тутор.", "choice2": "оБи јој је данрођен.", "question": "cause", "label": 1, "idx": 429, "changed": false}
+{"premise": "сиНарци су либи ниуниште у штиба.", "choice1": "лаПче је лаубо набаштова.", "choice2": "цеВевери су леископа целукови.", "question": "cause", "label": 1, "idx": 430, "changed": false}
+{"premise": "лаУпали сам цушиби.", "choice1": "менПла се копола оугаси.", "choice2": "На цишиби се оствори менпла.", "question": "effect", "label": 1, "idx": 431, "changed": false}
+{"premise": "неСтра у руспо су глепости бунагод.", "choice1": "суНи лихте да се јурасправља на дусу.", "choice2": "лиХте су да вепопра нелич сеодно.", "question": "cause", "label": 0, "idx": 432, "changed": false}
+{"premise": "цаДе су тапосла у штесироти.", "choice1": "љиРодите су им лиумр.", "choice2": "љиРодите су их лиразмази.", "question": "cause", "label": 0, "idx": 433, "changed": false}
+{"premise": "орМете је опа у аноке.", "choice1": "оНаста је мицуна.", "choice2": "оПоче је да дапа град.", "question": "effect", "label": 0, "idx": 434, "changed": false}
+{"premise": "каПланинар је шланаи на нуотров јузми.", "choice1": "лаДехидрира је.", "choice2": "лаУспаничи се.", "question": "effect", "label": 1, "idx": 435, "changed": false}
+{"premise": "наРер се лазагреја.", "choice1": "оУкључи сам нурер.", "choice2": "оСтави сам лоје у нурер.", "question": "cause", "label": 0, "idx": 436, "changed": false}
+{"premise": "лаСтисну сам шкукри налиму.", "choice1": "мунЛи се оубуђа.", "choice2": "мунЛи је опрсну.", "question": "effect", "label": 1, "idx": 437, "changed": false}
+{"premise": "ваДржа је лаоткри вуно јутеритори.", "choice1": "ваДржа је ланапусти ту јутеритори.", "choice2": "ваДржа је лаколонизова ту јутеритори.", "question": "effect", "label": 1, "idx": 438, "changed": false}
+{"premise": "шаЧа се ласруши са ласто.", "choice1": "лаРазби се у ћекомади по ломце дупо.", "choice2": "лаПа је на лугоми шаве.", "question": "effect", "label": 0, "idx": 439, "changed": false}
+{"premise": "Сто се ољуља.", "choice1": "Под је оби ваннера.", "choice2": "Под је оби завкли.", "question": "cause", "label": 0, "idx": 440, "changed": false}
+{"premise": "тацО је оухвати наси у жила.", "choice1": "Син му је опризна нуисти.", "choice2": "тацО је оверова нуси.", "question": "effect", "label": 0, "idx": 441, "changed": false}
+{"premise": "ваЧовеко вагла је лапулсира од лабо.", "choice1": "оПопи је рупси за шаљка.", "choice2": "оПопи је ринаспи.", "question": "effect", "label": 1, "idx": 442, "changed": false}
+{"premise": "Воз је оуспорава.", "choice1": "оПрилази је цистани.", "choice2": "оКасни је.", "question": "cause", "label": 0, "idx": 443, "changed": false}
+{"premise": "векЧо је оодлази на јетерапи.", "choice1": "У војњего ципороди је оби стадо нихментал стиболе.", "choice2": "наДијагностикова му је јадепреси.", "question": "cause", "label": 1, "idx": 444, "changed": false}
+{"premise": "наЖе се лаухвати за логр.", "choice1": "лаПрогута је нухра.", "choice2": "лаЗадави се номхра.", "question": "cause", "label": 1, "idx": 445, "changed": false}
+{"premise": "нуЖе је лоболе логр.", "choice1": "Глас јој је озвуча клопрому.", "choice2": "лаГовори је са скомнагла.", "question": "effect", "label": 0, "idx": 446, "changed": false}
+{"premise": "Пас је огледа нусоч лушниц на лусто.", "choice1": "оБали је.", "choice2": "оЛега је.", "question": "effect", "label": 0, "idx": 447, "changed": false}
+{"premise": "ноЖени ћепредузе је оби ноуспеш.", "choice1": "лаОтпусти је незапосле.", "choice2": "лаОбогати се.", "question": "effect", "label": 1, "idx": 448, "changed": false}
+{"premise": "циУчени су лиизлази из цеучиони.", "choice1": "лоЗвони је нозво.", "choice2": "тељУчи је одава ћидома такзада.", "question": "cause", "label": 0, "idx": 449, "changed": false}
+{"premise": "наЖе је латврди да је лавиде хаду.", "choice1": "ниЊе ципознани су лиизрази псуске.", "choice2": "ниЊе ципознани су лиисказа њерезумева.", "question": "effect", "label": 0, "idx": 450, "changed": false}
+{"premise": "векЧо је оизгуби слух.", "choice1": "роСко се оудави у нуокеа.", "choice2": "роСко је опогину у јиексплози.", "question": "cause", "label": 1, "idx": 451, "changed": false}
+{"premise": "теДе је лопусти пацконо набало.", "choice1": "лонБа се оиздува.", "choice2": "лонБа је оодлете вису.", "question": "effect", "label": 1, "idx": 452, "changed": false}
+{"premise": "векЧо је оизгуби ностспособ рагово.", "choice1": "оИма је ниможда дару.", "choice2": "коДубо је оудахну.", "question": "cause", "label": 0, "idx": 453, "changed": false}
+{"premise": "наЖе се ласапле на рутротоа.", "choice1": "На туасфал је лаби напукоти.", "choice2": "лаЧу је кока је коне везо.", "question": "cause", "label": 0, "idx": 454, "changed": false}
+{"premise": "векЧо је оскочи бубом у зенба.", "choice1": "лацСпаси је оускочи за њим.", "choice2": "векЧо је оиспрска цаспасио.", "question": "effect", "label": 1, "idx": 455, "changed": false}
+{"premise": "оПи сам кеантибиоти.", "choice1": "јаИнфекци ми се клапову.", "choice2": "јаИнфекци ми се лапрошири.", "question": "effect", "label": 0, "idx": 456, "changed": false}
+{"premise": "лоУпали се тожу тлосве на русемафо.", "choice1": "зачВо је остисну цукочни.", "choice2": "зачВо је остисну нусире.", "question": "effect", "label": 0, "idx": 457, "changed": false}
+{"premise": "наПластич дапосу се лаистопи.", "choice1": "лаПотопи сам дупосу у плуто дуво.", "choice2": "лаСтави сам дупосу на врућ ретшпо.", "question": "cause", "label": 1, "idx": 458, "changed": false}
+{"premise": "билАутомо се оулуби.", "choice1": "зачВо је оудари у скителефон стуб.", "choice2": "зачВо је опроша на ноцрве тлосве.", "question": "cause", "label": 0, "idx": 459, "changed": false}
+{"premise": "макМо је оучи леце ћино.", "choice1": "оПрескочи је спити.", "choice2": "оПоложи је спити.", "question": "effect", "label": 1, "idx": 460, "changed": false}
+{"premise": "чакДе се одржа за цуиви набазе.", "choice1": "оПлаши се да чинау да вапли.", "choice2": "лацСпаси је оби на стидужно.", "question": "cause", "label": 0, "idx": 461, "changed": false}
+{"premise": "лаСтави сам куру на дигру.", "choice1": "лаОсети сам јеоткуца цаср.", "choice2": "цеСр је лопоче жебр да цаку.", "question": "effect", "label": 0, "idx": 462, "changed": false}
+{"premise": "редПо јемо јеканцелари се лагради дазгра.", "choice1": "У јиканцелари је лаби жвагу.", "choice2": "У јиканцелари је лоби нобуч.", "question": "effect", "label": 1, "idx": 463, "changed": false}
+{"premise": "цаПороди је лажеле да знаупо вено десусе.", "choice1": "цаПороди је лапозва десусе на рувече.", "choice2": "цаПороди је ламаха масуседи из свог штадвори.", "question": "effect", "label": 0, "idx": 464, "changed": false}
+{"premise": "даВо је лапрсну из набазе.", "choice1": "вачПли је оскочи у зенба.", "choice2": "вачПли је оплута у нубазе.", "question": "cause", "label": 0, "idx": 465, "changed": false}
+{"premise": "оЗагриза сам чепар целубени.", "choice1": "ноСлучај сам опрогута кусемен.", "choice2": "ноСлучај сам оокрњи зуб.", "question": "effect", "label": 0, "idx": 466, "changed": false}
+{"premise": "чакДе се осапле.", "choice1": "наЈак му јени лаби назакопча.", "choice2": "тлеПер му суни леби невеза.", "question": "cause", "label": 1, "idx": 467, "changed": false}
+{"premise": "наЖе је ластави вечепо за шиу.", "choice1": "лаСмета јој је кабу.", "choice2": "лаПробуши је шиу.", "question": "cause", "label": 0, "idx": 468, "changed": false}
+{"premise": "оДопуни сам шуфла са домво.", "choice1": "оПопи сам сву дуво из ње.", "choice2": "оДржа сам је у руфрижиде.", "question": "cause", "label": 0, "idx": 469, "changed": false}
+{"premise": "скаТелевизиј јаемиси је лаби нацензуриса.", "choice1": "лаСадржа је ранвулга зикје.", "choice2": "лаИма је ванкомплико плетза.", "question": "cause", "label": 0, "idx": 470, "changed": false}
+{"premise": "Брод је опотону.", "choice1": "даПоса се лаудави.", "choice2": "даПоса је ланалете на регуса.", "question": "effect", "label": 0, "idx": 471, "changed": false}
+{"premise": "каДеча је лазбуни тказагоне.", "choice1": "оРеши је ткузагоне.", "choice2": "оТражи је моћпо.", "question": "effect", "label": 1, "idx": 472, "changed": false}
+{"premise": "фонТеле је озазвони.", "choice1": "векЧо је оспусти цуслушали.", "choice2": "векЧо је оподига цуслушали.", "question": "effect", "label": 1, "idx": 473, "changed": false}
+{"premise": "наЖе је лазури у неме.", "choice1": "лаЗагрли сам је.", "choice2": "лоБи ми је нонепријат.", "question": "effect", "label": 1, "idx": 474, "changed": false}
+{"premise": "паГру је шлаиза из јамузе.", "choice1": "лиСлика су теекспона.", "choice2": "лиВиде су све теекспона.", "question": "cause", "label": 1, "idx": 475, "changed": false}
+{"premise": "векЧо је опоче да се вљараспра са мном.", "choice1": "тељПрија ме је опредстави том кучове.", "choice2": "тељПрија је оста на јумо нустра.", "question": "effect", "label": 1, "idx": 476, "changed": false}
+{"premise": "лаИспусти ми је магу на клубици.", "choice1": "оНадува сам здухва у мугу.", "choice2": "оПромени сам нубрзи на клубици.", "question": "effect", "label": 0, "idx": 477, "changed": false}
+{"premise": "цаДевојчи је ладелова добле.", "choice1": "тацО јој је опрочита чупри.", "choice2": "тацО јој је опипну лоче.", "question": "effect", "label": 1, "idx": 478, "changed": false}
+{"premise": "лоНеста је ламасти у рупе.", "choice1": "лаКористи сам куолов.", "choice2": "лаПотписа сам се.", "question": "effect", "label": 0, "idx": 479, "changed": false}
+{"premise": "куЧове је јенодби тевзах за диткре.", "choice1": "оИма је ведуго.", "choice2": "оПокрену је опоса.", "question": "cause", "label": 0, "idx": 480, "changed": false}
+{"premise": "цаДевојчи јени шлаи у лушко и лаоста је код ћеку.", "choice1": "лаДоби је лема њебоги.", "choice2": "лаУжива је у њууче кематемати.", "question": "cause", "label": 0, "idx": 481, "changed": false}
+{"premise": "саКе за ћесме је лаби напу.", "choice1": "лаОдне сам је у нерконтеј.", "choice2": "лаБаци сам је у русудопе.", "question": "effect", "label": 0, "idx": 482, "changed": false}
+{"premise": "оУсисава сам пихте.", "choice1": "Мој мерци је опросу пунч.", "choice2": "Мој пас се олиња.", "question": "cause", "label": 1, "idx": 483, "changed": false}
+{"premise": "векЧо је оизгуби венер.", "choice1": "оИскључи је свој наррачу.", "choice2": "оБаци је цустоли на гудру нустра бесо.", "question": "effect", "label": 1, "idx": 484, "changed": false}
+{"premise": "каДевој је лабаци цугранчи у скулогор трува.", "choice1": "цаГранчи је лаизгоре.", "choice2": "траВа се лаугаси.", "question": "effect", "label": 0, "idx": 485, "changed": false}
+{"premise": "векЧо је оизаша из туш-некаби", "choice1": "лоНеста је плето дево.", "choice2": "јеНи омога да ђепрона шкирпе.", "question": "cause", "label": 0, "idx": 486, "changed": false}
+{"premise": "љиРодите су лижеле да им цаде дуи на тетфакул.", "choice1": "лиШтеде су за нушколари.", "choice2": "лиПодстица су цуде да се јуигра љунапо.", "question": "effect", "label": 0, "idx": 487, "changed": false}
+{"premise": "векЧо је ораспертла леципе.", "choice1": "леЦипе су се леолабави.", "choice2": "леЦипе су се леизлиза.", "question": "effect", "label": 0, "idx": 488, "changed": false}
+{"premise": "векЧо је опоје нуполови каобро.", "choice1": "ткеОста је остави у дерфрижи.", "choice2": "оСачува је цептре.", "question": "effect", "label": 0, "idx": 489, "changed": false}
+{"premise": "оОтека ми је накчла.", "choice1": "лаСтави сам лед на гање.", "choice2": "лаНамаза сам га номлосио.", "question": "effect", "label": 0, "idx": 490, "changed": false}
+{"premise": "таВра јемо јеканцелари су лаби наотворе.", "choice1": "оРазговара сам са цомколегини за ломсто.", "choice2": "оНачу сам ворразго у куходни.", "question": "effect", "label": 1, "idx": 491, "changed": false}
+{"premise": "лаМора сам да камче у дуре.", "choice1": "лаСе сам.", "choice2": "лаПрелистава сам писчасо.", "question": "effect", "label": 1, "idx": 492, "changed": false}
+{"premise": "векЧо је озамахну да риуда цумуши.", "choice1": "цаМуши је лаодлете.", "choice2": "цаМуши је лаоста на стуме.", "question": "effect", "label": 0, "idx": 493, "changed": false}
+{"premise": "векЧо је онаписа менттеста.", "choice1": "оУмира је.", "choice2": "оБи је вацудо.", "question": "cause", "label": 0, "idx": 494, "changed": false}
+{"premise": "качТр је оосети да га рентконку жесусти.", "choice1": "оОдуста је од кетр.", "choice2": "оУбрза је потем.", "question": "effect", "label": 1, "idx": 495, "changed": false}
+{"premise": "воПажљи сам оразмисли о мупробле.", "choice1": "оТражи сам ветса.", "choice2": "оНаша сам њереше.", "question": "effect", "label": 1, "idx": 496, "changed": false}
+{"premise": "стаТури је охода по вомклима ћемвисе стумо.", "choice1": "оБи је шенпрепла.", "choice2": "оБи је ђенузбу.", "question": "effect", "label": 0, "idx": 497, "changed": false}
+{"premise": "векЧо је оочекива дупобе мати.", "choice1": "оНаша се са мапријатељи да дагле цуутакми.", "choice2": "оКлади се са мапријатељи.", "question": "effect", "label": 1, "idx": 498, "changed": false}
+{"premise": "чакДе јени омога да спиза.", "choice1": "оПодеси је ларма.", "choice2": "оБроја је цеов.", "question": "effect", "label": 1, "idx": 499, "changed": false}

@@ -1,0 +1,500 @@
+{"premise": "Rič je bla auita u folije z balunčki.", "choice1": "Tla se je luomt.", "choice2": "Bla je druobna.", "question": "cause", "idx": 0}
+{"premise": "Spraznu sn aržete", "choice1": "Najdu sn astank karte.", "choice2": "Najdu sn aružje.", "question": "effect", "idx": 1}
+{"premise": "Termiti sa napadl bajta.", "choice1": "Termiti sa zmaglil z bajte.", "choice2": "Termiti sa prežarl lis u bajt.", "question": "effect", "idx": 2}
+{"premise": "Uandravci sa pršl da meje.", "choice1": "Patrulni agent nem je pregliau pasoše.", "choice2": "Patrulni agent ih je abtužu, de šuercaje.", "question": "effect", "idx": 3}
+{"premise": "Kanclerije je bla zaparta.", "choice1": "Praznk je biu.", "choice2": "Palitje je blu.", "question": "cause", "idx": 4}
+{"premise": "Zjale je zmajnkalu energije.", "choice1": "Špilala je dama.", "choice2": "Skakala je čez kolebnica.", "question": "cause", "idx": 5}
+{"premise": "Zgubila je plac u uarst.", "choice1": "Še ueč naroda je stapilu u uarsta.", "choice2": "Stapila je uan z uarste.", "question": "cause", "idx": 6}
+{"premise": "Zjale si je zatislnu nus.", "choice1": "Dojenčk se je slinu pa partihlnu.", "choice2": "Dojenčk se je pakakau u plenice.", "question": "cause", "idx": 7}
+{"premise": "Grupa je zašpilala suj tabel znan komad.", "choice1": "Publika je ploskala zram muske.", "choice2": "Publika je manirlih paslušela u tišin.", "question": "effect", "idx": 8}
+{"premise": "Zjale se je tlu zahualt tršic za matematika.", "choice1": "Zjale je mouglu za kazn astat pa pauku u šul.", "choice2": "Zjale je tršic parnjeslu pešk.", "question": "effect", "idx": 9}
+{"premise": "Tamladi taborniki sa bli presrani.", "choice1": "Uodja tabornikau nem je pauidau ena strašliua štorija.", "choice2": "Na tabornmu uognu sa papjekl pince.", "question": "cause", "idx": 10}
+{"premise": "Dic se je habnu u tintara.", "choice1": "Zasejneu se je.", "choice2": "Dubu je pretres mažganau.", "question": "effect", "idx": 11}
+{"premise": "Ček, ka sn ga spisau, ni šau skus.", "choice1": "Muj račun na bank je biu prazn.", "choice2": "Zaslužu sn uiši dnarska.", "question": "cause", "idx": 12}
+{"premise": "Angau ladlc na mejlu je biu pouhn spema.", "choice1": "Pabrisau je spem.", "choice2": "Puoslau je grupn mejl.", "question": "effect", "idx": 13}
+{"premise": "Mornar je biu u karanten.", "choice1": "Biu je ispastaulen balizn.", "choice2": "Akalihau se je ad balizn.", "question": "cause", "idx": 14}
+{"premise": "Zjala si je zapunila koda.", "choice1": "Panaulala si i je sama pr sjeb.", "choice2": "Pazabila i je zacahnat.", "question": "cause", "idx": 15}
+{"premise": "U kazarc sn naleu uoda.", "choice1": "Uada mi je pagasila žeje.", "choice2": "Kazarc je ratau pouhn.", "question": "effect", "idx": 16}
+{"premise": "Dic je astau tihu, ka je angau kamerat jejneu gauort.", "choice1": "Teu je bit u apura sujmu kameratu.", "choice2": "Tuhtau je, kua je biu kamerat pavidau.", "question": "cause", "idx": 17}
+{"premise": "Jest sm biu kriu za nasriče.", "choice1": "Pačutu sm se kriuga.", "choice2": "Šou sm na sadnije.", "question": "effect", "idx": 18}
+{"premise": "Kitne je šla skarsib.", "choice1": "Kitne je bla narolana akul gume.", "choice2": "En člin ad kitne se je zluomu.", "question": "cause", "idx": 19}
+{"premise": "Zmenila sta se za kompromis.", "choice1": "Naveličela sta se krigat.", "choice2": "Izagibala sta se gauarejnu ad problema.", "question": "cause", "idx": 20}
+{"premise": "Žinska se je namenila kandidirat za jauna funkcije.", "choice1": "Naila je udje kampajne.", "choice2": "Pričela je na sadni.", "question": "effect", "idx": 21}
+{"premise": "Na patuajnu je parčakauau marzlu urjeme.", "choice1": "U kufr je spakirau guorke cujne.", "choice2": "Patauau je z uelikim kufram.", "question": "effect", "idx": 22}
+{"premise": "Študent je uidu adgauort na uprašajne.", "choice1": "Uzignu je ruoka.", "choice2": "Hecau se je.", "question": "effect", "idx": 23}
+{"premise": "Zasauzile sa se mu ači.", "choice1": "Prah mu je paršu u ači.", "choice2": "Guor je deu zaščitne špigle.", "question": "cause", "idx": 24}
+{"premise": "Igrauka je zmagala pit igr zapuret.", "choice1": "Ninna nasprutnca i je abtažila, de galfa.", "choice2": "Ninni nasprutnc se je smilla.", "question": "effect", "idx": 25}
+{"premise": "Tauarš je stargau kontrolka ad učenca.", "choice1": "Ulauiu ga je, de galfa.", "choice2": "Učenc ni prau adgauru.", "question": "cause", "idx": 26}
+{"premise": "Mal sn ujejnela gauort.", "choice1": "Zmajnkalu mi je glasu.", "choice2": "Pršla sn ab sapa.", "question": "cause", "idx": 27}
+{"premise": "Zmrznena hrana se je attajela.", "choice1": "Dila sn je u mikroualouka.", "choice2": "Pakrila sn je s folije.", "question": "cause", "idx": 28}
+{"premise": "Dilauc se je dilau, de je balan.", "choice1": "Šipalu ga je pa želudcu.", "choice2": "Teu je mit en dan frej.", "question": "cause", "idx": 29}
+{"premise": "Zjala je prstala u bazenu.", "choice1": "Tjekla je pa teras ab bazenu.", "choice2": "Skačila je z adskuočne dile.", "question": "cause", "idx": 30}
+{"premise": "Karte za film sa ble razpradane.", "choice1": "Atuoritu filma je bla.", "choice2": "Film je dubu slabe kritike.", "question": "cause", "idx": 31}
+{"premise": "Dic se je pasušu.", "choice1": "Aldi sa ga stil pr gmah.", "choice2": "Aldi sa ga pahualil.", "question": "effect", "idx": 32}
+{"premise": "Zjala si je ažulila raki.", "choice1": "Natipkala je pismu.", "choice2": "Zlejzla je pa štriku.", "question": "cause", "idx": 33}
+{"premise": "Cirkusant je žonglirau mpa uozu monocikl.", "choice1": "Publika je ploskala ad naudušejne.", "choice2": "Akrobatka se je guncala na trapezu.", "question": "effect", "idx": 34}
+{"premise": "Zgubila sn patrplejne.", "choice1": "Parjatlca me je stila čakat.", "choice2": "Parjatlca je pršla ab ur.", "question": "cause", "idx": 35}
+{"premise": "Države u uojn sa tle mir.", "choice1": "Razuile sa jedrsku aružje.", "choice2": "Dasigle sa sporazum.", "question": "effect", "idx": 36}
+{"premise": "Dic je uziu uspaualne tablete.", "choice1": "Auila ga je amutca.", "choice2": "Dubu je uračina.", "question": "effect", "idx": 37}
+{"premise": "Žejnska je habnila u kauč.", "choice1": "Nuoška ad kauče se je razanigala.", "choice2": "Amajla si je kalinu.", "question": "effect", "idx": 38}
+{"premise": "Pub je stisnu balun.", "choice1": "Balun je puču.", "choice2": "Balun je adljetu.", "question": "effect", "idx": 39}
+{"premise": "Uandrauci sa se parjaul u hotel.", "choice1": "Raspakiral sa kufre.", "choice2": "Šli sa na aerodrom.", "question": "effect", "idx": 40}
+{"premise": "Uklala sn u brisku.", "choice1": "Brisku je bla abtaučena.", "choice2": "Pacediu se je suk.", "question": "effect", "idx": 41}
+{"premise": "Ruoke se se mi začile limat.", "choice1": "Snidu sn kruof.", "choice2": "Biu sn za slatku.", "question": "cause", "idx": 42}
+{"premise": "Pahnu sn urata.", "choice1": "Urata sa se adparla.", "choice2": "Urata sa se zaklenila.", "question": "effect", "idx": 43}
+{"premise": "Aktiuisti sa bojkotiral izdelke.", "choice1": "Izdelke sa testiral, de bi bli zih kualitetni.", "choice2": "Izdelke sa bli dilal atruoc.", "question": "cause", "idx": 44}
+{"premise": "U stina sn zauartala lukne.", "choice1": "Z lukne je zlejzla meš.", "choice2": "Z lukne je pihnu prah.", "question": "effect", "idx": 45}
+{"premise": "Žinska je bla faušlina sjestr.", "choice1": "Ninna sjestra je bla srična.", "choice2": "Ninna sjestra se je lačila.", "question": "cause", "idx": 46}
+{"premise": "Pa srajc sn se paleu z uinam.", "choice1": "Guor sn diu prtihl.", "choice2": "Preabliku sn srajca.", "question": "effect", "idx": 47}
+{"premise": "Žinska na kas je adparla kasa.", "choice1": "Kupc je pagribu pa priktuošlnu.", "choice2": "Kupc i je stignu soude.", "question": "cause", "idx": 48}
+{"premise": "Uličn muskontar je paruabu uelik aldi.", "choice1": "Aldi sa mu dal drabiš.", "choice2": "Aldi je puoslau stran.", "question": "effect", "idx": 49}
+{"premise": "Pupč je pacmizdau uarušk.", "choice1": "Pagrišeu je starše.", "choice2": "Cajt je biu za malca.", "question": "cause", "idx": 50}
+{"premise": "Pilotau radar je zacahnau neuihta.", "choice1": "Pilot je abarnu stran ad neuihte.", "choice2": "Pilot je adfarčeu skus neuihta.", "question": "effect", "idx": 51}
+{"premise": "Z dreuisa sa adpadl listi.", "choice1": "Listi sa mejnal farba.", "choice2": "Listi sa se nabral na tleh.", "question": "effect", "idx": 52}
+{"premise": "Pup se je pačutu nagmahnga.", "choice1": "Adluču se je, de se bu s sjestra jegrau s kartami.", "choice2": "Adluču se je, de bu sjestr ena ušpileu.", "question": "effect", "idx": 53}
+{"premise": "Uotrak je pajamrau, de mure na skrit.", "choice1": "Fotr mu je dau pjače z mehurčki.", "choice2": "Fotr je ustau na bencinski.", "question": "effect", "idx": 54}
+{"premise": "Uotrak je patrisu hrana za ribe u akuari.", "choice1": "Riba je skačila iz akuarije.", "choice2": "Riba je zaplauala prut hran.", "question": "effect", "idx": 55}
+{"premise": "Žinska je mejnala političnu mnejne.", "choice1": "Mejnala je stranka.", "choice2": "Šla je na demonstracije.", "question": "effect", "idx": 56}
+{"premise": "Umiualnik u kopalnic se je zamašiu.", "choice1": "Adparu sn pipa.", "choice2": "Nut sn zleu čistilu za attok.", "question": "effect", "idx": 57}
+{"premise": "Putnki sa stapil z ulaka.", "choice1": "Ulak je paršu na štacjun.", "choice2": "Ulak je zabrlizgau.", "question": "cause", "idx": 58}
+{"premise": "Dic je partisnu na tafajhtn kuonc kauerte.", "choice1": "Na kauerta je deu znamka.", "choice2": "Zalimau je kauerta.", "question": "effect", "idx": 59}
+{"premise": "Parjatlna sta zgubila stik.", "choice1": "Duobru sta se lajdala.", "choice2": "Preselila sta se u druga mista.", "question": "cause", "idx": 60}
+{"premise": "Računouodkina je šuah dilala s sridstui ad podjetja.", "choice1": "Adpustil sa je s položaje.", "choice2": "Šla je na porodniška.", "question": "effect", "idx": 61}
+{"premise": "Pagliala sn na ura.", "choice1": "Zaslišela sn tiktakejne ure.", "choice2": "Tla sn pagliat, kuk je ura.", "question": "cause", "idx": 62}
+{"premise": "U ruoka me je karč.", "choice1": "Spis sn napisau na ruoka.", "choice2": "Z žjena sua se daržala za ruoke.", "question": "cause", "idx": 63}
+{"premise": "Šrauf se je parueu.", "choice1": "Zamejneu sn šrauf.", "choice2": "Abarnu sn francuza.", "question": "cause", "idx": 64}
+{"premise": "Par je padpisau pagudba za nait stanuajne.", "choice1": "Par se je presjelu u stanuajne.", "choice2": "Ablast je rekla, de uda parušl stanuajne.", "question": "effect", "idx": 65}
+{"premise": "Žinska je sedila adzuni na uerand.", "choice1": "Tla je gliat sunčn zahod.", "choice2": "Zdilu se i je, de uid bliskajne.", "question": "cause", "idx": 66}
+{"premise": "Dic je u uod nosu rešiln jopič.", "choice1": "Ni znau plauat.", "choice2": "Uoda je bla plitua.", "question": "cause", "idx": 67}
+{"premise": "Žinska se je zatipkala u urejeualniku besedil.", "choice1": "Pabrisala je dokument.", "choice2": "Partislna je na knuof za pabrisat.", "question": "effect", "idx": 68}
+{"premise": "Zjala se je uažla pred parjatlcami.", "choice1": "Dabila je slaba acina.", "choice2": "Zmagala je na tekmouajnu.", "question": "cause", "idx": 69}
+{"premise": "Trata je bla futkasta.", "choice1": "Panuoč je plajhalu.", "choice2": "Bla je pouhna pleuila.", "question": "cause", "idx": 70}
+{"premise": "Žinska je predouh spala.", "choice1": "Panuoč je spala u hotelu.", "choice2": "Pazabila si je nastaut uikarca.", "question": "cause", "idx": 71}
+{"premise": "Dic se je namazau s krema za sunčejne.", "choice1": "Sedeu je u sinc.", "choice2": "Šou je na plaže.", "question": "cause", "idx": 72}
+{"premise": "Raziskauauci sa patrdil teorije.", "choice1": "Raziskuauci sa umknil teorije.", "choice2": "Pasamezniki sa spreil teorije.", "question": "effect", "idx": 73}
+{"premise": "Nauijači na tekm nisa bli kantet.", "choice1": "Tekma je šla u padalšk.", "choice2": "Sadnik se je narube adluču.", "question": "cause", "idx": 74}
+{"premise": "U klučaunca sn unisu soje kombinacije.", "choice1": "Zakljenu sn klučaunca.", "choice2": "Klučaunca se je adparla.", "question": "effect", "idx": 75}
+{"premise": "U množic je ratualu napitu.", "choice1": "Ata je sinu dau mal dnara.", "choice2": "Ata je sina zagrabu za ruoka.", "question": "effect", "idx": 76}
+{"premise": "Zarad snega je biu douoz blokiran.", "choice1": "Snih sn nakupčkau u kipa.", "choice2": "Skidau sn snih.", "question": "effect", "idx": 77}
+{"premise": "Kajakaši sa zaueslal.", "choice1": "Kajak je dasigu abala.", "choice2": "Kajak je butnu u ual.", "question": "effect", "idx": 78}
+{"premise": "Zjala je zgubila kontrola nad beciklnam.", "choice1": "Stila je belanca.", "choice2": "Trejšla je u agraje.", "question": "effect", "idx": 79}
+{"premise": "Pržgala sn uentilator.", "choice1": "Uoda me je paškrifala pa kuš.", "choice2": "Začtila sn, kak me je hladnu papihalu.", "question": "effect", "idx": 80}
+{"premise": "Srferi sa se urnil na abala.", "choice1": "Bli sa premučeni.", "choice2": "Uidl sa murskiga pasa.", "question": "cause", "idx": 81}
+{"premise": "Iz bane sn patignu zamašk.", "choice1": "Uoda je attjekla z bane.", "choice2": "Uoda je plusklna pa tleh.", "question": "effect", "idx": 82}
+{"premise": "Muš se je pačutu kriuga, ka je uarau žjena.", "choice1": "Abtužu i je, de ga uara.", "choice2": "Parznau i je, de je uara.", "question": "effect", "idx": 83}
+{"premise": "Črnilu na posterju se je razmazalu.", "choice1": "Pačakau sn, de se črnilu pašije.", "choice2": "Poster sn paliu z uoda.", "question": "cause", "idx": 84}
+{"premise": "Froc se je zbudu ad kričajne.", "choice1": "Jemu je nuočna muora.", "choice2": "Palulau se je u pusle.", "question": "cause", "idx": 85}
+{"premise": "Pub je deu nagi na miza.", "choice1": "Angau ata je sidu h miz.", "choice2": "Ata ga je akrigau.", "question": "effect", "idx": 86}
+{"premise": "Kamerat se je z glaua abarnu prot men.", "choice1": "Paklicau sn ga pa iminu.", "choice2": "Pamahau sm mu z rakmi.", "question": "cause", "idx": 87}
+{"premise": "Ablast je zatirala držaulane.", "choice1": "Držaulani na se uparl.", "choice2": "Držaulani sa se upisal u registr za uolt.", "question": "effect", "idx": 88}
+{"premise": "Pub se je zgubu u mej.", "choice1": "Pastau je šotar.", "choice2": "Tulu je na pamuč.", "question": "effect", "idx": 89}
+{"premise": "Žinska je patuala čez meje.", "choice1": "Tla se je nauast risat.", "choice2": "Tla je kej zuidet at drugih kultur.", "question": "cause", "idx": 90}
+{"premise": "Dic je biu fauš sadilaucu.", "choice1": "Angau sadilauc je napriduau.", "choice2": "Angau sadilauc je kasnu dilau.", "question": "cause", "idx": 91}
+{"premise": "Dic je uidu Nezemlane.", "choice1": "Halucinirau je.", "choice2": "Meditirau je.", "question": "cause", "idx": 92}
+{"premise": "Angaui lasi sa se pasuetlil.", "choice1": "Pabilu ih je.", "choice2": "Aprau ih je s šamponam.", "question": "cause", "idx": 93}
+{"premise": "Kunstlerka je nardila noua umetnina.", "choice1": "Kritizirala je prejšnu dilu.", "choice2": "Začtila je naudih.", "question": "cause", "idx": 94}
+{"premise": "Sin se je adselu ad duma.", "choice1": "Adpstil sa ga iz uojske.", "choice2": "Šou je študirat.", "question": "cause", "idx": 95}
+{"premise": "Knige sa padle s knižne palice.", "choice1": "Palice sa ble zaprašene.", "choice2": "Patres je strisu knižna palica.", "question": "cause", "idx": 96}
+{"premise": "Štrom u bajt je šou falit.", "choice1": "Adparla sn luč.", "choice2": "Uaroualka sn uklapila nazaj.", "question": "effect", "idx": 97}
+{"premise": "Pelale sma se z ulakcam smrti.", "choice1": "Uidet je biu gruozn.", "choice2": "Uidet je biu zabaun.", "question": "cause", "idx": 98}
+{"premise": "U urečk is pukauka je začilu pukat.", "choice1": "U urečka sn zlila putr.", "choice2": "Pagrila sn je u mikroualouk.", "question": "cause", "idx": 99}
+{"premise": "Na telegrafštanga je padlu dreu.", "choice1": "Pa becirku je zmajnkalu štroma.", "choice2": "Napauedual sa mačan uitr.", "question": "effect", "idx": 100}
+{"premise": "Predauatl je jemu političnu nekorektne pripombe.", "choice1": "Dougočasu je publika.", "choice2": "Užalu je publika.", "question": "effect", "idx": 101}
+{"premise": "Zbuodla sn se z bucka.", "choice1": "S frisa mi je kaplna kaple šuica.", "choice2": "Na parstu se m je nardila kaple karui.", "question": "effect", "idx": 102}
+{"premise": "Na gladin akuarije je lebdila riba.", "choice1": "Bla je lačna.", "choice2": "Bla je martua.", "question": "cause", "idx": 103}
+{"premise": "Dicau glas je biu slišet hripau.", "choice1": "Prehlajen je biu.", "choice2": "Jejneu je rauhat.", "question": "cause", "idx": 104}
+{"premise": "Urata ad lifta sa se adparla.", "choice1": "Lift je paršu da dalučenga štuka.", "choice2": "Lift se je zataknu med duema štukama.", "question": "cause", "idx": 105}
+{"premise": "Najstnik se je zmuznu z bajte.", "choice1": "Zlagau se je staršem.", "choice2": "Starše mu nista stila jet uan.", "question": "cause", "idx": 106}
+{"premise": "Kopalnica je paplaulu.", "choice1": "Skrit je paplau.", "choice2": "Bojler se je fardirbau.", "question": "cause", "idx": 107}
+{"premise": "Pask se je daržeu lastnika.", "choice1": "Lastnik je deu ouratnica na paska.", "choice2": "Lastnik je jemu paska na štrikcu.", "question": "cause", "idx": 108}
+{"premise": "Dic je zaglidau suj odseu.", "choice1": "Stau je pad uelikim dreuisam.", "choice2": "Stau je zram mirnga izera.", "question": "cause", "idx": 109}
+{"premise": "Preslišeu sn, de me je punca klicala.", "choice1": "Paklicau sn je nazaj.", "choice2": "Dabila sua se na uečiri.", "question": "effect", "idx": 110}
+{"premise": "Držina je preiskala becirk.", "choice1": "Nehn pas je ušau ad duma.", "choice2": "Z duma nem je zginla draga bižuterije.", "question": "cause", "idx": 111}
+{"premise": "Zaglidala sn soje sapa, ka sm izdihlna.", "choice1": "Urjeme je blu hladnu.", "choice2": "Stislnu me je u parsih.", "question": "cause", "idx": 112}
+{"premise": "Zapuosleni sa nardil sindikat.", "choice1": "Tli sa buli dilaune pogoje.", "choice2": "Delodajauc nem je zuišeu plače.", "question": "cause", "idx": 113}
+{"premise": "Spjekla sm jaboučna pita.", "choice1": "Pa kuhn je zasmrdilu pa gnilmu.", "choice2": "Pa kuhn je zadišalu pa tuoplmu.", "question": "effect", "idx": 114}
+{"premise": "Žinska je tešku hadila.", "choice1": "Nasila je pite.", "choice2": "Arzula je čiule.", "question": "cause", "idx": 115}
+{"premise": "S pasude uode je hlapila para.", "choice1": "Uoda je zaurila.", "choice2": "Pakrila sn pasuda.", "question": "cause", "idx": 116}
+{"premise": "Usi frzitlni sa bli za aprat.", "choice1": "Nuosu sn sandale.", "choice2": "Nuosu sn škurne.", "question": "effect", "idx": 117}
+{"premise": "Politikou argument sa mil za absurd.", "choice1": "Zgubu je padpura ualiucau.", "choice2": "Abtažil sa ga korupcije.", "question": "effect", "idx": 118}
+{"premise": "Anbenmu se ni zdilu, de sta se zaračila.", "choice1": "Par je zanuosu.", "choice2": "Par se je na skriuejš ažjenu.", "question": "effect", "idx": 119}
+{"premise": "Bajta sa pasuetil miljonarju.", "choice1": "Miljonar je tem, de bajta parušje.", "choice2": "Miljonar je parspiuau dnar, de sa je zgradil.", "question": "cause", "idx": 120}
+{"premise": "Trgousk pamačnik je abtužu zjala, de je kradla.", "choice1": "Trgousk pamačnik je uidu, de je zjala dila ruba u tuošl.", "choice2": "Trgousk pamačnik je zjal pamagau dabit tuošl, kab se i zdeu.", "question": "cause", "idx": 121}
+{"premise": "Držaua je napauidala uojna na sasidne dežjele.", "choice1": "Uajake sa paslal u borba.", "choice2": "Uajaki sa paršl nazaj h familjem.", "question": "effect", "idx": 122}
+{"premise": "Sadnije je patrdila spurna suodba.", "choice1": "Pred sadnije je paršlu da izgreda.", "choice2": "Par si je pred sadnije izmejneu paručne parsige.", "question": "effect", "idx": 123}
+{"premise": "Zjale je zašnufalu, de se niki žge.", "choice1": "Piškote je uzila iz pasude.", "choice2": "Piškote je stila u ruru.", "question": "cause", "idx": 124}
+{"premise": "Plajhalu je.", "choice1": "Neuihta je bla skus huj.", "choice2": "Paduizala sn se nut.", "question": "effect", "idx": 125}
+{"premise": "Bajta sa euakuiral.", "choice1": "Lift je jejneu dilat.", "choice2": "Pažarn alarm se je spružu.", "question": "cause", "idx": 126}
+{"premise": "Ata je sinu zamiru, de je alkoholik.", "choice1": "Miljonar je teu, de bajta parušje.", "choice2": "Ata je sina uargu z bajte.", "question": "effect", "idx": 127}
+{"premise": "Aduokatka je šla pa štejngah da pisarne.", "choice1": "Tajnica je šla ži damu.", "choice2": "Lift ni dilau.", "question": "cause", "idx": 128}
+{"premise": "Dicu je šou parjatu na itra.", "choice1": "Parjatu ga je zmutu.", "choice2": "Parjatu mu je parnisu južna.", "question": "cause", "idx": 129}
+{"premise": "Zjala je žinsk na kas dala dnar.", "choice1": "Žinska na kas je zjal dala drabiš nazaj.", "choice2": "Žinska na kas je zjal pazabila dat račun.", "question": "effect", "idx": 130}
+{"premise": "Žinska sa pasidl u inualidski uazičk.", "choice1": "Zarad nasriče je bla paralizirana.", "choice2": "U bolnica je paršla na nasilih.", "question": "cause", "idx": 131}
+{"premise": "Držaulani sa pred bajtami abejsl držaune zastaue.", "choice1": "Držaua je praznauala neoduisnast.", "choice2": "Držaua je bla u gaspadarskih problemih.", "question": "cause", "idx": 132}
+{"premise": "Ekipa je zgubila na turnirju.", "choice1": "Razačaral sa nauijače.", "choice2": "Navdahln sa nauijače.", "question": "effect", "idx": 133}
+{"premise": "Kamerat mi je riku, de im špinače med zabmi.", "choice1": "Sram me je blu.", "choice2": "Panuosna sn bla.", "question": "effect", "idx": 134}
+{"premise": "Pub ni naridu izpita iz zgodouine.", "choice1": "Pr pauku je slediu.", "choice2": "Pazabu se je učit.", "question": "cause", "idx": 135}
+{"premise": "Bajta u centru mista se je zrušla.", "choice1": "Mistu je parzadiu patres.", "choice2": "U mistu je blu ueč kriminala.", "question": "cause", "idx": 136}
+{"premise": "Punca ga je stila.", "choice1": "Pruosu i je, de b ga uzila nazaj.", "choice2": "Predstaula ga je suoim staršem.", "question": "effect", "idx": 137}
+{"premise": "Atruoka sta se hkrat sklanila, de bi pabrala žuga.", "choice1": "Žuga se je adualila stran.", "choice2": "Trejšla sta z glaua.", "question": "effect", "idx": 138}
+{"premise": "Rakun je razmjetau kanta za smeti.", "choice1": "U kant za smeti je biu karton.", "choice2": "Na kant za smeti ni blu pakroua.", "question": "cause", "idx": 139}
+{"premise": "Pub je ašpiču suinčnik.", "choice1": "Biu je pacin.", "choice2": "Biu je tup.", "question": "cause", "idx": 140}
+{"premise": "Dic na blagajn žinsk ni teu uarnt dnara za ablika.", "choice1": "Zgubila je račun.", "choice2": "Ablika i ni bla prou.", "question": "cause", "idx": 141}
+{"premise": "Praska na muoi kuš je bla glabuoka.", "choice1": "Hitru se je zaclila.", "choice2": "Stila je brazgatina.", "question": "effect", "idx": 142}
+{"premise": "Dica sa potniki na ulaku čudnu glial.", "choice1": "Gliau je u pudn.", "choice2": "Pagauarjeu se je sam s saba.", "question": "cause", "idx": 143}
+{"premise": "Uotrak je pustu mraue na tleh.", "choice1": "Mraulinci sa lejzl h mrauam.", "choice2": "Uotrak je pasprau kruh.", "question": "effect", "idx": 144}
+{"premise": "Žinska je sjestr dala rubc.", "choice1": "Sjestra ad žinske je prerižela raki.", "choice2": "Sjestra ad žinske se je začila cmizdat.", "question": "cause", "idx": 145}
+{"premise": "Dic je uzeu mentolou cukr.", "choice1": "Jemu je raspukane šube.", "choice2": "Skarbilu ga je, de mu smardi iz ust.", "question": "cause", "idx": 146}
+{"premise": "Par je šau zgudi na prectaua.", "choice1": "Parčakuala sta, de bu uelik prometa akul gledališe.", "choice2": "Dabila sta nauadila za put da gledališe.", "question": "cause", "idx": 147}
+{"premise": "Žinska ni šla na šeht.", "choice1": "Šef i je pahualu.", "choice2": "Sadilauka i je nadamiščela.", "question": "effect", "idx": 148}
+{"premise": "Dic je padpisau peticije ad aktiuistau.", "choice1": "Padparu je nehna parzadiuejna.", "choice2": "Abtužu ih je, de sa zmešani.", "question": "cause", "idx": 149}
+{"premise": "Šaušpilerju je tauklu sarci pred nastopam.", "choice1": "Jemu je trema.", "choice2": "Zapaunu si je suoje uarstice.", "question": "cause", "idx": 150}
+{"premise": "Zgubu sn se.", "choice1": "Prešteu sn suj dnar.", "choice2": "Razgarnu sn zemleuid.", "question": "effect", "idx": 151}
+{"premise": "Zrilu sadje je ležalu na suncu.", "choice1": "En ga je snidu.", "choice2": "Pašilu se je.", "question": "effect", "idx": 152}
+{"premise": "Auto se je fardirbau.", "choice1": "Paržgala sn motor.", "choice2": "Motor se je pregreu.", "question": "cause", "idx": 153}
+{"premise": "Dic si je fardirbau kriš.", "choice1": "Šau je h psihijatru.", "choice2": "Kar en par dni je biu u pusl.", "question": "effect", "idx": 154}
+{"premise": "Zakurla sn u kaminu.", "choice1": "Zmajnkalu mi je lesa.", "choice2": "U bajt je blu marzlu.", "question": "cause", "idx": 155}
+{"premise": "Žejnska je jejnela laufat.", "choice1": "Par stran i je karč.", "choice2": "Spet si je nabrala energije.", "question": "cause", "idx": 156}
+{"premise": "Patrkala sn pr sasid na urata.", "choice1": "Sasida me je pauabila nutr.", "choice2": "Sasida je šla uan z bajte.", "question": "effect", "idx": 157}
+{"premise": "Žinska je zauzdihlna ad frustracij.", "choice1": "Muš je narube zastupu, kua je skarbi.", "choice2": "Muš i je dau lupčka, pridn je šau.", "question": "cause", "idx": 158}
+{"premise": "Tršica je pahualila učenka.", "choice1": "Učenka je prou adgauarila na uprašajne.", "choice2": "Učenka se je abataulela adgauort na uprašajne.", "question": "cause", "idx": 159}
+{"premise": "Žinsk je zmajnkalu jajc.", "choice1": "Šla je na kmetije.", "choice2": "Šla je u štacuna.", "question": "effect", "idx": 160}
+{"premise": "Sričeu sn starga parjatlna.", "choice1": "Pauidau sn mu skriunust.", "choice2": "Abiu sn ga.", "question": "effect", "idx": 161}
+{"premise": "Žinska ni tla jet u izeru.", "choice1": "Ulauila je riba.", "choice2": "Uidet je blu anesnaženu.", "question": "cause", "idx": 162}
+{"premise": "Študent je paršu na predauajne čist premučen.", "choice1": "Fardirbala se mu je mrila.", "choice2": "Ukradl sa mu becikl.", "question": "cause", "idx": 163}
+{"premise": "Kurzor na ekranu ad računalnika se je premaknu.", "choice1": "Uporabnik je kliknu na miška.", "choice2": "Uporabnik je premaknu miška.", "question": "cause", "idx": 164}
+{"premise": "Šuferka je nardila auiunk.", "choice1": "Na glauni cist je bla nasriče.", "choice2": "Sledila je kamjonu pred saba.", "question": "cause", "idx": 165}
+{"premise": "Muokre cujne sn abejsu zuni na štrek.", "choice1": "Cujne sa se pašile.", "choice2": "Cujne sa se usrale.", "question": "effect", "idx": 166}
+{"premise": "Žinska je dila guor sunčne špigle.", "choice1": "Sunce je blu muočnu.", "choice2": "Paklicala je taksi.", "question": "cause", "idx": 167}
+{"premise": "Dic je glidau u nuočnu nebu.", "choice1": "Žjelu si je, de b blu palitje.", "choice2": "Zdilu se mu je alpu.", "question": "cause", "idx": 168}
+{"premise": "Pačtila sn se isčrpana.", "choice1": "Zgudi sn šla spat.", "choice2": "Cila nuč sn bla pakuonc.", "question": "effect", "idx": 169}
+{"premise": "Dic je pšou h briucu.", "choice1": "Pušeu si je douge lasi.", "choice2": "Lasi sa mu ratal dougi.", "question": "cause", "idx": 170}
+{"premise": "Pub se je žleht hecau is tanouga sašulca.", "choice1": "Pub je pazdrau tanouga sašilca.", "choice2": "Pub ni marau tanouga sašulca.", "question": "cause", "idx": 171}
+{"premise": "Zaluštau se mi je kazarc mlika.", "choice1": "Idla sm piškote.", "choice2": "Pjekla sn kruh.", "question": "cause", "idx": 172}
+{"premise": "Začiu je jet daš.", "choice1": "Šuferka je paržgala tadouge lči.", "choice2": "Šuferka je dila u rikuerc.", "question": "effect", "idx": 173}
+{"premise": "Parkiriše ab bajt je blu praznu.", "choice1": "Parkirau sn na tadrugi stran ciste.", "choice2": "Parkirau sn blis uhoda.", "question": "effect", "idx": 174}
+{"premise": "Pisatlca je zamdila rok za addat asnutk.", "choice1": "Ni maugla pisat.", "choice2": "Urihtala je asnutk.", "question": "cause", "idx": 175}
+{"premise": "Dilauc je adlužu slušalka.", "choice1": "Pruosu sn, če bi luoh gauru z nadzornim.", "choice2": "Pauidau sn soje identifikaciska štuilka.", "question": "cause", "idx": 176}
+{"premise": "Skus adpartu uoknu je zapihau uitr.", "choice1": "Zuonc je pazuonu.", "choice2": "Firlenki sa se patrisl.", "question": "effect", "idx": 177}
+{"premise": "U bajt je zmajnkalu štroma.", "choice1": "Zaparla sn luč.", "choice2": "Uaroualka je pregarila.", "question": "cause", "idx": 178}
+{"premise": "Duiguauc uteži je zastukau.", "choice1": "U špiglu je napejneu musklne.", "choice2": "Palca je uzignu nad glaua.", "question": "cause", "idx": 179}
+{"premise": "Študent je prubau računat na pamet.", "choice1": "Uan je dau kalkulator.", "choice2": "Zmidu se je.", "question": "effect", "idx": 180}
+{"premise": "Dojenčk je zaspau.", "choice1": "Ata je dojenčku zamejneu plenica.", "choice2": "Ata je dojenčka nižnu ujčkau.", "question": "cause", "idx": 181}
+{"premise": "Zjala je u puba uargla uodn balun.", "choice1": "Pub je dubu pretres mažganau.", "choice2": "Puba je zmačilu.", "question": "effect", "idx": 182}
+{"premise": "Fotolik je pazabu pržgat fleš na aparatu.", "choice1": "Fotke sa ratale magline.", "choice2": "Nabedn se ni teu smejet na fotkah.", "question": "effect", "idx": 183}
+{"premise": "Zauarnu sn uabilu na žur za rojstni dan.", "choice1": "Biu sn asamlen.", "choice2": "Ni me blu dama.", "question": "cause", "idx": 184}
+{"premise": "Telauadla sn.", "choice1": "Bla sn pouhna energije.", "choice2": "Bla sn prestrašena.", "question": "cause", "idx": 185}
+{"premise": "Stislna sn fajhtna uileda.", "choice1": "Pazaugala je uoda.", "choice2": "Uoda se je pacedila z ni.", "question": "effect", "idx": 186}
+{"premise": "Pačitnkari sa da letauiše šli s trajektam.", "choice1": "Letauše je blu zasidenu.", "choice2": "Letauiše je blu na atuku.", "question": "cause", "idx": 187}
+{"premise": "Najstnica si je nardila tatu.", "choice1": "Bala se je igl.", "choice2": "Tla se je uprit.", "question": "cause", "idx": 188}
+{"premise": "Pred bajta je parkirau neznan auto.", "choice1": "Zdilu se mi je sumliu.", "choice2": "Paklicala sn palcije.", "question": "effect", "idx": 189}
+{"premise": "Kriminalc se je predau.", "choice1": "Dakazi sa kazal, de je biu umišen.", "choice2": "Prat nemu ni blu dakazau.", "question": "cause", "idx": 190}
+{"premise": "Mačan dic se je adluču, de bu shujšeu.", "choice1": "Jejneu je ist slatku.", "choice2": "Izagibau se je kofeinu.", "question": "effect", "idx": 191}
+{"premise": "Zjala je stapila na lid.", "choice1": "Spadarslnu i je.", "choice2": "Trisla se je.", "question": "effect", "idx": 192}
+{"premise": "Žinska je mila padučnke.", "choice1": "Cila nuč je bla pakuonc.", "choice2": "Sina je dila u pusle.", "question": "cause", "idx": 193}
+{"premise": "Iz ulkana je partjekla laua.", "choice1": "Ulkan je zbruhnu.", "choice2": "Ulkan je biu speči.", "question": "cause", "idx": 194}
+{"premise": "Žinska si je abula škarpjete.", "choice1": "Paznala je use na žuru.", "choice2": "Tla je jet iz žura.", "question": "cause", "idx": 195}
+{"premise": "Plačeu sm žinsk na cestnin.", "choice1": "Stila mi je, de pilem skuz cestnina.", "choice2": "Pardaržala me je na cestnin.", "question": "effect", "idx": 196}
+{"premise": "Direktor je bankrotirau.", "choice1": "Predau je suj dileš u firm.", "choice2": "Zaprau je soje premažejne.", "question": "cause", "idx": 197}
+{"premise": "Dic je šau h duhtarju.", "choice1": "Duhtar je biu na dopustu.", "choice2": "Dic se je slabu pačutu.", "question": "cause", "idx": 198}
+{"premise": "Iz spalnice sn šou skuz uoknu.", "choice1": "Bajta je garila.", "choice2": "Bajta je bla prazna.", "question": "cause", "idx": 199}
+{"premise": "Pubu sa se parsti nagubal.", "choice1": "Dougu se je tuširau.", "choice2": "Ruoke si je nažajfau.", "question": "cause", "idx": 200}
+{"premise": "Bziklna sn mliku.", "choice1": "Mliku je milu skisan akus.", "choice2": "Mila sn suha usta.", "question": "cause", "idx": 201}
+{"premise": "Zamudu sn autobus.", "choice1": "Na šeht sn paršu zgudi.", "choice2": "Na šeht sn paršu kasnu.", "question": "effect", "idx": 202}
+{"premise": "Kamjon je trejšu u auto.", "choice1": "Kamjon je paspišu.", "choice2": "Auto je biu stoučen.", "question": "effect", "idx": 203}
+{"premise": "Ekipa je parredila tekma sjeb u prid.", "choice1": "Zmagal sa.", "choice2": "Izpadl sa.", "question": "effect", "idx": 204}
+{"premise": "Flaše z gazirana pjače je zašmila.", "choice1": "Abarnila sn flaše.", "choice2": "Aduila sn zamašk.", "question": "cause", "idx": 205}
+{"premise": "Puba sa zaklenil iz bajte.", "choice1": "Splejzau je skuz adpartu uoknu.", "choice2": "Splejzau je pa strih.", "question": "effect", "idx": 206}
+{"premise": "Zuonc je pazuonu.", "choice1": "Abiskuauc je patrkau s toukačem pa uratih.", "choice2": "Žinska je pakukala skus klučaunca na uratih.", "question": "effect", "idx": 207}
+{"premise": "Dic je usrau ablika.", "choice1": "Nisu i je u kemiska čistilnica.", "choice2": "Abejsu i je u marejna.", "question": "effect", "idx": 208}
+{"premise": "Zjala je stislna tuba ad zubne paste.", "choice1": "Zubna pasta je špriclna iz tube.", "choice2": "Zjala je bziklna uan zubna pasta.", "question": "effect", "idx": 209}
+{"premise": "Štuilka ciuilistau, ka sa umarl u uojn, je skačila guor.", "choice1": "Pacifisti sa nardil protest.", "choice2": "Pacifisti sa nardil parada.", "question": "effect", "idx": 210}
+{"premise": "Zjale si je pategnilu trak z las.", "choice1": "Paruezala je trak.", "choice2": "Trak je zgliau atruči.", "question": "cause", "idx": 211}
+{"premise": "Dic je jemu plastična aperacije.", "choice1": "Pastarau se je.", "choice2": "Zglidau je mlajš.", "question": "effect", "idx": 212}
+{"premise": "Iz jajca se je pajau pšanc.", "choice1": "Jajc se je zligu.", "choice2": "Pučla sn jajc.", "question": "cause", "idx": 213}
+{"premise": "Zapurnk je biu grozliu lačn.", "choice1": "Umrou je.", "choice2": "Ušou je.", "question": "effect", "idx": 214}
+{"premise": "Dic je zgubu raunatižje na lujtr.", "choice1": "Splejzau je pa lujtr.", "choice2": "Padu je z lujtre.", "question": "effect", "idx": 215}
+{"premise": "Atruoku se je sphnilu.", "choice1": "Spiu je pažirk gazirane pjače.", "choice2": "Adparu je piksna gazirane pjače.", "question": "cause", "idx": 216}
+{"premise": "Skuz uoknu je marzlu papihalu.", "choice1": "Sprostila sn se.", "choice2": "Strislu me je.", "question": "effect", "idx": 217}
+{"premise": "Učenka je dabila štipendije za na faks.", "choice1": "Ninni sašulci sa je rešpektiral.", "choice2": "Mila je duobre acine.", "question": "cause", "idx": 218}
+{"premise": "Zjale se je hecalu iz puba.", "choice1": "Žuila je u sasidni bajt.", "choice2": "Bla je zalublena u nega.", "question": "cause", "idx": 219}
+{"premise": "Lačn uagabund je ukradu hrana.", "choice1": "Ldim je blu žau za nega.", "choice2": "Ni jemu dnara.", "question": "cause", "idx": 220}
+{"premise": "Paklicala sn parjatlca, de b paklepetale.", "choice1": "Tla sn zasibnast.", "choice2": "Pačtila sn se asamlena.", "question": "cause", "idx": 221}
+{"premise": "Dic je stignu ruoka prut men.", "choice1": "Sigu sn mu u ruoka.", "choice2": "Atarnu sn ga.", "question": "effect", "idx": 222}
+{"premise": "Skluonu sn se.", "choice1": "Ognemet je eksplodirau u zraku.", "choice2": "Frizbu je ljetu prut muoji glau.", "question": "cause", "idx": 223}
+{"premise": "Zjala si je grizla nuohte.", "choice1": "Skarbilu i je.", "choice2": "Preseničena je bla.", "question": "cause", "idx": 224}
+{"premise": "Abrnila sn stran na kalindru.", "choice1": "Na kalindr sn upisala sestank.", "choice2": "Bli sma na začitku naouga misca.", "question": "cause", "idx": 225}
+{"premise": "Muž je adkriu, de ga žjena uara.", "choice1": "Adpustu je sujga aduokata.", "choice2": "Uložu je zahtiua za ločitu.", "question": "effect", "idx": 226}
+{"premise": "Zjala je stila gumnatna žuga.", "choice1": "Žuga se je adbila.", "choice2": "Žuga je žarila.", "question": "effect", "idx": 227}
+{"premise": "Zjala se je zmatila na izpitu.", "choice1": "Ugibala je adgouor.", "choice2": "Pabrisala je adgouor.", "question": "effect", "idx": 228}
+{"premise": "Igrauc je padaru nasprutnka.", "choice1": "Nasprutnk je ulauiu padaje.", "choice2": "Nasprutnk je padu pa tleh.", "question": "effect", "idx": 229}
+{"premise": "Is stabla sn pabrala paradajze.", "choice1": "Bli sa zrili.", "choice2": "Zalila sn ih.", "question": "cause", "idx": 230}
+{"premise": "Dic je teu bit romantičn.", "choice1": "Z biuša punca se je dubu na južn.", "choice2": "Punc je kupu čikulatine.", "question": "effect", "idx": 231}
+{"premise": "Žiu srebru u termometru je šlu pakuonc.", "choice1": "Spustu sn termometr.", "choice2": "Urjeme se je ataplilu.", "question": "cause", "idx": 232}
+{"premise": "Skuz mistu je paršu tornado.", "choice1": "Striha ad sadnije je adpihalnu.", "choice2": "Autacista je ratala nauarnu ledina.", "question": "effect", "idx": 233}
+{"premise": "Učenc je jemu inštrukcije.", "choice1": "Acine sa se mu zbulšele.", "choice2": "Guolfau je na izpitu.", "question": "effect", "idx": 234}
+{"premise": "Pačtila sn se udobnu.", "choice1": "Pakleknila sn na tla.", "choice2": "Zauila sn se u deka.", "question": "cause", "idx": 235}
+{"premise": "Zglancau sn bant.", "choice1": "Ratau je apausk.", "choice2": "Začiu se je blešet.", "question": "effect", "idx": 236}
+{"premise": "U kafje sn dila cukar.", "choice1": "Kafje je muočnu dišalu.", "choice2": "Kafje je biu slatk.", "question": "effect", "idx": 237}
+{"premise": "Dic je gribu pa papirih.", "choice1": "Urizau se je s papirjem.", "choice2": "Zrizau je papirje.", "question": "effect", "idx": 238}
+{"premise": "S kladuam sn zabeu žebu.", "choice1": "Žebu se je pagriznu u lis.", "choice2": "Žebu je zarustau.", "question": "effect", "idx": 239}
+{"premise": "Riba je prila za tarnk.", "choice1": "Ribič je riba zuliku uan.", "choice2": "Ribič je še ejnkat uargu tarnk.", "question": "effect", "idx": 240}
+{"premise": "Najstnic je blu narudnu jet u šula.", "choice1": "Narudu se i je mazul.", "choice2": "Snil sa i zubn aparat.", "question": "cause", "idx": 241}
+{"premise": "Fris se mi je razjasniu.", "choice1": "Dabila sn duobre nouice.", "choice2": "Zgubila sn patrplejne.", "question": "cause", "idx": 242}
+{"premise": "Raki sn si abrisala u ajnkle.", "choice1": "Ajnkle je bla muokra.", "choice2": "Muoje rake sa ble muokre.", "question": "cause", "idx": 243}
+{"premise": "Dic je zgubu raunatižje na pručk.", "choice1": "Pručka se je zamajala pad nemu.", "choice2": "Pa pručk je zleu farba.", "question": "cause", "idx": 244}
+{"premise": "Člani ekipe sa karuil druh druzga.", "choice1": "Zgubil sa tekma.", "choice2": "Nehn trener je adpauidau treninh.", "question": "cause", "idx": 245}
+{"premise": "Pruosu sn adpuščajne.", "choice1": "Abžalauau sn soja napaka.", "choice2": "Dasigu sn suj cil.", "question": "cause", "idx": 246}
+{"premise": "Žinske je spremleuauc dougočasu.", "choice1": "Sprašauau i je ad ni.", "choice2": "Durhcuh je gauru ad sjebe.", "question": "cause", "idx": 247}
+{"premise": "Zjala se je nasmihlna.", "choice1": "Ratala je rdiče u fris.", "choice2": "Pakazale sa se i jamce.", "question": "effect", "idx": 248}
+{"premise": "Škif ad sauražnka je arssulu.", "choice1": "Šou je čez mina.", "choice2": "Šou je u prstaniše.", "question": "cause", "idx": 249}
+{"premise": "Dic si je prebudu nuoga.", "choice1": "Stupu je u luže.", "choice2": "Stupu je na kus stjekla.", "question": "cause", "idx": 250}
+{"premise": "Detektiui sa s praham preglial prizoriše zločina za odtise.", "choice1": "Adkril sa, kir je mariuc.", "choice2": "Na prizorišu zločina sa najdl aružje.", "question": "effect", "idx": 251}
+{"premise": "Na autacist je blu zla prometnu.", "choice1": "Nardila sn auiunk.", "choice2": "Prasila sn za preuoz.", "question": "effect", "idx": 252}
+{"premise": "Držaunu gaspadarstu je šlu dolskus.", "choice1": "En kap aldi je zbalilu.", "choice2": "En kap aldim je grazila brezposelnost.", "question": "effect", "idx": 253}
+{"premise": "Uarnostnica na zebr je zabrlizgala darbuzn.", "choice1": "Skuor sa stapil pred aute, ka sa paršl nasprut.", "choice2": "Prepaznala ih je iz sujga becirka.", "question": "cause", "idx": 254}
+{"premise": "Zarad parjatlna sn zauila z ačmi.", "choice1": "Pauidau mi je pa resnic.", "choice2": "Parpaunu je niki sarkastičnga.", "question": "cause", "idx": 255}
+{"premise": "Autu je zmajnkalu bencina.", "choice1": "Šufer se je zataknu na cist.", "choice2": "Šufer je pabrau štoparje.", "question": "effect", "idx": 256}
+{"premise": "Žinska je začila raiuat.", "choice1": "Radiu se je dojenčk.", "choice2": "Žinska je mila jutrajna slabust.", "question": "effect", "idx": 257}
+{"premise": "Dicu je adpihalnu klafita.", "choice1": "Sniu je klafita.", "choice2": "Adzuni je pihalu.", "question": "cause", "idx": 258}
+{"premise": "Zjala je šla na žur za rojstni dan ad sašulca.", "choice1": "Dabila je uabilu.", "choice2": "Hpila je šejnk.", "question": "cause", "idx": 259}
+{"premise": "Čjelu ad puba je blu čutet uruče.", "choice1": "Mama mu je zmirla uračina.", "choice2": "Mama ga je pelala u park.", "question": "effect", "idx": 260}
+{"premise": "Dic se je našpricau s kolojnska.", "choice1": "Teu je nardit utis na spremleuauka.", "choice2": "U lasi si je diu gel.", "question": "cause", "idx": 261}
+{"premise": "U bajt je zmajnkalu štroma.", "choice1": "Jeskau sn baterije.", "choice2": "Uzeu sn lapata.", "question": "effect", "idx": 262}
+{"premise": "Familje se je preselila u uiči bajta.", "choice1": "Sin je zakluču sridna šula.", "choice2": "Mama je radila dujčka.", "question": "cause", "idx": 263}
+{"premise": "Maratonka je mila skus pačasn tempo.", "choice1": "Tla je pršparat energije.", "choice2": "Uidla je cilna čarta.", "question": "cause", "idx": 264}
+{"premise": "Pub je cabnu u automat.", "choice1": "Automat je plunu uan drabiž.", "choice2": "Urečka čipsa se je zatknila.", "question": "cause", "idx": 265}
+{"premise": "Pas ad parjatlna je umaru.", "choice1": "Zauila sn z ačmi.", "choice2": "Abila sn ga.", "question": "effect", "idx": 266}
+{"premise": "Paslounežu ni prila kreditna kartica.", "choice1": "Napisau je zadaužnca.", "choice2": "Plačeu je z dnaram.", "question": "effect", "idx": 267}
+{"premise": "Dic je zakliu.", "choice1": "Pastrigu si je nuohte.", "choice2": "Habnu se je u parst na nuoh.", "question": "cause", "idx": 268}
+{"premise": "Dic je biu panuosn na sujga brata.", "choice1": "Angau brat je se skrigau s starši.", "choice2": "Angouga brata sa spreil na prauna fakulteta.", "question": "cause", "idx": 269}
+{"premise": "Zjala je tla kej zuidet ad sunčnga sistema.", "choice1": "Šla je u knižnica.", "choice2": "Gliala je u zuizde.", "question": "effect", "idx": 270}
+{"premise": "Poster se je parlimau na stina.", "choice1": "Poster sn nalimau nad urata.", "choice2": "Na tazadna stran posterja sn diu selotejp.", "question": "cause", "idx": 271}
+{"premise": "Stranka je adabrila arhutektaue načarte za bajta.", "choice1": "Arhitekt je zgradiu bajta.", "choice2": "Arhitekt je paprau plane.", "question": "effect", "idx": 272}
+{"premise": "Dicu je padla žlica.", "choice1": "Ruoka se mu je trisla.", "choice2": "Abliznu je žlica.", "question": "cause", "idx": 273}
+{"premise": "Direktor firme je actupu.", "choice1": "Uprauni adbor je raspustu firma.", "choice2": "Uprauni adbor je nejdu angaua zamejnaua.", "question": "effect", "idx": 274}
+{"premise": "Zamdila sn na predauajne.", "choice1": "Usidla sn se u tazadna uarsta.", "choice2": "Stapila sn da podije.", "question": "effect", "idx": 275}
+{"premise": "Dica sa stil iz arjesta.", "choice1": "Angaua familje je plačala uaršna.", "choice2": "Napadu je druzga arestanta.", "question": "cause", "idx": 276}
+{"premise": "Familje je zgubila use soje premažejne.", "choice1": "Predal sa bajta.", "choice2": "Bajta nem je zgarila.", "question": "cause", "idx": 277}
+{"premise": "Pahuodu sn aluminijesta piksna.", "choice1": "Piksna je bla reciklirana.", "choice2": "Piksna je bla speštana.", "question": "effect", "idx": 278}
+{"premise": "Zjala se je prklaučkala debatnmu krošku.", "choice1": "Nauadla se je nucat računalnik.", "choice2": "Nauadla se je komunikaciskih ueščin.", "question": "effect", "idx": 279}
+{"premise": "Raspalažejne se mi je zbulšelu.", "choice1": "Paslušala sn muska.", "choice2": "Pamila sn kripe.", "question": "cause", "idx": 280}
+{"premise": "Dobrodelna organizacije je mila za cil, de zbereje dnar.", "choice1": "Nafutral sa brezdomce.", "choice2": "Mil sa dražba.", "question": "effect", "idx": 281}
+{"premise": "Ulak smart se je spustu pa starmin.", "choice1": "Putnki sa se hihital.", "choice2": "Putnki sa karčal.", "question": "effect", "idx": 282}
+{"premise": "Biu sn raskajfan.", "choice1": "Ka sn šau ad bajte, sn pagliau u kaslc.", "choice2": "Ka sn šau ad bajte, sn zalaputnu z urati.", "question": "effect", "idx": 283}
+{"premise": "Dic je teu gliat sunčn ushod.", "choice1": "Patauau je na siuer.", "choice2": "Zgudi je butnu auf.", "question": "effect", "idx": 284}
+{"premise": "Prignu sn papir.", "choice1": "Reciklirau sn papir.", "choice2": "Papir je dubu fauda.", "question": "effect", "idx": 285}
+{"premise": "U držau je paršlu da naraune nasriče.", "choice1": "Uaditlni drugih držau sa stapil skap.", "choice2": "Uaditlni drugih držau sa paslal nujna pamuč.", "question": "effect", "idx": 286}
+{"premise": "Pubaue ablike sa se premačile.", "choice1": "Zlejzu je iz bazena.", "choice2": "Padu je u bazen.", "question": "cause", "idx": 287}
+{"premise": "Študent je teu naglu prebrat kniga.", "choice1": "Hmal i je maugu uarnt u knižnica.", "choice2": "Spasudu si i je ad parjatlna.", "question": "cause", "idx": 288}
+{"premise": "Kriminalca sa usmartil.", "choice1": "Uargl sa ga u arest.", "choice2": "Absadil sa ga umora.", "question": "cause", "idx": 289}
+{"premise": "U suoba je pasjalu sunce.", "choice1": "Adgarnila sn firlenke.", "choice2": "Adklenila sn urata.", "question": "cause", "idx": 290}
+{"premise": "Patignu sn usiliuka za lasi.", "choice1": "Snila se i je perika.", "choice2": "Aplešila je.", "question": "effect", "idx": 291}
+{"premise": "Urednik je preanigau stauk u rokopisu.", "choice1": "Rokopis se mu je zdeu zanimiu.", "choice2": "Stauk se mu je zdeu nejasn.", "question": "cause", "idx": 292}
+{"premise": "Žinska je preklicala suoje kreditna kartica.", "choice1": "Pagruntala je, de je kartica zginla.", "choice2": "Pagruntala je, de je kartica pretjekla.", "question": "cause", "idx": 293}
+{"premise": "Dic pa baba sta se zalbila.", "choice1": "Šla sta na faks.", "choice2": "Aženila sta se.", "question": "effect", "idx": 294}
+{"premise": "Muska je bla prenapatih, de b je slišel.", "choice1": "Deu sn bel naglas.", "choice2": "Zluožu sn suoje pisn.", "question": "effect", "idx": 295}
+{"premise": "Pubu sa lasi štarlil pakuonc.", "choice1": "Zjala ih je razkafnala.", "choice2": "Zjala ih je pacukala.", "question": "cause", "idx": 296}
+{"premise": "Hruošč se je speštau.", "choice1": "Paškrifala sn se is sprejem prut marčisu.", "choice2": "Stapila sn na hruošče.", "question": "cause", "idx": 297}
+{"premise": "Adparu sn ači.", "choice1": "Zbudu sn se.", "choice2": "Sprostiu sn se.", "question": "cause", "idx": 298}
+{"premise": "Par sasidu sa nažigal muska.", "choice1": "Prasila sn ga, de je dine bel napatihu.", "choice2": "Pruosu sn ga, če mi pasud CD.", "question": "effect", "idx": 299}
+{"premise": "Dicaua familje je žuila u riušn.", "choice1": "S tistmu, kar je zaslužu, je biu škart.", "choice2": "Zaslužu je mejn kat minimalca.", "question": "cause", "idx": 300}
+{"premise": "Študent je diplomirau.", "choice1": "Jeskau je šeht.", "choice2": "Luotu se je nouga hobije.", "question": "effect", "idx": 301}
+{"premise": "Artist je zmišeu armjena farba u plaua.", "choice1": "Farba je aškrifala use akul.", "choice2": "Farba je ratala zeljena.", "question": "effect", "idx": 302}
+{"premise": "Zamejneu sn tema debate.", "choice1": "Zmajnkalu mi je arči za se pamint.", "choice2": "Debata je ratala napita.", "question": "cause", "idx": 303}
+{"premise": "Brata sa mi adpstil iz bolnice.", "choice1": "Pazdraula sn ga nazaj dama.", "choice2": "Ignorirala sn ga.", "question": "effect", "idx": 304}
+{"premise": "Firlenk na udru se je adzignu.", "choice1": "Začiu se je taparui prizor prectaue.", "choice2": "Igrauci u prectau sa šli z udra.", "question": "effect", "idx": 305}
+{"premise": "Talc se je padrediu ugrabitlnauim ukazam.", "choice1": "Ugrabitl je groziu, de bu ranu talca.", "choice2": "Ugrabitl je pustu talca samga.", "question": "cause", "idx": 306}
+{"premise": "Čez udr je admiualu enu babnejne.", "choice1": "Muskont je tapkau z nuoga.", "choice2": "Muskont je touku pa bubnu.", "question": "cause", "idx": 307}
+{"premise": "Starši sa pahtil u suoba ad atruoka.", "choice1": "Uotrak se je s karčajnem zbudu iz nuočne muore.", "choice2": "Atruka je blu strah pagliat pad pusle.", "question": "cause", "idx": 308}
+{"premise": "Žinska se je sparazumiuala iz znakaunim jezikam.", "choice1": "Prezgudi se je radila.", "choice2": "Radila se je gluha.", "question": "cause", "idx": 309}
+{"premise": "U regij je paršlu da suše.", "choice1": "Uoda je bla zastruplena.", "choice2": "Pardilki sa šli falit.", "question": "effect", "idx": 310}
+{"premise": "Mačk je pregajneu tiče.", "choice1": "Tič je adljetu stran.", "choice2": "Tič je ulauiu čarua.", "question": "effect", "idx": 311}
+{"premise": "Zjale je mejnalu šula.", "choice1": "Začile sa se palitne pačitnce.", "choice2": "Preselila se je u nou mistu.", "question": "cause", "idx": 312}
+{"premise": "Lastnik fabrke zapuoslenim ni teu zuišet plač.", "choice1": "Lastnik je imenauau nouga direktorje.", "choice2": "Zapuosleni sa napauidal štrajk.", "question": "effect", "idx": 313}
+{"premise": "Uaditl je naspratauau ekstremistam u daržau.", "choice1": "Ekstremisti sa upliual najn.", "choice2": "Ekstremisti sa ga ubil.", "question": "effect", "idx": 314}
+{"premise": "Piš sm špancirala pa plaš.", "choice1": "Pisk se m je limau na patplate.", "choice2": "Ualoui sa butal ab abala.", "question": "effect", "idx": 315}
+{"premise": "Panuoč sn se zbudu zarat mraza.", "choice1": "Abliku sn hlače ad trenerke.", "choice2": "Papiu sn kazarc uode.", "question": "effect", "idx": 316}
+{"premise": "Mama je rjekla sinu, nej bajhne.", "choice1": "Sin se je zarežeu.", "choice2": "Sin se je cmizdiu.", "question": "cause", "idx": 317}
+{"premise": "U kaubojkah se mi je nardila lukne.", "choice1": "Zapila sn si kaubojke.", "choice2": "Spatknila sn se na pločniku.", "question": "cause", "idx": 318}
+{"premise": "Pub je nuosu zobni aparat.", "choice1": "Dubu je karies.", "choice2": "Zabi sa se mu paglihal.", "question": "effect", "idx": 319}
+{"premise": "Učira sn telauadu u fitnesu.", "choice1": "Danc sn se zbudu z musklfibram.", "choice2": "Danc sn se zbudu, pa me je garlu balilu.", "question": "effect", "idx": 320}
+{"premise": "Zjale za jedilna miza sa si durhcuh šepetale.", "choice1": "Drugi učenci sa se usidl za jedilna miza.", "choice2": "Drugi učenci za jedilna miza sa se stil zapastaulene.", "question": "effect", "idx": 321}
+{"premise": "Zjalca je parstala na trampolinu.", "choice1": "Adfedralu i je nazaj u luft.", "choice2": "Prubala je narjest premet.", "question": "effect", "idx": 322}
+{"premise": "Pismu sn uargla u kaslc.", "choice1": "Pušta je dastaula pismu.", "choice2": "Pušta je pismu paslala pa hitri pušt.", "question": "effect", "idx": 323}
+{"premise": "Kockar je biu samazauistn.", "choice1": "Stau je uas suj dnar.", "choice2": "Damu je šou brez neč.", "question": "effect", "idx": 324}
+{"premise": "Uogn u mej se je rasširu.", "choice1": "Uitr je ratau bel mačan.", "choice2": "Aretiral sa pažigauce.", "question": "cause", "idx": 325}
+{"premise": "Uotrak si je adargnu kalinu.", "choice1": "Mama ga je paslala u suoba.", "choice2": "Mama mu je dila flajštr na rana.", "question": "effect", "idx": 326}
+{"premise": "Dic je prežiu smrtonosna balizn.", "choice1": "Padpisau je soje aparuka.", "choice2": "Presadil sa mu organ.", "question": "cause", "idx": 327}
+{"premise": "Pasribau sn urilu kafje.", "choice1": "Uklau sn se u jask.", "choice2": "Apiku sn si jask.", "question": "effect", "idx": 328}
+{"premise": "Urednica je adpstila pisatlca.", "choice1": "Pisatlca je prubala nje bit parstrajnska u sojih štorijah.", "choice2": "Pisatlca je zamdila pamimbn rok.", "question": "cause", "idx": 329}
+{"premise": "Pačutu sn se čist zmatran.", "choice1": "Ciu dan sn spau.", "choice2": "Ciu dan sn se uču.", "question": "cause", "idx": 330}
+{"premise": "Duhtarca je pastaula diagnoza ad pacjenta.", "choice1": "Pagruntala je pacjentoue simptome.", "choice2": "Pacjentu je predpisala arcnije.", "question": "cause", "idx": 331}
+{"premise": "Pakrempala sn se pa kuš.", "choice1": "Bla je prešuicana.", "choice2": "Sarbila me je.", "question": "cause", "idx": 332}
+{"premise": "Dic je jemu nujna aperacije.", "choice1": "Uan mu je uarglu.", "choice2": "Fršlok ga je.", "question": "cause", "idx": 333}
+{"premise": "Musklni na dicaui ruok sa se napil.", "choice1": "Napejneu je musklne na ruokah.", "choice2": "Padargnu si je raki.", "question": "cause", "idx": 334}
+{"premise": "Dic je uzignu abarui.", "choice1": "Preseničen je biu.", "choice2": "Uzilu mu je ule.", "question": "cause", "idx": 335}
+{"premise": "Aprauiču sn napaka ad sadilauca.", "choice1": "Zihr sn biu, de je duobru mislu.", "choice2": "Zihr sm biu, de je uidu, kua mure nardit.", "question": "cause", "idx": 336}
+{"premise": "Dic je jejneu rauhat.", "choice1": "Začiu je ueč telauast.", "choice2": "Začiu je bel zgudi ustajet.", "question": "effect", "idx": 337}
+{"premise": "Žinska je atrnila napadauca pa nusu.", "choice1": "Napadauc se je zgrudu.", "choice2": "Napadaucu je začila jet kri.", "question": "effect", "idx": 338}
+{"premise": "Pšica je falila centr tarče.", "choice1": "Dic ni duobru pamiru.", "choice2": "Dic je zgubauau špil.", "question": "cause", "idx": 339}
+{"premise": "Lastnik je teu, de prie deratizator u bajta.", "choice1": "U kiudru je najdu padgane.", "choice2": "U suob je jemu farma mraulincau.", "question": "cause", "idx": 340}
+{"premise": "Guosti sn predlagau, de griua uan na uečirje.", "choice1": "Preueč sn biu zmatran, de bi kej uštimau.", "choice2": "Guostje je predauh astala na abisku.", "question": "cause", "idx": 341}
+{"premise": "Zjala je ulauila brata, ka je brau nin dneunik.", "choice1": "Začila je skriuat dneunik.", "choice2": "Dabila je nou dneunik.", "question": "effect", "idx": 342}
+{"premise": "Žinska ni mila duost dnara za najemnina.", "choice1": "Dilala je nadure.", "choice2": "Stila je šeht.", "question": "effect", "idx": 343}
+{"premise": "Atruokaua ruoka se je hitr admknila.", "choice1": "Ašlatau je uruč špargert.", "choice2": "Pabužeu je glaua ad paska.", "question": "cause", "idx": 344}
+{"premise": "Firma je tla acint, kuk sa stranke kantet.", "choice1": "Nouim strankam sa pandil popust.", "choice2": "Strankam sa patalel anketa.", "question": "effect", "idx": 345}
+{"premise": "Alsin puod se je apraskau.", "choice1": "Pub je uargu pouštre duol s kauče.", "choice2": "Pub je uliku stou čez puod.", "question": "cause", "idx": 346}
+{"premise": "Zaščitu sn si fris.", "choice1": "Sauražnk me je izziuau.", "choice2": "Sauražnk je stisnu pist.", "question": "cause", "idx": 347}
+{"premise": "Slaun kip je paguoru.", "choice1": "Zadila ga je strila.", "choice2": "Aldi sa ga paršl abčudauat.", "question": "cause", "idx": 348}
+{"premise": "Sadje sn stila na miz.", "choice1": "Sadje je aduarglu semina.", "choice2": "Sadje sa abligle mšice.", "question": "effect", "idx": 349}
+{"premise": "Balerina si je stargala uiz.", "choice1": "Stapila je na špičke.", "choice2": "Zuila si je gležn.", "question": "cause", "idx": 350}
+{"premise": "Pubču sa se aduezale šnirlce.", "choice1": "Nauču se ih je zauizat.", "choice2": "Laufau je pa igrišu.", "question": "cause", "idx": 351}
+{"premise": "Zatapiu sn se u kniga.", "choice1": "Uarnu sn kniga.", "choice2": "Pazabu sn na ura.", "question": "effect", "idx": 352}
+{"premise": "Dic je biu padubnih prepričejn kat angaui starši.", "choice1": "Starši sa upliual najn.", "choice2": "Starše sta se mu adrjekla.", "question": "cause", "idx": 353}
+{"premise": "Auto se je pačas ustau.", "choice1": "Zmajnkalu mu je bencina.", "choice2": "Šufer je zaspau.", "question": "cause", "idx": 354}
+{"premise": "Dic je idu sladoled na suncu.", "choice1": "Sladoled je zgubu akus.", "choice2": "Sladoled je pakaplauau is korneta.", "question": "effect", "idx": 355}
+{"premise": "U suob sn abejsla slike.", "choice1": "Tepih je biu uidet usran.", "choice2": "Stine sa ble uidet guole.", "question": "cause", "idx": 356}
+{"premise": "Prej sn šau is šihta.", "choice1": "Balila me je glaua.", "choice2": "Šef je sklicau sestank.", "question": "cause", "idx": 357}
+{"premise": "Pask se je pakakau na tepih.", "choice1": "Lastnica je akrigala paska.", "choice2": "Lastnica je dala pasku parbulšk.", "question": "effect", "idx": 358}
+{"premise": "Aprauiču sn se parjatlnu.", "choice1": "Parjatu mi je adpustu.", "choice2": "Parjatu je biu raskajfan.", "question": "effect", "idx": 359}
+{"premise": "Dic je isstupau iz naroda.", "choice1": "Nuosu je ruzak.", "choice2": "Nuosu je neonski lajpk.", "question": "cause", "idx": 360}
+{"premise": "Priče je lagala pad parsiga.", "choice1": "Jejnela je pričet.", "choice2": "Abtažil sa je kriue parsige.", "question": "effect", "idx": 361}
+{"premise": "Baba si je pafarbala lasi.", "choice1": "Tla je nou uidez.", "choice2": "Ni tla isstupat.", "question": "cause", "idx": 362}
+{"premise": "Imigrante sa ulauil, de sa nelegalnu žuil u držau.", "choice1": "Dabil sa šeht.", "choice2": "Deportiral sa ih.", "question": "effect", "idx": 363}
+{"premise": "Jaun gaurc je pauidau štos.", "choice1": "Publika se je režala.", "choice2": "Publika je ustala.", "question": "effect", "idx": 364}
+{"premise": "Pagliala sn u sunce.", "choice1": "Sunce me je aslepilu.", "choice2": "Kuže mi je parjauila na suncu.", "question": "effect", "idx": 365}
+{"premise": "Douhčes mi je blu.", "choice1": "Parhnu sn.", "choice2": "Zaziuau sn.", "question": "effect", "idx": 366}
+{"premise": "Šnicla ni blu kamut razrizat.", "choice1": "Nuož je biu tup.", "choice2": "Šnicl je biu srau.", "question": "cause", "idx": 367}
+{"premise": "Žinska je šla u bankrot.", "choice1": "Dabila je prežiunina.", "choice2": "Nabrala si je en kap dauga.", "question": "cause", "idx": 368}
+{"premise": "Alči u stanuajnu ad kamerada sa ble adparte.", "choice1": "Sprašuala sn se, če je biu adzuni.", "choice2": "Adlačila sn se, de grim h nemu na obisk.", "question": "effect", "idx": 369}
+{"premise": "Pad nus sn si diu ruže.", "choice1": "Z ruže sa padl cuitni listi.", "choice2": "Zašnufau sn ujn ad ruže.", "question": "effect", "idx": 370}
+{"premise": "Žinska se je pačtila nostalgičnu.", "choice1": "Trafila se je is parjatlca z atruštua.", "choice2": "Arjula je na drbuzn.", "question": "cause", "idx": 371}
+{"premise": "Študent je zaulačauau is pisajnem referata.", "choice1": "Referat je addau predčasnu.", "choice2": "Referat je addau nedakampljen.", "question": "effect", "idx": 372}
+{"premise": "Auto se mi je fardirbau.", "choice1": "Šau sn u nakupoualni centr.", "choice2": "Paklicau sn mehajnkarje.", "question": "effect", "idx": 373}
+{"premise": "Uargu sn ciglc.", "choice1": "Biu je anonimn.", "choice2": "Biu je nečitliu.", "question": "cause", "idx": 374}
+{"premise": "Teč je zamahnu z repetnicami.", "choice1": "Zligu je jajca.", "choice2": "Uzignu se je u nebu.", "question": "effect", "idx": 375}
+{"premise": "Parkirala sn na douozu.", "choice1": "Garaže je bla adparta.", "choice2": "Garaže je bla pauhna.", "question": "cause", "idx": 376}
+{"premise": "Kriminalc je s pištula pamiru prat žartu.", "choice1": "Kriminalc je adlužu pištula.", "choice2": "Žartu je uzgnila raki.", "question": "effect", "idx": 377}
+{"premise": "Kumi sn čakau uikend.", "choice1": "Tla sn jet na puogreb ad strica.", "choice2": "Tla sn jet na uhcet at parjatlna.", "question": "cause", "idx": 378}
+{"premise": "Pazabu sn na ura.", "choice1": "Zamislu sn se.", "choice2": "Slabu mi je blu.", "question": "cause", "idx": 379}
+{"premise": "Dokument se je nečitliu naprintau.", "choice1": "Printerju je zmankualu farbe.", "choice2": "U printerju ni blu papirje.", "question": "cause", "idx": 380}
+{"premise": "Na stadjonu sa zašpilal držauna himna.", "choice1": "Nauijači sa se abrnil h zastau.", "choice2": "Nauijači sa zlaufal na igriše.", "question": "effect", "idx": 381}
+{"premise": "Zus je biu aprisn.", "choice1": "Pastrigla sn ga.", "choice2": "Pasalila sn ga.", "question": "effect", "idx": 382}
+{"premise": "Kir se je palilu, sn deu papirnatna ajnkle.", "choice1": "Ajnkle je papiunala tekočina.", "choice2": "Kir se je palilu, se je limalu.", "question": "effect", "idx": 383}
+{"premise": "Žinske sa zmatil sred brajna knige.", "choice1": "Acahnala si je stran.", "choice2": "Še ejnkat je prečitala kniga.", "question": "effect", "idx": 384}
+{"premise": "Aujon je šau skus turbulenca.", "choice1": "Dic si je zatignu pas.", "choice2": "Dic je pagliau skuz uoknu.", "question": "effect", "idx": 385}
+{"premise": "Pub se je zdarznu.", "choice1": "Zjala ga je ignorirala.", "choice2": "Zjala ga je žuklna.", "question": "cause", "idx": 386}
+{"premise": "Duhtari sa dal pacjentk umetn glid.", "choice1": "Adrizal sa i nuoga.", "choice2": "Sprimlel sa ninne žiulejnske cahne.", "question": "cause", "idx": 387}
+{"premise": "Pub je zjale ušipnu za kamauc.", "choice1": "Zmiglna je z ramini.", "choice2": "Ruoka je pategnila stran ad nega.", "question": "effect", "idx": 388}
+{"premise": "Parjatla sn prasila za nasuet.", "choice1": "Cnila sn angau mnejne.", "choice2": "Uidla sn, de im prou.", "question": "cause", "idx": 389}
+{"premise": "Pub je stupu u futka.", "choice1": "Futka se mu je parlimala na čižme.", "choice2": "Futka mu je parletila u fris.", "question": "effect", "idx": 390}
+{"premise": "U mistu je padlu enpar centimetrau snega.", "choice1": "Šule sa se zaparle.", "choice2": "Aldi sa se skril pad zjemle.", "question": "effect", "idx": 391}
+{"premise": "Dilauc je kampliu smena.", "choice1": "Šou je damu.", "choice2": "Graziu je, de bu pustu šeht.", "question": "effect", "idx": 392}
+{"premise": "Dreu je paškadualu bajta.", "choice1": "Dreu je padlu na striha.", "choice2": "Dreu je zasinčlu dariše.", "question": "cause", "idx": 393}
+{"premise": "Čula se je rascipla na pau.", "choice1": "Čule sn naluožu u kamin.", "choice2": "S skira sn zamahnu prat čul.", "question": "cause", "idx": 394}
+{"premise": "Familje je čestitala paru.", "choice1": "Par je aznanu, de grista narazn.", "choice2": "Par je aznanu, de usta dabila atruoka.", "question": "cause", "idx": 395}
+{"premise": "Zjala je pubu paslala kartica za ualentinau.", "choice1": "Rada ga je mila.", "choice2": "Kušlna ga je.", "question": "cause", "idx": 396}
+{"premise": "Pakimau sn, ka je parjatu niki riku.", "choice1": "Zbrlazgan sn biu.", "choice2": "Dau sn mu prau.", "question": "cause", "idx": 397}
+{"premise": "Parjatli sa uargla kauanc.", "choice1": "Tli sa dabit kompromis.", "choice2": "Tli sa se paštjenu adlučt.", "question": "cause", "idx": 398}
+{"premise": "U kuhn je pazuanila urca.", "choice1": "Dic je pasprau špeza u frižider.", "choice2": "Dic je deu pica iz rura.", "question": "effect", "idx": 399}
+{"premise": "Žinska si je pastaula ambicjozn cil.", "choice1": "Lenarla je.", "choice2": "Gurbala je.", "question": "effect", "idx": 400}
+{"premise": "Buogat dic je umaru ad starast.", "choice1": "Angau sin je jemu praune probleme.", "choice2": "Angau sin je pauirbau angau premažejne.", "question": "effect", "idx": 401}
+{"premise": "Žinska je pahadila uogn.", "choice1": "Uogn je ugasiu.", "choice2": "Iz uogne je se pakadilu.", "question": "effect", "idx": 402}
+{"premise": "Auto ad žinske je biu pr mehajnkarju.", "choice1": "Uzil sa i uozniška.", "choice2": "Dažuila je prometna nasriče.", "question": "cause", "idx": 403}
+{"premise": "Prespala sn alarm.", "choice1": "Nardila sn fruštk.", "choice2": "Zamdila sn fruštk.", "question": "effect", "idx": 404}
+{"premise": "Jauna figura je stapila iz limuzine.", "choice1": "Kamere sa bliskale prat nemu.", "choice2": "Angaua familje je šla na tiskouna konferenca.", "question": "effect", "idx": 405}
+{"premise": "Žinska se je abirala u ban.", "choice1": "Uoda u ban je ratala muorna.", "choice2": "Uoda je attjekla z bane.", "question": "effect", "idx": 406}
+{"premise": "Teu je spuoznat druge študente na kampusu.", "choice1": "Pardružu se je brataušn.", "choice2": "Diplomirau je iz inžinirstua.", "question": "effect", "idx": 407}
+{"premise": "Uzgnila sn pauštre s kauče.", "choice1": "Iskala sn drabiš.", "choice2": "Prestaulala sn mabilje u dneun.", "question": "cause", "idx": 408}
+{"premise": "Uosa je frčala prut pubu.", "choice1": "Pub je ušau.", "choice2": "Pub je attrgau ruže.", "question": "effect", "idx": 409}
+{"premise": "Žinske sa spaznal kriue za prekaršk.", "choice1": "Absadil sa je na družbenu karistnu dilu.", "choice2": "Absadil sa je na smart.", "question": "effect", "idx": 410}
+{"premise": "U uruč čaj sn pamišeu cukar.", "choice1": "Is čaje se je pakadilu.", "choice2": "Cukr se je stapiu.", "question": "effect", "idx": 411}
+{"premise": "Ueteran je čutau.", "choice1": "Upaklical sa ga za u uajska.", "choice2": "Ranil sa ga u bitk.", "question": "cause", "idx": 412}
+{"premise": "Kriminalc je ušau pred palcije.", "choice1": "Palcije je pamagala žartu.", "choice2": "Palcije je lauila kriminalca.", "question": "effect", "idx": 413}
+{"premise": "Prenosni računalnik se ni teu užgat.", "choice1": "Padu mi je na tle.", "choice2": "Napunila sn ga.", "question": "cause", "idx": 414}
+{"premise": "Žinsk je u marejn zmajnkalu prastura.", "choice1": "Pardabila je uelik cujn.", "choice2": "Zlažila je cujne.", "question": "cause", "idx": 415}
+{"premise": "Dicu se je starlu sarci.", "choice1": "Angaua žjena je radila.", "choice2": "Angaua žjena ga je zapstila.", "question": "cause", "idx": 416}
+{"premise": "Dic je diplomirau.", "choice1": "Izuču se je za beruf, kat ga je teu.", "choice2": "Preklical sa mu panudba za šeht.", "question": "effect", "idx": 417}
+{"premise": "Dicau glas je blu jasnu slišet pa cili duaran.", "choice1": "Pazrau je publika.", "choice2": "Gauru je u mikrofon.", "question": "cause", "idx": 418}
+{"premise": "Kauanc sn uarku u uodna fontana.", "choice1": "Kauanc se je patapiu na dne.", "choice2": "Kauanc se je zluomu na pau.", "question": "effect", "idx": 419}
+{"premise": "Igrauc je udaru žuga prat lukn.", "choice1": "Žuga je šla u lukne.", "choice2": "Žuga je šla nazaj prat igraucu.", "question": "effect", "idx": 420}
+{"premise": "Na pactrišju sn pazaugala prah.", "choice1": "Kauclnu se mi je.", "choice2": "Kihlna sn.", "question": "effect", "idx": 421}
+{"premise": "Žinska na kas je paklicala uarnostnike.", "choice1": "Stranka je nucala panarjen dnar.", "choice2": "Stranka je stila taspridne lči adparte.", "question": "cause", "idx": 422}
+{"premise": "Smeti sn nisu uan.", "choice1": "Kuhne je zarad smeti smardila.", "choice2": "Panesrič sn uargu stran ciglc za u špeza.", "question": "cause", "idx": 423}
+{"premise": "Familje je šla u žiualski uart.", "choice1": "Drbuzn je abčuduala žuali.", "choice2": "Drbuzn je pregajnela žuali.", "question": "effect", "idx": 424}
+{"premise": "Dic je naglas dihau.", "choice1": "Adpaueduale sa mu abist.", "choice2": "Jemu je plučnca.", "question": "cause", "idx": 425}
+{"premise": "Jemu sn še ena karta za koncert.", "choice1": "Prjatlna sn prašeu, kak se prie da duarane.", "choice2": "Parjatlna sn prašeu, če bi teu jet z mana.", "question": "effect", "idx": 426}
+{"premise": "U bajt se je pakuarla klima.", "choice1": "Parnjesla sn deke.", "choice2": "Adparla sn ukna.", "question": "effect", "idx": 427}
+{"premise": "Puba je buolu križ.", "choice1": "Jemu je adpart ruzak.", "choice2": "Jemu je tješk ruzak.", "question": "cause", "idx": 428}
+{"premise": "Mam sn hpila šejnk.", "choice1": "Spjekla sn i turta.", "choice2": "Mila je rojstn dan.", "question": "cause", "idx": 429}
+{"premise": "Narcise na uartu sa ble fardirbane.", "choice1": "Uartnarje je pičla čuila.", "choice2": "Uiuerce sa skapale čebulce.", "question": "cause", "idx": 430}
+{"premise": "Užgau sn fajerca.", "choice1": "Plamen je pačas ugasnu.", "choice2": "Fajerca je zagarila.", "question": "effect", "idx": 431}
+{"premise": "Skrigane stranke sa paršle da dogouora.", "choice1": "Nisa se tle krigat na sadnij.", "choice2": "Tle sa papraut odnos med nemi.", "question": "cause", "idx": 432}
+{"premise": "Atruoke sa paslal u siratišnca.", "choice1": "Nehni starši sa umarl.", "choice2": "Nehni starši sa ih scartal.", "question": "cause", "idx": 433}
+{"premise": "U oceanu je parstau meteorit.", "choice1": "Paršlu je da cunamija.", "choice2": "Začila je padat tuče.", "question": "effect", "idx": 434}
+{"premise": "Pohodnica je sričela strpina kače.", "choice1": "Dehidrirala je.", "choice2": "Panika i je.", "question": "effect", "idx": 435}
+{"premise": "Rur se je segriu.", "choice1": "Paržgala sn rur.", "choice2": "Kripa sn dila u rur.", "question": "cause", "idx": 436}
+{"premise": "Stislna sn karhl limune.", "choice1": "Limuna je ratala plesniua.", "choice2": "Z limune je špricalnu.", "question": "effect", "idx": 437}
+{"premise": "Držaua je adkrila nou azimle.", "choice1": "Držaua je zapstila azimle.", "choice2": "Držaua je kolonizirala azimle.", "question": "effect", "idx": 438}
+{"premise": "Kazarc je padu z mize.", "choice1": "Raztrejšu se je pa tleh.", "choice2": "Padu je u kupu cujn.", "question": "effect", "idx": 439}
+{"premise": "Miza se je majala.", "choice1": "Pudn ni biu glihn.", "choice2": "Pudn je biu spausk.", "question": "cause", "idx": 440}
+{"premise": "Ata je ulauiu sina, de laže.", "choice1": "Angau sin je pauidau pa prauic.", "choice2": "Ata je zaupau sinu.", "question": "effect", "idx": 441}
+{"premise": "U glau mu je razbiualu ad balečin.", "choice1": "Uzeu je sirup prat kašlu.", "choice2": "Uzeu je aspirin.", "question": "effect", "idx": 442}
+{"premise": "Cuk se je ustauleu.", "choice1": "Parbližauau se je postaj.", "choice2": "Kasniu je.", "question": "cause", "idx": 443}
+{"premise": "Dic je šou na terapije.", "choice1": "U negaui familij je bla didna dušiuna balizn.", "choice2": "Diagnosticiral sa mu depresije.", "question": "cause", "idx": 444}
+{"premise": "Baba se je zgrabila za garlu.", "choice1": "Pagautlna je hrana.", "choice2": "Hrana se i je zatknila u garlu.", "question": "cause", "idx": 445}
+{"premise": "Žinska je mila unitu garlu.", "choice1": "Šlišet je bla hripaua.", "choice2": "Gauarila je z naglasam.", "question": "effect", "idx": 446}
+{"premise": "Pas je gliau sučn šnicl na miz.", "choice1": "Slinu se je.", "choice2": "Ligu je na tla.", "question": "effect", "idx": 447}
+{"premise": "Puosu ad žinske je biu uspišn.", "choice1": "Adpstila je dilauce.", "choice2": "Abagatila je.", "question": "effect", "idx": 448}
+{"premise": "Učenci sa šli uan z učilnice.", "choice1": "Pazuanilu je.", "choice2": "Taršica je dala damače naluga.", "question": "cause", "idx": 449}
+{"premise": "Žinska je tardila, de je uidla duha.", "choice1": "Ninni znanci sa bli skeptični.", "choice2": "Ninni znanci sa je zastapil.", "question": "effect", "idx": 450}
+{"premise": "Dic je zgubu sluh.", "choice1": "Skuor se je utapiu u muri.", "choice2": "Skuor je umaru u eksplozij.", "question": "cause", "idx": 451}
+{"premise": "Uotrak je spustu štrek ad baluna.", "choice1": "Balun se je spraznu.", "choice2": "Balun se je uzignu prat nibu.", "question": "effect", "idx": 452}
+{"premise": "Dic je zgubu gouor.", "choice1": "Kap ga je.", "choice2": "Glabuoku je udihnu.", "question": "cause", "idx": 453}
+{"premise": "Žinska se je spatknila na pločniku.", "choice1": "U betonu je bla raspuka.", "choice2": "Slišela je, de je kličeje.", "question": "cause", "idx": 454}
+{"premise": "Dic je na bombica skuoču u bazen.", "choice1": "Rešeuauc je skuoču za nem.", "choice2": "Dic je zmuoču rešeuauca.", "question": "effect", "idx": 455}
+{"premise": "Uzila sn antibjotike.", "choice1": "Unitje se je pazdraulu.", "choice2": "Unitje se je razširlu.", "question": "effect", "idx": 456}
+{"premise": "Na semaforju se je paržgala armjena.", "choice1": "Šufer je partisnu na žlajf.", "choice2": "Šufer je pahupau.", "question": "effect", "idx": 457}
+{"premise": "Plastična pasuda se je stapila.", "choice1": "Pasuda sn namuoču u guorka uoda.", "choice2": "Pasuda sn deu na uruč špargert.", "question": "cause", "idx": 458}
+{"premise": "Na autu se je udarlu.", "choice1": "Šufer je trejšu u telegrafštanga.", "choice2": "Šufer je šau čez ardiče.", "question": "cause", "idx": 459}
+{"premise": "Pub se je cila nuč uču.", "choice1": "Ni šau na izpit.", "choice2": "Naridu je izpit.", "question": "effect", "idx": 460}
+{"premise": "Pubčk se je aklipau ruba bazena.", "choice1": "Strah ga je blu učit se plauat.", "choice2": "Rešeuauc je biu na šihtu.", "question": "cause", "idx": 461}
+{"premise": "Ruoka sn dila na parsn kuoš.", "choice1": "Čtila sn suj utrip.", "choice2": "Muj utrip se je uzignu.", "question": "effect", "idx": 462}
+{"premise": "Bajta zram muoje pisarne sa gradil.", "choice1": "U muoji pisarn je bla gužua.", "choice2": "U muoji pisarn je biu šundr.", "question": "effect", "idx": 463}
+{"premise": "Familje je tla spuoznat soje saside.", "choice1": "Familje je pauabila saside na uečirje.", "choice2": "Familje je pamahala sasidam z dariše.", "question": "effect", "idx": 464}
+{"premise": "Z bazena je plusklna uoda.", "choice1": "Plauauc je skuoču u bazen.", "choice2": "Plauauc je lebdiu u bazenu.", "question": "cause", "idx": 465}
+{"premise": "Uklau sn u kus lubenice.", "choice1": "Panasrič sn pažaru sime.", "choice2": "Panasrič sn si adkrušu zub.", "question": "effect", "idx": 466}
+{"premise": "Pub se je spataknu.", "choice1": "Jankara je jemu adpita.", "choice2": "Šnirlce je jemu aduizane.", "question": "cause", "idx": 467}
+{"premise": "Žinska je dila čepke u uha.", "choice1": "Mutu i je šundr.", "choice2": "Dala si je preluknet uha.", "question": "cause", "idx": 468}
+{"premise": "Še ejnkat sn napunila flaše z uoda.", "choice1": "Usa uoda u ni sn spila.", "choice2": "Mila sn je u frižiderju.", "question": "cause", "idx": 469}
+{"premise": "Addaje na teleuizi sa cenzoriral.", "choice1": "U ni sa gardu gauaril.", "choice2": "Mila je zamutana štorija.", "question": "cause", "idx": 470}
+{"premise": "Šif se je razbeu.", "choice1": "Pasadka je utanila.", "choice2": "Pasadka je trafila gusarje.", "question": "effect", "idx": 471}
+{"premise": "Pub ni uidu, kak bi se luotu uganke.", "choice1": "Rišu je uganka.", "choice2": "Pruosu je za namih.", "question": "effect", "idx": 472}
+{"premise": "Telefon je zazuaniu.", "choice1": "Dic je adlužu slušalka.", "choice2": "Dic je uzignu slušalka.", "question": "effect", "idx": 473}
+{"premise": "Baba je bulila uame.", "choice1": "Abila sn je.", "choice2": "Pačtila sn se zuparnu.", "question": "effect", "idx": 474}
+{"premise": "Grupa je šla iz muzeje.", "choice1": "Paslikal sa rastaulene arči.", "choice2": "Paglial sa si use rastaulene arči.", "question": "cause", "idx": 475}
+{"premise": "Dice se je začiu krigat z mana.", "choice1": "Parjatu me je prectau dicu.", "choice2": "Parjatu se je pastau za mene.", "question": "effect", "idx": 476}
+{"premise": "Zračnca na beciklu sn mila prazna.", "choice1": "Napumpala sn zračnca.", "choice2": "Mejnala sn brzine na beciklnu.", "question": "effect", "idx": 477}
+{"premise": "Zjalca je bla uidet blida.", "choice1": "Fotr i je prečitau praulenca.", "choice2": "Fotr i je pašlatau čjelu.", "question": "effect", "idx": 478}
+{"premise": "U kemiku ni blu ueč čarnila.", "choice1": "Nucau sn suinčnik.", "choice2": "Padpisau sn se.", "question": "effect", "idx": 479}
+{"premise": "Dicu sa zauarnil pasailu.", "choice1": "Jemu je douh.", "choice2": "Začiu je puosu.", "question": "cause", "idx": 480}
+{"premise": "Zjale ni šlu u šula.", "choice1": "Milu je narice.", "choice2": "Radu se je učilu matematika.", "question": "cause", "idx": 481}
+{"premise": "Urečka za smeti je bla pauhna.", "choice1": "Njesla sn je u smetnak.", "choice2": "Strisla sn je u lijak.", "question": "effect", "idx": 482}
+{"premise": "Pasesaucala sn tepih.", "choice1": "Muoja cimra je palila punč.", "choice2": "Muj pas puše dlaka.", "question": "cause", "idx": 483}
+{"premise": "Dica je raskajfalu.", "choice1": "Zaparu je računalnik.", "choice2": "Čez suoba je uargu stou.", "question": "effect", "idx": 484}
+{"premise": "Zjala je uargla uejca na uogn.", "choice1": "Uejca je zagarila.", "choice2": "Uogn se je ugasiu.", "question": "effect", "idx": 485}
+{"premise": "Dic je stupu spad tuše.", "choice1": "Zmajnkalu je guorke uode.", "choice2": "Ni maugu dabit ajnkle.", "question": "cause", "idx": 486}
+{"premise": "Starši sa tli, de b šli atruoc na faks.", "choice1": "Nardil sa uarčeualn račun za šolnina.", "choice2": "Atruoke sa spadbujel, nej se špileje adzuni.", "question": "effect", "idx": 487}
+{"premise": "Dic si je aduizau škarpjete.", "choice1": "Škarpjeti sa se acigal.", "choice2": "Škarpjeti sa se abnucal.", "question": "effect", "idx": 488}
+{"premise": "Dic je snidu pou predjedi.", "choice1": "Kar mu je astalu, je diu u frižider.", "choice2": "Shranu je recept.", "question": "effect", "idx": 489}
+{"premise": "Gležn mi je zatiku.", "choice1": "Najn sn deu lid.", "choice2": "Namazau sn ga s krema.", "question": "effect", "idx": 490}
+{"premise": "Urata u pisarna sn mila adparta.", "choice1": "Za pisalna miza sn gauarila s kolegica.", "choice2": "Slišela sn debata na hodniku.", "question": "effect", "idx": 491}
+{"premise": "Maugu sn čakat u uarst.", "choice1": "Usidu sn se.", "choice2": "Pregliau sn reuije.", "question": "effect", "idx": 492}
+{"premise": "Dic je zamahnu prat muh.", "choice1": "Muha je adbrenčala stran.", "choice2": "Muha je bla pr mest.", "question": "effect", "idx": 493}
+{"premise": "Dic je napisau aparuka.", "choice1": "Umirau je.", "choice2": "Biu je udauc.", "question": "cause", "idx": 494}
+{"premise": "Tekač je začutu, de ga tekmec dahaje.", "choice1": "Izpadu je iz tekme.", "choice2": "Pajačeu je ritm.", "question": "effect", "idx": 495}
+{"premise": "Skarbnu sn pretuhtau problem.", "choice1": "Pruosu sn za nasuet.", "choice2": "Dubu sn rešitu.", "question": "effect", "idx": 496}
+{"premise": "Uandrauc je huodu pa gungastmu cigumustu.", "choice1": "Blu ga je strah.", "choice2": "Biu je uan s sjebe.", "question": "effect", "idx": 497}
+{"premise": "Dic je parčakauau, de bu ekipa zmagala.", "choice1": "Dabiu se je s kameradi, de bi glial tekma.", "choice2": "Stau je s kameradi.", "question": "effect", "idx": 498}
+{"premise": "Pub ni maugu zaspat.", "choice1": "Nastau si je uikarca.", "choice2": "Šteu je bime.", "question": "effect", "idx": 499}

@@ -27,7 +27,7 @@ import seaborn as sns
 
 # Configuration
 HERE = Path(__file__).resolve().parent
-RESULTS_FILENAME = "piqa_all_results.json"  # default file looked for next to this script
+RESULTS_FILENAME = "piqa_old.json"  # default file looked for next to this script
 OUTPUT_DIR = HERE / "plots"
 SETUP_FILTER = None  # "classification", "transl_to_class", or None
 
@@ -48,9 +48,9 @@ LANG_DISPLAY = {
     "sl":          "Slovenian",
     "sr_cyrl":     "Serbian (Cyrillic)",
     "sr_latn":     "Serbian (Latin)",
-    "sr-tor_cyrl": "Serbian Torlak (Cyrillic)",
-    "sl-prl":      "Slovenian Prlekija",
-    "sr-tor_latn": "Serbian Torlak (Latin)",
+    #"sr-tor_cyrl": "Serbian Torlak (Cyrillic)",
+    #"sl-prl":      "Slovenian Prlekija",
+    #"sr-tor_latn": "Serbian Torlak (Latin)",
 }
 
 # Desired column order names must match LANG_DISPLAY values exactly.
@@ -63,9 +63,9 @@ LANG_ORDER = [
     "Macedonian",
     "Slovenian Cerkno",
     "Chakavian",
-    "Serbian Torlak (Cyrillic)",
-    "Serbian Torlak (Latin)",
-    "Slovenian Prlekija",
+    #"Serbian Torlak (Cyrillic)",
+    #"Serbian Torlak (Latin)",
+    #"Slovenian Prlekija",
 ]
 
 RENAME_DICT = {
@@ -82,6 +82,7 @@ RENAME_DICT = {
     "meta-llama/llama-3.3-70b-instruct": "Llama 3.3 70B",
     "google/gemma-4-31b-it": "Gemma 4 31B IT",
     "google/gemma-4-26b-a4b-it": "Gemma 4 26B A4B IT",
+    "google/gemma-3-27b-it": "Gemma 3 27B IT",
     "qwen/qwen3-32b": "Qwen 3 32B",
     "openai/gpt-3.5-turbo": "GPT-3.5 Turbo",
     "openai/gpt-5.4-pro": "GPT-5.4 Pro",
@@ -95,28 +96,49 @@ RENAME_DICT = {
     "gpt-3.5-turbo-0125": "GPT-3.5 Turbo",
     "llama3.3:latest": "Llama 3.3 70B",
     "qwen3:32b": "Qwen 3 32B",
+    "gemma3:27b": "Gemma 3 27B IT",
+    "deepseek-r1:14b": "DeepSeek R1 14B",
+    "GaMS-27B-quantized": "GaMS-27B (quant.)",
+    "GaMS-27B": "GaMS-27B"
 }
 
-# Models to drop from the figure (matched against raw id or renamed name).
-EXCLUDE_MODELS = ["Gemma 3 27B IT", "DeepSeek R1 14B", "GaMS-27B (quant.)"]
-
-# Custom row order models absent from the data are silently skipped.
-CUSTOM_ORDER = [
-    # OpenAI
-    "GPT-5.4 Pro", "GPT-5.4", "GPT-5", "GPT-4o", "GPT-3.5 Turbo",
-    # Google
-    "Gemini 3.1 Pro", "Gemini 3.1 Flash", "Gemini 2.5 Pro", "Gemini 2.5 Flash",
-    "Gemma 4 31B IT", "Gemma 4 26B A4B IT",
-    # Anthropic
-    "Claude Opus 4.6", "Claude Sonnet 4.6", "Claude Haiku 4.5",
-    # Meta
-    "Llama 4 Maverick", "Llama 3.3 70B",
-    # Mistral
-    "Mistral Large", "Mistral Medium", "Mistral Small",
-    # Alibaba
-    "Qwen 3 32B",
+EXCLUDE_MODELS = [
+    "GPT 5.4 Pro",
+    "GPT 5.4",
+    "Gemma 4 31B IT",
+    "Gemma 4 26B A4B IT",
+    "Llama 4 Maverick",
+    "Mistral Large",
+    "Mistral Small",
 ]
 
+# Custom row order, models absent from the data are silently skipped.
+CUSTOM_ORDER = [
+    # OpenAI
+    "GPT-5",
+    "GPT-4o",
+    "GPT-3.5 Turbo",
+    # Google
+    "Gemini 3.1 Pro",
+    "Gemini 3.1 Flash",
+    "Gemini 2.5 Pro",
+    "Gemini 2.5 Flash",
+    "Gemma 3 27B IT",
+    # Anthropic
+    "Claude Opus 4.6",
+    "Claude Sonnet 4.6",
+    "Claude Haiku 4.5",
+    # Meta
+    "Llama 3.3 70B",
+    # Mistral,
+    "Mistral Medium",
+    # Chinese
+    "Qwen 3 32B",
+    "DeepSeek R1 14B",
+    # Slovenian
+    "GaMS-27B (quant.)",
+    "GaMS-27B"
+]
 
 # Path resolution
 def resolve_results_path() -> Path:
@@ -258,7 +280,7 @@ def main() -> None:
         if stem.endswith(suffix):
             stem = stem[: -len(suffix)]
             break
-    output_path = OUTPUT_DIR / f"{stem}_heatmap.png"
+    output_path = OUTPUT_DIR / f"{stem}_old.png"
 
     plot_heatmap(results_df, output_path)
     print("Heatmap complete.")

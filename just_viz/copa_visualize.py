@@ -28,7 +28,7 @@ import seaborn as sns
 # Configuration
 HERE = Path(__file__).resolve().parent
 RESULTS_FILENAME = (
-    "copa_all_results.json"  # default file looked for next to this script
+    "copa_old.json"  # default file looked for next to this script
 )
 OUTPUT_DIR = HERE / "plots"
 SETUP_FILTER = None  # COPA is zero-shot classification only; kept for parity with PIQA
@@ -48,7 +48,7 @@ LANG_DISPLAY = {
     "hr-ckm": "Chakavian",
     "sl-cer": "Slovenian Cerkno",
     "sr-tor": "Serbian Torlak",
-    "sl-prl": "Slovenian Prlekija",
+    #"sl-prl": "Slovenian Prlekija",
 }
 
 # Desired column order — standard languages first, then dialect varieties.
@@ -61,7 +61,7 @@ LANG_ORDER = [
     "Slovenian Cerkno",
     "Chakavian",
     "Serbian Torlak",
-    "Slovenian Prlekija",
+    #"Slovenian Prlekija",
 ]
 
 RENAME_DICT = {
@@ -98,19 +98,20 @@ RENAME_DICT = {
 }
 
 EXCLUDE_MODELS = [
-    "Gemma 3 27B IT",
-    "DeepSeek R1 14B",
-    "GaMS-27B (quant.)",
-    "GaMS-27B",
+    "GPT-5.4 Pro",
+    "GPT 5.4",
+    "Gemma 4 31B IT",
+    "Gemma 4 26B A4B IT",
+    "Llama 4 Maverick",
+    "Mistral Large",
+    "Mistral Small",
     "dummy-most_frequent",
-    "dummy-stratified",
+    "dummy-stratified"
 ]
 
 # Custom row order, models absent from the data are silently skipped.
 CUSTOM_ORDER = [
     # OpenAI
-    "GPT-5.4 Pro",
-    "GPT-5.4",
     "GPT-5",
     "GPT-4o",
     "GPT-3.5 Turbo",
@@ -119,19 +120,15 @@ CUSTOM_ORDER = [
     "Gemini 3.1 Flash",
     "Gemini 2.5 Pro",
     "Gemini 2.5 Flash",
-    "Gemma 4 31B IT",
-    "Gemma 4 26B A4B IT",
+    "Gemma 3 27B IT",
     # Anthropic
     "Claude Opus 4.6",
     "Claude Sonnet 4.6",
     "Claude Haiku 4.5",
     # Meta
-    "Llama 4 Maverick",
     "Llama 3.3 70B",
-    # Mistral
-    "Mistral Large",
+    # Mistral,
     "Mistral Medium",
-    "Mistral Small",
     # Alibaba
     "Qwen 3 32B",
 ]
@@ -269,7 +266,7 @@ def main() -> None:
         if stem.endswith(suffix):
             stem = stem[: -len(suffix)]
             break
-    output_path = OUTPUT_DIR / f"{stem}_heatmap.png"
+    output_path = OUTPUT_DIR / f"{stem}_old.png"
 
     plot_heatmap(results_df, output_path)
     print("Heatmap complete.")

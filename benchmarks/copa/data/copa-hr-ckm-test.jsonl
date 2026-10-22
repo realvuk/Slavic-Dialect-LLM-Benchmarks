@@ -1,0 +1,500 @@
+{"premise": "Ta stvar je bila zapakirana va najlon z mehurići.", "choice1": "Ga je bilo lahko zlomit.", "choice2": "Je bi minji.", "question": "cause", "idx": 0}
+{"premise": "San mu sprazni žepi.", "choice1": "San naša kušćić harti za nekamor.", "choice2": "San naša oružje.", "question": "effect", "idx": 1}
+{"premise": "Temiti so šli va kućo.", "choice1": "Termiti so šli ća z kući.", "choice2": "Termiti so prejeli drievo va kuće.", "question": "effect", "idx": 2}
+{"premise": "Putniki so prišli do kunfina.", "choice1": "Graničar in je ubaša pašapuorti.", "choice2": "Graničar ih je tuoži da delajo kontrabando.", "question": "effect", "idx": 3}
+{"premise": "Kancelarija je bila zaprta.", "choice1": "Je bila fešta.", "choice2": "Je bilo leto.", "question": "cause", "idx": 4}
+{"premise": "Mlade je pofalilo fuorci.", "choice1": "Se je igrala damo.", "choice2": "Je preskakala špah.", "question": "cause", "idx": 5}
+{"premise": "Ona žienska je zgubila svoje mesto va riede.", "choice1": "Je još ljudi stalo va riet.", "choice2": "Je šla van z rieda.", "question": "cause", "idx": 6}
+{"premise": "Mlada si je začepila nuos.", "choice1": "Beba je slinila po babarine.", "choice2": "Beba se je pokakala va plieno.", "question": "cause", "idx": 7}
+{"premise": "Bend je sopa svojo najboljo kanto.", "choice1": "Ljudi ki so poslušali so tukli z rokami zuz muziko.", "choice2": "Ljudi so poslušali tiho kako se pristuje.", "question": "effect", "idx": 8}
+{"premise": "Mlada se je želela zahvalit svojemu profešuoru z matematiki.", "choice1": "Mlada je zustala va kazne potle škuoli.", "choice2": "Mlada je donesla maeštru jabuko.", "question": "effect", "idx": 9}
+{"premise": "Mladi ki so kampirali so bili prenjeni.", "choice1": "Šef ot kampa in je poveda štorico za duhi.", "choice2": "So pekli kolačići ot sleza na logorsken ugnje.", "question": "cause", "idx": 10}
+{"premise": "Oni muški se je udri va glavo.", "choice1": "Se je pogubi va pensierah.", "choice2": "Je dobi potres mozga.", "question": "effect", "idx": 11}
+{"premise": "Ček kiega san napisa je odbit.", "choice1": "Muoj račun na banke je bi prazan.", "choice2": "So mi krešili plaćo.", "question": "cause", "idx": 12}
+{"premise": "Kaštin od muškiega ot e-pošti ka prihaja je bi pun pošti ka nienemu ne rabi.", "choice1": "Je zbrisa pošto ka nienemu ne rabi.", "choice2": "Je posla e-poruko ciele kumpanije.", "question": "effect", "idx": 13}
+{"premise": "Pomorac je bi va karantene.", "choice1": "Je bi tamo kade je bilo te bolesti.", "choice2": "Se je uzdravi.", "question": "cause", "idx": 14}
+{"premise": "Mlada je zapoštala šifro.", "choice1": "si jo je recitirala.", "choice2": "Jo je zabila zapisat.", "question": "cause", "idx": 15}
+{"premise": "San nali vodo va mižuol.", "choice1": "Voda mi je ugasila žiejo.", "choice2": "Mižuol se je napuni.", "question": "effect", "idx": 16}
+{"premise": "Muški je muča kat je njeguof prietel fini poviedat.", "choice1": "Je ti stat na njeguof kraj.", "choice2": "Je pensa na besedi svojega prietela.", "question": "cause", "idx": 17}
+{"premise": "Dežgracija se je dogodila sporadi mene.", "choice1": "San ćuti da san krif.", "choice2": "San diga tužbo.", "question": "effect", "idx": 18}
+{"premise": "Verugi so se molale.", "choice1": "Verugi ao bile zamotane okoli gomi.", "choice2": "Va verugah je bila razbita veružnica.", "question": "cause", "idx": 19}
+{"premise": "Par se je odluči popuštit.", "choice1": "Se je štufa svaji.", "choice2": "Je beža ot pominjka za to.", "question": "cause", "idx": 20}
+{"premise": "Žienska se je odlučila kandidirat za javno funkcijo.", "choice1": "Si je našla nekega ki će škrbet za kampanjo za izbori.", "choice2": "Je svedočila na sude.", "question": "effect", "idx": 21}
+{"premise": "Muški je pensa da će bit zimsko vrieme na puote.", "choice1": "Si je spakira teplo robo va valižo.", "choice2": "Je putova z velon valižon.", "question": "effect", "idx": 22}
+{"premise": "Študient je zna odgovor na pitanje.", "choice1": "Je diga ruoko.", "choice2": "Se je čini da dela.", "question": "effect", "idx": 23}
+{"premise": "Muškiemu so zasuzile oči.", "choice1": "Mu je ša prah va oči.", "choice2": "Si je stavi ućali za učuvat oči.", "question": "cause", "idx": 24}
+{"premise": "Igračica je dobila utakmico piet puti zariedon.", "choice1": "Oni protif kega je igrala je reka da sliepi.", "choice2": "Onemu protif kega je igrala mu je je bilo žal.", "question": "effect", "idx": 25}
+{"premise": "Meštar je poprekida školanof ispit.", "choice1": "Je ćepa školana da sliepi.", "choice2": "Školanovi odgovori niso bili jušti.", "question": "cause", "idx": 26}
+{"premise": "San se pofrma i presta guorit.", "choice1": "San zgubi glas.", "choice2": "San zusta pres diha.", "question": "cause", "idx": 27}
+{"premise": "Zalejena hrana se je odledila.", "choice1": "San jo stavi va mikrovalno.", "choice2": "San jo pokri s plastičnon folijon.", "question": "cause", "idx": 28}
+{"premise": "Delavac se je čini da je bolan.", "choice1": "Je imie grči va trbuhe.", "choice2": "Je tie slobodan dan.", "question": "cause", "idx": 29}
+{"premise": "Mlada je zaronila va bazen.", "choice1": "Je tekla okoli bazena.", "choice2": "Je skočila z odskočne daski.", "question": "cause", "idx": 30}
+{"premise": "Harti za kino so se rasprodale.", "choice1": "Se je prikaževa film po prvi put.", "choice2": "Film je slabo pasa.", "question": "cause", "idx": 31}
+{"premise": "Muški je zmršavie.", "choice1": "Ljudi so ga puštili samega.", "choice2": "Ljudi so mu davali komplimienti.", "question": "effect", "idx": 32}
+{"premise": "Mlada je dobila žulji na rokah.", "choice1": "Je natipkala pismo.", "choice2": "Se je poprtila po špage.", "question": "cause", "idx": 33}
+{"premise": "Cirkusant je žonglira dokle se je pelja na bičikleto na jeno kuolo.", "choice1": "Publika je škičala od vesielja.", "choice2": "Akrobat se je zaliela na trapeze.", "question": "effect", "idx": 34}
+{"premise": "San zgubi strpljienje.", "choice1": "Muoj prietel je kasni.", "choice2": "Muoj prietel je priša na vrieme.", "question": "cause", "idx": 35}
+{"premise": "Zaraćene državi so želele mir.", "choice1": "So razvile nuklearna oružja.", "choice2": "So se doguorili.", "question": "effect", "idx": 36}
+{"premise": "Muški je popi medežijo za spat.", "choice1": "Je bi pospan.", "choice2": "Je dobi fiebro.", "question": "effect", "idx": 37}
+{"premise": "Žienska je udrila va kauč.", "choice1": "Noga ot kauča se je rasklimala.", "choice2": "Natukla je koleno.", "question": "effect", "idx": 38}
+{"premise": "Otrok je stisa baluon.", "choice1": "Baluon je puka.", "choice2": "Baluon je zletie.", "question": "effect", "idx": 39}
+{"premise": "Putniki so šli va svojo kamaro ot hotela.", "choice1": "So si raspakirali svoje valiži.", "choice2": "So šli na aerodrom.", "question": "effect", "idx": 40}
+{"premise": "San zagriza breskvo.", "choice1": "Breskva se je natukla.", "choice2": "Se je sciedi sok.", "question": "effect", "idx": 41}
+{"premise": "Ruoki so mu se počele takevat.", "choice1": "San pojie fitulo.", "choice2": "Mi se je jelo slatko.", "question": "cause", "idx": 42}
+{"premise": "San rinu vrata.", "choice1": "Vrata so se otprla.", "choice2": "Vrata so se zaključala.", "question": "effect", "idx": 43}
+{"premise": "Aktivisti so bojkotorali proizvodi.", "choice1": "Proizvodi so bili provinani da se sigura kvaliteta.", "choice2": "Proizvodi so nastali z delon ot dici.", "question": "cause", "idx": 44}
+{"premise": "Prohudi san škuljo va zide.", "choice1": "Miš je ša van z škulji.", "choice2": "Prah je zletie z škulji.", "question": "effect", "idx": 45}
+{"premise": "Žienska je bila nenavidna na svojo sestro.", "choice1": "Njiejna sestra je bila srećna.", "choice2": "Njiejna sestra se je rastavila.", "question": "cause", "idx": 46}
+{"premise": "San proli vino po stomanje.", "choice1": "San si stavi zaprežić.", "choice2": "San si prebuka stomanjo.", "question": "effect", "idx": 47}
+{"premise": "Blagajnica je otprla blagajno.", "choice1": "Kupac je iska po takujine.", "choice2": "Kupac je je da šoldi.", "question": "cause", "idx": 48}
+{"premise": "Sopcu ki sope na česte je prišlo čuda svieta.", "choice1": "Ljudi so mu dali muniedi.", "choice2": "Je otpravi ta silni narod.", "question": "effect", "idx": 49}
+{"premise": "Minji otok je plaka žienske ka ga je čuvala.", "choice1": "So mu falili mama i ćaća.", "choice2": "Je bilo vrieme za ručienje.", "question": "cause", "idx": 50}
+{"premise": "Radar ot pilota je pokaževa da će bit temporal.", "choice1": "Pilota je uša temporalu.", "choice2": "Pilota je preletie kros temporal.", "question": "effect", "idx": 51}
+{"premise": "Drievo je hitilo ća lišće.", "choice1": "Lišću se je gambija koluor.", "choice2": "Lišće se je nakupilo na tle.", "question": "effect", "idx": 52}
+{"premise": "Otrok je bi nemiran po karaktere.", "choice1": "Je odluči da će se igrat na harti z svojuon sestruon.", "choice2": "Je odluči da će storit škerac svoje sestre.", "question": "effect", "idx": 53}
+{"premise": "Ditze se je žalilo da muora puoć na stran.", "choice1": "Njeguof ćaća mu je da pit pašareti.", "choice2": "Njeguof ćaća je frma veturo na benzinske pumpe.", "question": "effect", "idx": 54}
+{"premise": "Dite je rastrieslo hrano za ribi va akvarij.", "choice1": "Riba je skočila z akvarija.", "choice2": "Ribi so rivale za hrano.", "question": "effect", "idx": 55}
+{"premise": "Žienska je ganbijala politiko.", "choice1": "Je ganbijala partijo.", "choice2": "Je bila na skupe.", "question": "effect", "idx": 56}
+{"premise": "Lavandin je bi začepljen.", "choice1": "San otpra špino.", "choice2": "San nali onega za otčepljevat odvodi va njega.", "question": "effect", "idx": 57}
+{"premise": "Putniki so šli dole z makini.", "choice1": "Makina je prišla na štacijuon.", "choice2": "Se je ču švik ot makini.", "question": "cause", "idx": 58}
+{"premise": "Muški je pretisnu umidni preklop kovierti.", "choice1": "Je stavi timbar na kovierto.", "choice2": "Je zapra kovierto.", "question": "effect", "idx": 59}
+{"premise": "Prieteli so zgubili kontak.", "choice1": "So uživali jedan z drugen.", "choice2": "So se preselili va drugi gradi.", "question": "cause", "idx": 60}
+{"premise": "Računovotkinja je na lahko ruoko delala z šoldi od firmi.", "choice1": "So je dali otkaz z njijnega mesta.", "choice2": "Je šla na porodiljni.", "question": "effect", "idx": 61}
+{"premise": "Je pogleda na uro.", "choice1": "Je ču da ura tucka.", "choice2": "Je tie videt koliko je ur.", "question": "cause", "idx": 62}
+{"premise": "Me je ćepa grč va ruoke.", "choice1": "San napisa esej z ruokuon.", "choice2": "Moja žena i ja smo se držali za ruoki.", "question": "cause", "idx": 63}
+{"premise": "Vida se je zavidala.", "choice1": "San gambija vido.", "choice2": "San ubrnu ključ.", "question": "cause", "idx": 64}
+{"premise": "Par je potpisa kontat za fit.", "choice1": "Par se je useli va stan.", "choice2": "Grat je odluči zrušit stan.", "question": "effect", "idx": 65}
+{"premise": "Žienska je sedela vane pred vrati.", "choice1": "Je želela gledat kako sunce zahaja.", "choice2": "Je pensala da je videla šajeto.", "question": "cause", "idx": 66}
+{"premise": "Muški si je ubuka krožat za spašavanje va vode.", "choice1": "Ni zna plivat.", "choice2": "Voda je bila plitka.", "question": "cause", "idx": 67}
+{"premise": "Žienska je krivo napisala slovo va programe za regulevat teks.", "choice1": "Je zbrisala dokumient.", "choice2": "Je pretisnula batuon za brisat.", "question": "effect", "idx": 68}
+{"premise": "Mlada se je hvalila svojen prietelon.", "choice1": "Je dobila slabo ocjeno.", "choice2": "Je bila prva tamo kade so se natjecali.", "question": "cause", "idx": 69}
+{"premise": "Va posajene trave je bilo blato.", "choice1": "Je lievalo po noće.", "choice2": "Je bi pun praloga.", "question": "cause", "idx": 70}
+{"premise": "Žienska je prespala.", "choice1": "Je pasala nuoć va hotele.", "choice2": "Je zabila navit žvaljarin.", "question": "cause", "idx": 71}
+{"premise": "Muški se je namaza z kremon za sunčat.", "choice1": "Je sie va hlat.", "choice2": "Je ša na plažo.", "question": "cause", "idx": 72}
+{"premise": "Istraživači so dokazali teorijo.", "choice1": "Istraživači so povukli teorijo.", "choice2": "Pojedinci so prihvatili teorijo-", "question": "effect", "idx": 73}
+{"premise": "Navijači na utakmice so švikali.", "choice1": "So se igrali produžeci utakmici.", "choice2": "Sudac je pogrieši.", "question": "cause", "idx": 74}
+{"premise": "San stavi kombinacijo na lokot.", "choice1": "san zaključa lokot.", "choice2": "Lokot se je otpra.", "question": "effect", "idx": 75}
+{"premise": "Gomila ljudi je bila sve veća.", "choice1": "Otac je da sinu nešto šoldi.", "choice2": "otac je ćepa sina za ruoko.", "question": "effect", "idx": 76}
+{"premise": "Snieh je bloka prilas.", "choice1": "San pobra snieh i stori grudo.", "choice2": "Z lopaton san pobra ća snieh s puota.", "question": "effect", "idx": 77}
+{"premise": "Kajakaši so veslali.", "choice1": "kajak je priša na kraj.", "choice2": "Kajak je trupi va val.", "question": "effect", "idx": 78}
+{"premise": "Mlada je zgubila kontruolo nat bičikleton.", "choice1": "Je puštila manubrijo.", "choice2": "Se je zabila va ogrado.", "question": "effect", "idx": 79}
+{"premise": "San taka ventilator.", "choice1": "Oda mi je poškrofila kožo.", "choice2": "San oćuti kako mrzli zrak struji zgor mene.", "question": "effect", "idx": 80}
+{"premise": "Surferi so se tornali na kraj.", "choice1": "So bili zasien mokri.", "choice2": "So videli pešekana.", "question": "cause", "idx": 81}
+{"premise": "San zvuka čep va kade.", "choice1": "Oda je stekla s kadi.", "choice2": "Oda se je razlila po pode.", "question": "effect", "idx": 82}
+{"premise": "Muožu je bilo žal ča je sliepi svojo ženo.", "choice1": "Jo je krivi da ni vierna.", "choice2": "Je prizna da je ni vieran.", "question": "effect", "idx": 83}
+{"premise": "Tinta na postere se je razmazala.", "choice1": "San čeka da se tinta usuši.", "choice2": "San proli odo po postere.", "question": "cause", "idx": 84}
+{"premise": "Dite se je zbudilo kračeć.", "choice1": "Mu se je grdo sanjalo.", "choice2": "Se je popiša va pusteljo.", "question": "cause", "idx": 85}
+{"premise": "Otrok je stavi nogi na stuol.", "choice1": "Njeguof otac je sie na stuol.", "choice2": "Njeguof otac mu je poveda dvie.", "question": "effect", "idx": 86}
+{"premise": "Muoj prietel je ubrnu glavo sproti mene.", "choice1": "San zvika njegovo ime.", "choice2": "San mahnu z rokami.", "question": "cause", "idx": 87}
+{"premise": "Vlada je peštala po narode.", "choice1": "Narod je organizira pobuno.", "choice2": "Narod se je prijavi za votat.", "question": "effect", "idx": 88}
+{"premise": "Otrok se je zgubi va boške.", "choice1": "Je diga šator.", "choice2": "Je vika upomoć.", "question": "effect", "idx": 89}
+{"premise": "Žienska je šla ća, priek kunfina.", "choice1": "Se je tela navadit crtat.", "choice2": "Se je tela navadit kako drugi živijo.", "question": "cause", "idx": 90}
+{"premise": "Muški je bi gjeluš na onega s kien je dela.", "choice1": "Oni ki š njin dela je dobi boljo delo.", "choice2": "Onisti ki š njin dela je dela dokasna.", "question": "cause", "idx": 91}
+{"premise": "Muški je vide vanzemaljci.", "choice1": "Mu se je belenilo.", "choice2": "Je meditira.", "question": "cause", "idx": 92}
+{"premise": "Muškemu so vlasi poblaveli.", "choice1": "Si je stavi nešto za zbielit vlasi na njo.", "choice2": "Si je stavi šampon na njo.", "question": "cause", "idx": 93}
+{"premise": "Umjetnica je storila nove stvari.", "choice1": "Je kritikala ono ča je delala prvo.", "choice2": "Je oćutila kako je naletela inspiracija.", "question": "cause", "idx": 94}
+{"premise": "Sin se je odseli ot kući.", "choice1": "So ga lecencijali z vojski.", "choice2": "Je ša na fakultet.", "question": "cause", "idx": 95}
+{"premise": "Libri so popadali z armaruona.", "choice1": "Stalaži so bile pune praha.", "choice2": "Potres je prodrma armaruon.", "question": "cause", "idx": 96}
+{"premise": "Letrika va mojie kuće se je dištakala.", "choice1": "San nažga luče.", "choice2": "San taka vargulo.", "question": "effect", "idx": 97}
+{"premise": "Smo se peljali va makine smrti.", "choice1": "Je zgliedalo strašno.", "choice2": "Je zgliedalo interešano.", "question": "cause", "idx": 98}
+{"premise": "Škrtoc puckići je poče hitat.", "choice1": "San zli bura va škrtoc.", "choice2": "San je potepli va mikrovalne pećnice.", "question": "cause", "idx": 99}
+{"premise": "Drievi je palo na palin ot struji.", "choice1": "Je nestala letrika va moje susešćine.", "choice2": "Na prognoze so rekli da će bit jaki vetar.", "question": "effect", "idx": 100}
+{"premise": "Govornik je reka nešto politički nespodobno.", "choice1": "Je štufa seh ki so ga poslušali.", "choice2": "Je ufiendi seh ki so ga poslušali.", "question": "effect", "idx": 101}
+{"premise": "San se ubuo na iglo.", "choice1": "Kaplja pota mi je kapnula z ubraza.", "choice2": "Kapljica krvi mi se je storila na mojen prste.", "question": "effect", "idx": 102}
+{"premise": "Riba je ležala na vrh akvarija.", "choice1": "Je bila lačna.", "choice2": "Je bila krepana.", "question": "cause", "idx": 103}
+{"premise": "Glas od muškega se je para kako da je prozeben.", "choice1": "Je bi prozeben.", "choice2": "Je presta fumat.", "question": "cause", "idx": 104}
+{"premise": "Vrata ot lifta so se otprla.", "choice1": "Lift je riva na kat na ki je rabi prit.", "choice2": "Lif je zaglavi meš dva kata.", "question": "cause", "idx": 105}
+{"premise": "Mlajuh se je šulja s kući.", "choice1": "Je sliepi svojemi roditelji.", "choice2": "Roditelji so mu zabranili da gre van.", "question": "cause", "idx": 106}
+{"premise": "Kupaonica je sva zaplivala.", "choice1": "Zahodska školjka je zaplivala.", "choice2": "Bojler se je pokvari.", "question": "cause", "idx": 107}
+{"premise": "Brečić se je drža blizu svojiega gospodara.", "choice1": "Gospodar je brečiću stavi kolar.", "choice2": "Gospodar je drža brečića na špage.", "question": "cause", "idx": 108}
+{"premise": "Muški je vide svuoj hlat.", "choice1": "Je sta pot krošnjaten drievuon.", "choice2": "Je sta nat mirnen jezeron.", "question": "cause", "idx": 109}
+{"premise": "Nisan se javi na telefuon kasd me je zvala moja mlada.", "choice1": "San jo zva pokle.", "choice2": "Smo se našli na večere.", "question": "effect", "idx": 110}
+{"premise": "Fameja je iskala po susešćine.", "choice1": "Njihov brek je uša oz domu.", "choice2": "Zlato je nestalo z njihove kući.", "question": "cause", "idx": 111}
+{"premise": "San vide svoj dah kat san zdahnu.", "choice1": "Vrieme je bilo mrzlasto.", "choice2": "Me je stezalo va prsah.", "question": "cause", "idx": 112}
+{"premise": "Delavci so storili sindikat.", "choice1": "So teli imet bolje na dele.", "choice2": "Njihof šef in je da bolje plaći.", "question": "cause", "idx": 113}
+{"premise": "San speka pito ot jabuk.", "choice1": "Sva kuhinja je bila puna uduora ot gnjilobi.", "choice2": "Sve je dušelo va kuhinje.", "question": "effect", "idx": 114}
+{"premise": "Žienska je teško hodila.", "choice1": "Je imela visoki taki.", "choice2": "Si je zula postoli.", "question": "cause", "idx": 115}
+{"premise": "Se je dizala para z lonca odi.", "choice1": "Oda je kuhala.", "choice2": "San pokri lonac.", "question": "cause", "idx": 116}
+{"premise": "Sve moje holjevi so se prale.", "choice1": "San imie šandali na nogah.", "choice2": "Na nogah san imie škuornji.", "question": "effect", "idx": 117}
+{"premise": "Argumient ot političara so držali da je van pameti.", "choice1": "Je zgubi podrško ot birači.", "choice2": "So rekli da je krif za korupcijo.", "question": "effect", "idx": 118}
+{"premise": "Svi so bili protif zaruki tega para.", "choice1": "So čekali dite.", "choice2": "Oni dva so ušli.", "question": "effect", "idx": 119}
+{"premise": "Zgrada je posviećena milijunašu.", "choice1": "Milijunaš je tie da se zgrada zruši.", "choice2": "Milijunaš je pomoga uzidat z šoldi.", "question": "cause", "idx": 120}
+{"premise": "Butegar je okrivi mlado da je krala.", "choice1": "Butegar je vide mlado da stavlja stvari va svojo boršeto.", "choice2": "Butegar je pomoga mlade da si najde bošeto kakova se je pieža.", "question": "cause", "idx": 121}
+{"premise": "Država je objavila rat susešćine.", "choice1": "Soldati so poslasni va borbo.", "choice2": "Soldati so se tornali svojien famejan.", "question": "effect", "idx": 122}
+{"premise": "Sut je podrža to presudo van pameti.", "choice1": "Pobuna je počela pred sudnicon.", "choice2": "Par se je zaveća pred sudnicon.", "question": "effect", "idx": 123}
+{"premise": "Mlada je nanjušila da nešto gori.", "choice1": "Je zvadila biškoti s posudi od stakla.", "choice2": "Je puštila biškoti va pećnice.", "question": "cause", "idx": 124}
+{"premise": "Daš je lieva.", "choice1": "Nevera je hodila na huje.", "choice2": "San poteka da pojen nuotra.", "question": "effect", "idx": 125}
+{"premise": "Zgrado so spraznili.", "choice1": "Lift ni dela.", "choice2": "Se je taka alarm protif požara.", "question": "cause", "idx": 126}
+{"premise": "Otac je sinu stavlja pod nuos da pije.", "choice1": "Otac je sinu kupi biro.", "choice2": "Otac je sina hiti van z kući.", "question": "effect", "idx": 127}
+{"premise": "Advokatica je hodila po škalah do svoje kancelariji.", "choice1": "Tajnica je na kraje dana šla doma.", "choice2": "Lif ni dela.", "question": "cause", "idx": 128}
+{"premise": "Muškega je razjadi njeguof prietel.", "choice1": "Prietel ga je prekinu.", "choice2": "Prietel ga je počasti z južinon.", "question": "cause", "idx": 129}
+{"premise": "Mlada je dala svoji šoldi kasierke.", "choice1": "Kasierka je dala mlade muniedo.", "choice2": "Kasierka je zabila mlade dat račun.", "question": "effect", "idx": 130}
+{"premise": "Žienska je stavljena va invalidska kolica.", "choice1": "Je paralizirana va nesreće.", "choice2": "Va špidal je prišla na nosiljah.", "question": "cause", "idx": 131}
+{"premise": "Ljudi so ubesili državne zastavi spred svojieh kuć.", "choice1": "Država je slavila dan nezavisnosti.", "choice2": "Država se je suočavala z gospodarskemi nedaćami.", "question": "cause", "idx": 132}
+{"premise": "Ekipa je zgubila turnir.", "choice1": "Rastužila je svoji navijači.", "choice2": "Je dala kuraja svojien obožavateljen.", "question": "effect", "idx": 133}
+{"premise": "Prietel mi je reka da iman hrani mež zuobi.", "choice1": "Me je bilo sran.", "choice2": "San bi štut.", "question": "effect", "idx": 134}
+{"premise": "Otrok je pa na ispite z historiji.", "choice1": "Atiento je posluša va škuole.", "choice2": "Se je zabi vadit.", "question": "cause", "idx": 135}
+{"premise": "Zgrada va centre grada se je zrušila.", "choice1": "Potres je pogodi grat.", "choice2": "Je bilo već zločini va grade.", "question": "cause", "idx": 136}
+{"premise": "Tega muškiega je puštila mlada.", "choice1": "Jo je moli i prosi da mu se torna.", "choice2": "Ga je upoznala svojemi roditelji.", "question": "effect", "idx": 137}
+{"premise": "Dvoje dici je nabot zielo baluon.", "choice1": "Baluon se je poštrka.", "choice2": "Glavi so in se trupile.", "question": "effect", "idx": 138}
+{"premise": "Rakun je rashita važ za smeće.", "choice1": "Va važe za smeće je bilo hartuona.", "choice2": "Pokruof je bi zvajen z važa za smeće.", "question": "cause", "idx": 139}
+{"premise": "Otrok je naoštri lapeš.", "choice1": "Je bi cien.", "choice2": "Je bi skaban.", "question": "cause", "idx": 140}
+{"premise": "Oni ki dela na kase ni tie žienske tornat šoldi za brhan.", "choice1": "Je zgubila račun.", "choice2": "Brhan se je ni pristova.", "question": "cause", "idx": 141}
+{"premise": "Rana kade san se ugrebla ke bila dinboka.", "choice1": "Je brzo zacielila.", "choice2": "Mi je usta taj.", "question": "effect", "idx": 142}
+{"premise": "Muškega so va makine čudno gledali.", "choice1": "Je bali va tlo.", "choice2": "Se je pominja sam sobon.", "question": "cause", "idx": 143}
+{"premise": "Dite je puštilo mrvice po pode.", "choice1": "Mravi so se došegali do mrvic.", "choice2": "Dite je spravilo kruh.", "question": "effect", "idx": 144}
+{"premise": "Žienska je dala svoje sestre fačolić.", "choice1": "Sestra od te žienski je prekrižila ruoki.", "choice2": "Sestra ot te žienski je počela plakat.", "question": "cause", "idx": 145}
+{"premise": "Muški je pojie pepermint.", "choice1": "So mu bila spucana usta.", "choice2": "Je bi mučan ku mu je slaba sapa.", "question": "cause", "idx": 146}
+{"premise": "Par je ša raneje na predstavo.", "choice1": "So parali da će bit čuda svieta okoli kazališća.", "choice2": "So ga napuotili za prit do kazališća.", "question": "cause", "idx": 147}
+{"premise": "Žienska je zustala doma i ni šla na delo.", "choice1": "Šef jo je hvali.", "choice2": "Oni ča dela š njuo jo je gambija.", "question": "effect", "idx": 148}
+{"premise": "Muški je potpisa peticijo ot aktivisti.", "choice1": "Je podrža ono ča bi oni rada.", "choice2": "In je reka da so munjeni.", "question": "cause", "idx": 149}
+{"premise": "Srce ot glumca je treputalo prvo nego je imie za nastupat.", "choice1": "Ga je bilo strah.", "choice2": "Je zapošta svuoj teks.", "question": "cause", "idx": 150}
+{"premise": "San se zgubi.", "choice1": "San pobroji si soji šoldi.", "choice2": "San otpra harto.", "question": "effect", "idx": 151}
+{"premise": "Zreli žir je zusta predugo na sunce.", "choice1": "Je pojedena.", "choice2": "Se je zgromačala.", "question": "effect", "idx": 152}
+{"premise": "Vetura se je pokvarila.", "choice1": "San jo taka.", "choice2": "Motuor se je prestepli.", "question": "cause", "idx": 153}
+{"premise": "Muški si je rovina život.", "choice1": "Je ša pshijatru.", "choice2": "Je zusta va pustelje nekoliko dan.", "question": "effect", "idx": 154}
+{"premise": "San nažga uganj va kamine.", "choice1": "Mi je zmanjkalo drieva za ložit.", "choice2": "Je bilo mrzlo vas kuće.", "question": "cause", "idx": 155}
+{"premise": "Žieska je prestala teć.", "choice1": "Jo je ćapa grč va boke.", "choice2": "Je dobila ariji.", "question": "cause", "idx": 156}
+{"premise": "San potucka na vrata ot svojie susedi.", "choice1": "Moja suseda me je pozvala nuotra.", "choice2": "Moja suseda je šla van s kući.", "question": "effect", "idx": 157}
+{"premise": "Žienska je jadno zdahnula.", "choice1": "Njijni muoš ni kapi njiejne brigi.", "choice2": "Njiejni muoš jo je buša na rastanke.", "question": "cause", "idx": 158}
+{"premise": "Učitelj je pohvali školana.", "choice1": "Školan je jušto odguori na pitanje.", "choice2": "Školan se je skuša odguorit na pitanje.", "question": "cause", "idx": 159}
+{"premise": "Žienske je zmanjkalo jaji.", "choice1": "Je šla na farmo.", "choice2": "Je ša va butiego.", "question": "effect", "idx": 160}
+{"premise": "San sreti starega prietela.", "choice1": "San mu poveda šekret.", "choice2": "Sanm ga ćepa okoli vrata.", "question": "effect", "idx": 161}
+{"premise": "Žienska ni tela pouć va jezero.", "choice1": "Je ćepala ribo.", "choice2": "Je zgledalo blatno.", "question": "cause", "idx": 162}
+{"premise": "Školan je priša va škuolo mokar do koži.", "choice1": "Mu se je razbila lumbrija.", "choice2": "Mu je bičikleta ukrajena.", "question": "cause", "idx": 163}
+{"premise": "Pokazivač na zaslone ot kompjutera se je pomaka.", "choice1": "Korisnik je kliknu z mišen.", "choice2": "Korisnik je pomaka miš.", "question": "cause", "idx": 164}
+{"premise": "Vozačica je šla po prieku.", "choice1": "Na glavne česte se je dogodila dežgracija.", "choice2": "Je hodila za kamjuonon pret sobon.", "question": "cause", "idx": 165}
+{"premise": "San rastiengnu mokro robo na špah za šušit robo vane.", "choice1": "Roba se je usušila.", "choice2": "Roba se je zvaljala.", "question": "effect", "idx": 166}
+{"premise": "Žienska si je stavila ućali za sunce.", "choice1": "Sunce je bilo jako.", "choice2": "Je zvala taksi.", "question": "cause", "idx": 167}
+{"premise": "Muški je gleda va nebo po noće.", "choice1": "Je želie da je leto.", "choice2": "Je pensa da je liepo.", "question": "cause", "idx": 168}
+{"premise": "San bi naprof trudan.", "choice1": "San ša va pusteljo raneje.", "choice2": "Nisan moga spat cielo nuoć.", "question": "effect", "idx": 169}
+{"premise": "Muški je ša frizieru.", "choice1": "Si je pušća vlasi.", "choice2": "Vlasi so mu bili predugi.", "question": "cause", "idx": 170}
+{"premise": "Otrok je dela štravederi školanu ki je hodi š njin va škuolo.", "choice1": "Otrok je liepo dočeka novega školana z razreda.", "choice2": "Otroku se ni pieža novi školan z razreda.", "question": "cause", "idx": 171}
+{"premise": "Mi se je pi mižuol mlieka.", "choice1": "San jie biškoti.", "choice2": "San peka kruh.", "question": "cause", "idx": 172}
+{"premise": "Je počelo dažljit.", "choice1": "Šofier je nažga glavna svetla.", "choice2": "Šofier je prehiti va rikverc.", "question": "effect", "idx": 173}
+{"premise": "Parkirališće ot zgradi je bilo prazno.", "choice1": "San parkira z drugega kraja česti.", "choice2": "San parkira puli sama vrata.", "question": "effect", "idx": 174}
+{"premise": "Spisateljica je preskočila rok za predat prvo verzijo.", "choice1": "Je imela kreativno blokado.", "choice2": "Je regulala prvo verzijo.", "question": "cause", "idx": 175}
+{"premise": "Težak mu je poklopi telefuon.", "choice1": "San iska da se pominjen z voditeljen.", "choice2": "San mu da svouoj brouj od identita.", "question": "cause", "idx": 176}
+{"premise": "Vetar je puha kros otprto ukno.", "choice1": "Je zazvonilo zvono na vratah.", "choice2": "Koltrine so se striesle.", "question": "effect", "idx": 177}
+{"premise": "Letrika va moje kuće se je dištalala.", "choice1": "San zagasi lampadino.", "choice2": "Mi je pregorela vargula.", "question": "cause", "idx": 178}
+{"premise": "Dizač utegi je zajuoka.", "choice1": "Si je napuha mišići pred špiegljon", "choice2": "Je diga želiezno palico zgor glavi.", "question": "cause", "idx": 179}
+{"premise": "Školan je prova zračunat račun va glave.", "choice1": "Je zvadi digitron.", "choice2": "Se je zmuoti.", "question": "effect", "idx": 180}
+{"premise": "Dite je zaspalo.", "choice1": "Otac je gambija plieno od diteta.", "choice2": "Ota je liepo ziba dite.", "question": "cause", "idx": 181}
+{"premise": "Otročica je hitila baluon pun vodi na otroka.", "choice1": "Otrok je dobi potres možljani.", "choice2": "Otrok se je sva zmoči.", "question": "effect", "idx": 182}
+{"premise": "Slikar je zabi takat blic na makine za slikat.", "choice1": "Siliki so so ispale muotne.", "choice2": "Niedan na slikah se ni tie nasmejat.", "question": "effect", "idx": 183}
+{"premise": "San odbi poziv na fešto za rojendan.", "choice1": "San bi sam.", "choice2": "San bi van grada.", "question": "cause", "idx": 184}
+{"premise": "San vježba.", "choice1": "San se ćuti moćan.", "choice2": "San bi prenjen.", "question": "cause", "idx": 185}
+{"premise": "San ože mokro spužvo.", "choice1": "Je upila odo.", "choice2": "Oda se je sciedila š njie.", "question": "effect", "idx": 186}
+{"premise": "Izletnici so šli z brodondo mesta kade će upočinut.", "choice1": "Mesto za upučinit je bilo rezervirano.", "choice2": "Mesto za upučinut je bilo na otoke.", "question": "cause", "idx": 187}
+{"premise": "Mlajuh se je tetovira.", "choice1": "Je imie strah igli.", "choice2": "Se je želie pobunit.", "question": "cause", "idx": 188}
+{"premise": "Nepoznata vetura se je parkirana pred mojuon kućon.", "choice1": "San posta sumljičaf.", "choice2": "San zva milicijo.", "question": "effect", "idx": 189}
+{"premise": "Zločinac se je preda.", "choice1": "Dokazi so kazali na njega.", "choice2": "Ni bilo dokazi protif njega.", "question": "cause", "idx": 190}
+{"premise": "Naprof buli šlovek je odluči da će zmršavet.", "choice1": "Je presta jes slatko.", "choice2": "Se je kraji ot kofeina.", "question": "effect", "idx": 191}
+{"premise": "Mlada je koraknula na liet.", "choice1": "Se je pofuznula.", "choice2": "Je zatriepela.", "question": "effect", "idx": 192}
+{"premise": "Žienska je imela podočnjaki.", "choice1": "Ni spala cielo nuoć.", "choice2": "Je stavila spat svojiega sina.", "question": "cause", "idx": 193}
+{"premise": "Lava je tekla z vulkana.", "choice1": "Vulkan je škopija.", "choice2": "Vulkan je mirova.", "question": "cause", "idx": 194}
+{"premise": "Žienska je ubula postoli.", "choice1": "Je poznala seh na fešte.", "choice2": "Je tela puoć ća s fešti.", "question": "cause", "idx": 195}
+{"premise": "San plati onejte ka je delala na naplatne kućice.", "choice1": "Me je puštila da pasan kros naplatno kućico.", "choice2": "Me je frmala na naplatne kućice.", "question": "effect", "idx": 196}
+{"premise": "Direhtor je ša na inkanat.", "choice1": "Je proda dionice od svojie firmi.", "choice2": "Je spiska svojo bogatijo.", "question": "cause", "idx": 197}
+{"premise": "Muški je ša h miedigu.", "choice1": "Miedih je bi na godišnjen.", "choice2": "Muški se je ćuti buolno.", "question": "cause", "idx": 198}
+{"premise": "San ša van z moje kamari kros ukno.", "choice1": "Je gorela kuća.", "choice2": "Kuća je bila prazna.", "question": "cause", "idx": 199}
+{"premise": "Prsti ot otroka so se nagriešpali.", "choice1": "Se je čuda tušira.", "choice2": "Si je nažajfa ruoki.", "question": "cause", "idx": 200}
+{"premise": "San pljuknu ća mlieko.", "choice1": "Mlieko je bilo kiselo.", "choice2": "Usta so mi bila suha.", "question": "cause", "idx": 201}
+{"premise": "Mi je ušla koriera.", "choice1": "San priša na delo zarana.", "choice2": "San zakasni na delo.", "question": "effect", "idx": 202}
+{"premise": "Kamijuon se je trupi z veturon.", "choice1": "Kamijuon je da gas.", "choice2": "Vetura se je razbila.", "question": "effect", "idx": 203}
+{"premise": "Ekipa je namestila natjecanje za se.", "choice1": "So dobili.", "choice2": "So puštili ća.", "question": "effect", "idx": 204}
+{"premise": "Boca ot gaziranega soka je zapišćela.", "choice1": "San prevrnu boco.", "choice2": "San odvoda čep.", "question": "cause", "idx": 205}
+{"premise": "Otrok se je zaključa ozvan.", "choice1": "Se je provuka kros otprto ukno.", "choice2": "Se je poprti na kruof.", "question": "effect", "idx": 206}
+{"premise": "Je zazvonilo zvono ot kući.", "choice1": "Gos je udri s kračunuon po vratah.", "choice2": "Žienska je pogledala kros ključanico na vratah.", "question": "effect", "idx": 207}
+{"premise": "Muški si je zvalja svuoj veštit.", "choice1": "Ga je ponesa na kemijsko čišćenje.", "choice2": "Ga je zavesi va svuoj armaruon.", "question": "effect", "idx": 208}
+{"premise": "Mlada je stisnula tubo ot kalodonta.", "choice1": "Kalodont je štrcnu s tubi.", "choice2": "Mlada je pljuknula kalodont.", "question": "effect", "idx": 209}
+{"premise": "Bruoj civili ki so nastradali va rate je naglo narasa.", "choice1": "Pacifisti so organizirali buno.", "choice2": "Pacifisti so organizirali parado.", "question": "effect", "idx": 210}
+{"premise": "Mlada je zvadila kordelo z svojeh vlasi.", "choice1": "Je zaviezala kordelo.", "choice2": "Kordela je zgliedala otruojče.", "question": "cause", "idx": 211}
+{"premise": "Muški je ša na plastično operacijo.", "choice1": "Se je postara.", "choice2": "Je zglieda mlaje.", "question": "effect", "idx": 212}
+{"premise": "Piplić je ša van z jaja.", "choice1": "Jaje se je zlieglo.", "choice2": "San razbi jaje.", "question": "cause", "idx": 213}
+{"premise": "Pržonant je pati glat.", "choice1": "Je umra.", "choice2": "Je uša.", "question": "effect", "idx": 214}
+{"premise": "Muški je zgubi kontapiezo na škalah.", "choice1": "Se je poprti po škalah.", "choice2": "Je pa škal.", "question": "effect", "idx": 215}
+{"premise": "Dite je baknulo.", "choice1": "Je popili gut gaziranega soka.", "choice2": "Je otprlo škatuleto gaziranega soka.", "question": "cause", "idx": 216}
+{"premise": "Hladan gjie ot ariji je priša kroz ukno.", "choice1": "San se umiri.", "choice2": "San zatrepeta.", "question": "effect", "idx": 217}
+{"premise": "Školanka je dobila školarino za puoć na fakultet.", "choice1": "Oni ki so hodili š njuon va škuolo so jo poštovali.", "choice2": "Je imela dobre ocjeni.", "question": "cause", "idx": 218}
+{"premise": "Mlada je zafrkavala mladića.", "choice1": "Je bivala va kuće do njigove.", "choice2": "Je bila namurana va njega.", "question": "cause", "idx": 219}
+{"premise": "Lačan klaćuš je ukra hrano.", "choice1": "Ga je bilo milo videt.", "choice2": "Ni imie šoldi.", "question": "cause", "idx": 220}
+{"premise": "San zazva prietela de poćakulamo.", "choice1": "Nisan to tie stavit na sva zvona.", "choice2": "San se ćuti jako sam.", "question": "cause", "idx": 221}
+{"premise": "Muški mi je da ruoko.", "choice1": "San se pozdravi š nji.", "choice2": "San mu da tresko.", "question": "effect", "idx": 222}
+{"premise": "San čupnu.", "choice1": "Vatromet je prasnu va zrak.", "choice2": "Frizbi je letie proti moje glavi.", "question": "cause", "idx": 223}
+{"premise": "Mlada si je grizla nohti.", "choice1": "Je bila mučna.", "choice2": "Je bila iznenadjena.", "question": "cause", "idx": 224}
+{"premise": "San ubrnu lis na kalendare.", "choice1": "San sinja dogovor na kalendare.", "choice2": "Je bi počietak novega meseca.", "question": "cause", "idx": 225}
+{"premise": "Muoš je otkri da ga njegova žena sliepi.", "choice1": "Je licencija svojiega advokata.", "choice2": "Je iska razvot.", "question": "effect", "idx": 226}
+{"premise": "Mlade je pa baluon od gomi.", "choice1": "Baluon je poskakeva.", "choice2": "Baluon se je lašćie.", "question": "effect", "idx": 227}
+{"premise": "Mlada je pogriešila na ispite.", "choice1": "Je uganala odgovor.", "choice2": "Je zbrisala svuoj odgovor.", "question": "effect", "idx": 228}
+{"premise": "Igrač je zruši protivnika.", "choice1": "Njeguof protivnik je ćepa dodavanje.", "choice2": "Njeguof protivnik je pa na zemljo.", "question": "effect", "idx": 229}
+{"premise": "San pobra pomedevori z batva.", "choice1": "So bili zreli.", "choice2": "San ih zali.", "question": "cause", "idx": 230}
+{"premise": "Muški je tie bit romantičan.", "choice1": "Se se naša na južine z mladon s kojston san prvo hodi.", "choice2": "San kupi svoje mlade čokolatini.", "question": "effect", "idx": 231}
+{"premise": "Živa va merine za fiebro je rasla.", "choice1": "Mi je pa merin za fiebro.", "choice2": "Vrieme je zatoplilo.", "question": "cause", "idx": 232}
+{"premise": "Tornado je pasa kros grat.", "choice1": "Je otpušen kruof ot sudnici.", "choice2": "Autočesta je počela bit opasno zalejena.", "question": "effect", "idx": 233}
+{"premise": "Školan je dobi napuotak.", "choice1": "Ocjeni so mu se popravile.", "choice2": "Je sliepi na ispite.", "question": "effect", "idx": 234}
+{"premise": "Se je ćuti ugodno.", "choice1": "San kleka na tlo.", "choice2": "San se zamota va punjavo.", "question": "cause", "idx": 235}
+{"premise": "Ulašća san groto.", "choice1": "Je poče bit sklizak.", "choice2": "Je poče bit luštar.", "question": "effect", "idx": 236}
+{"premise": "San stavi cuker va kafe.", "choice1": "Kafe je imelo jak uduor.", "choice2": "Kafe je imelo slatki guš.", "question": "effect", "idx": 237}
+{"premise": "Muški je prebira po hartah.", "choice1": "Se je ureza na harto.", "choice2": "Je uništi harti.", "question": "effect", "idx": 238}
+{"premise": "San udri čaval z batićen.", "choice1": "Čaval se je zabi va drievo.", "choice2": "Čaval je zarijave.", "question": "effect", "idx": 239}
+{"premise": "Riba je zagrizla udico.", "choice1": "Ribič je povuka ribo.", "choice2": "Ribič je opet hiti udico.", "question": "effect", "idx": 240}
+{"premise": "Mladice ni bilo ugodno puoć va škuolo.", "choice1": "Je dobila brofulj.", "choice2": "Si je zvadila aparatić za zuobi.", "question": "cause", "idx": 241}
+{"premise": "Ubrazi so mi se zarumeneli.", "choice1": "San dobi dobri glasi.", "choice2": "San zgubi strpljienje.", "question": "cause", "idx": 242}
+{"premise": "San su ubrisa ruoki z blekuon.", "choice1": "Blek je bi mokar.", "choice2": "Ruoki so mi bile mokre.", "question": "cause", "idx": 243}
+{"premise": "Muški je zgubi kontrapiez na stolce.", "choice1": "Stolac se je koliemba pod njin.", "choice2": "Je proli koluor po njin.", "question": "cause", "idx": 244}
+{"premise": "Oni ki so igrali skupa so krivili jeni drugeh.", "choice1": "So zgubili partido.", "choice2": "Njihov trenier je otkaza trenig.", "question": "cause", "idx": 245}
+{"premise": "San iska oproščienje.", "choice1": "San se poklaja za svoji žbalji.", "choice2": "San riva kako san tie.", "question": "cause", "idx": 246}
+{"premise": "Žiensko je štufa muški s kien je bila na spoje.", "choice1": "Je je pita pitanjanja za njo.", "choice2": "Zajno je povieda za se.", "question": "cause", "idx": 247}
+{"premise": "Mlada se je nasmehnula.", "choice1": "Ubrazi so je porumeneli.", "choice2": "Prišle so je jamice.", "question": "effect", "idx": 248}
+{"premise": "Brot ot neprijatelja je škopija.", "choice1": "Je pasa priek mini.", "choice2": "Uplovi je va porat.", "question": "cause", "idx": 249}
+{"premise": "Muški si je probi stopalo.", "choice1": "Je sta va lokvo.", "choice2": "Je sta na zlomljeno staklo.", "question": "cause", "idx": 250}
+{"premise": "Istražitelji so zieli otiski prsti z mesta zločina.", "choice1": "So našli ki je buoja.", "choice2": "So našli oružje na meste zločina.", "question": "effect", "idx": 251}
+{"premise": "Promet na autočeste je bi guos.", "choice1": "San ša na obilaznico.", "choice2": "San iska prevoz.", "question": "effect", "idx": 252}
+{"premise": "Gospodarstvo državi je udebulilo.", "choice1": "Puno ljudi se je razbolelo.", "choice2": "Čuda ljudi se je našlo bez dela.", "question": "effect", "idx": 253}
+{"premise": "Ona ka je čuvala prelaz je švikala na švik dice.", "choice1": "Se je prontevala zakoraknut va promet ka je prihaja.", "choice2": "Poznala ih je z svojie susešćini.", "question": "cause", "idx": 254}
+{"premise": "Je ubraća z očivi prietelu.", "choice1": "Mi je reka istino.", "choice2": "Je reka nešto na rugo.", "question": "cause", "idx": 255}
+{"premise": "Vetura je zustala bez benzini.", "choice1": "Šofier je zusta nasriet česti.", "choice2": "Šofier je zie onega ki frmieva veturi na palac.", "question": "effect", "idx": 256}
+{"premise": "Žienske so počeli hipi.", "choice1": "Dite se je rodilo.", "choice2": "Žienska je bilo slabo va jutro.", "question": "effect", "idx": 257}
+{"premise": "Muškemu je otpuhalo šiljar.", "choice1": "Si je zvadi šiljar.", "choice2": "Vane je puhalo.", "question": "cause", "idx": 258}
+{"premise": "Mlada je prišla na fešto za rojendan jenemu ki je hodi š njuon va škuolo.", "choice1": "Je dobila pozivnico.", "choice2": "Je kupila dar.", "question": "cause", "idx": 259}
+{"premise": "Čelo od otroka je bilo teplo pod ruokuon.", "choice1": "Njegova mat mu je zmerila fiebro.", "choice2": "Njegova mat ga je popeljala va gjardin.", "question": "effect", "idx": 260}
+{"premise": "Muški se je profuma.", "choice1": "Je ti storit figuro mlade s kuon je ša van.", "choice2": "Si je stavi gel na vlasi.", "question": "cause", "idx": 261}
+{"premise": "Letrika va kuće se je dištakala.", "choice1": "San ša iskat lampadino.", "choice2": "San zie lopato.", "question": "effect", "idx": 262}
+{"premise": "Fameja se je preselila va većo kućo.", "choice1": "Sin je maturira.", "choice2": "Mama je rodila dvojki.", "question": "cause", "idx": 263}
+{"premise": "Maratonka je tekla pomalo.", "choice1": "Je tela prešparat furco.", "choice2": "Je videla cilj.", "question": "cause", "idx": 264}
+{"premise": "Otrok je z noguon udri automat za prodavat.", "choice1": "Automat je hiti van muniedo.", "choice2": "Škrtoć čipsa se je bloka.", "question": "cause", "idx": 265}
+{"premise": "Brek ot mojiega prietela je krepa.", "choice1": "San mu ubrnu z oči.", "choice2": "San ga ćepa okoli vrata.", "question": "effect", "idx": 266}
+{"premise": "Kreditna hartica od poslovnega šloveka je odbita.", "choice1": "Je napisa zadužnico.", "choice2": "Je plati z šoldi.", "question": "effect", "idx": 267}
+{"premise": "Muški je zakle.", "choice1": "Si je podreza nohti.", "choice2": "Se je udri va palac ot nogi.", "question": "cause", "idx": 268}
+{"premise": "Muški je bi štut na svojiega brata.", "choice1": "Njeguof pbrat se je posvadi s njihovemi roditelji.", "choice2": "Njeguof brat je primljen na pravni fakultet.", "question": "cause", "idx": 269}
+{"premise": "Mlada se je tela navadit za sunčevi sustav.", "choice1": "Je ubašla knjižnico.", "choice2": "Je gledala zviezdi.", "question": "effect", "idx": 270}
+{"premise": "Poster se je zaliepi za zit.", "choice1": "San stavi poster zgor vrati.", "choice2": "San stavi selotejp na zadnji kraj postera.", "question": "cause", "idx": 271}
+{"premise": "Klient se je složi z onien ča je asrhitekt planira za zgrado.", "choice1": "Arhitekt je uzida zgrado.", "choice2": "Arhitekt je prilagodi plani.", "question": "effect", "idx": 272}
+{"premise": "Muškemu je pala žlica.", "choice1": "Mu se je triesla ruoka.", "choice2": "Je poliza žlico.", "question": "cause", "idx": 273}
+{"premise": "Izvršni direhtor firmi je da ostavko.", "choice1": "Upravni odbor je zapra firmo.", "choice2": "Upravni odbor mu je naša zamjeno.", "question": "effect", "idx": 274}
+{"premise": "San zakasni na predavanje.", "choice1": "san sie va zadnji ried.", "choice2": "San priša bliže katedre.", "question": "effect", "idx": 275}
+{"premise": "Muški je pušćen z pržuona.", "choice1": "Njegova fameja mu je platila garancijo.", "choice2": "Je napa drugega pržonanta.", "question": "cause", "idx": 276}
+{"premise": "Fameja je zgubila sve ča je imela.", "choice1": "Je prodala svojo kućo.", "choice2": "Kuća se je je nažgala.", "question": "cause", "idx": 277}
+{"premise": "San sta na škatuleto od aluminija.", "choice1": "Škatuleta se reciklira.", "choice2": "Škatuleta se je speštala.", "question": "effect", "idx": 278}
+{"premise": "Mlada je šla va debatni klub.", "choice1": "Se je navadila delat na kompjutere.", "choice2": "Se je navadila kako komunicirat.", "question": "effect", "idx": 279}
+{"premise": "San bi bolje volji.", "choice1": "San posuša muziko.", "choice2": "San opra posudo.", "question": "cause", "idx": 280}
+{"premise": "Dobrotvorna organizacija si je postavila cilj da skupi šoldi.", "choice1": "Je nahranila siromahi bez kući.", "choice2": "Je stavila stvari na inkanat.", "question": "effect", "idx": 281}
+{"premise": "Makina smrti se je stonbola va nagle pozdolice.", "choice1": "Putniki so se hihotali.", "choice2": "Putniki so kračeli.", "question": "effect", "idx": 282}
+{"premise": "San bi biesan.", "choice1": "San kontrola pošto kat san ša oz domu.", "choice2": "San trupi z vrati kat san ša oz domu.", "question": "effect", "idx": 283}
+{"premise": "Muški je tie videt sunceistok.", "choice1": "Je ša na sever.", "choice2": "Se je sta rano.", "question": "effect", "idx": 284}
+{"premise": "Je svi harto.", "choice1": "San opet dupera harto.", "choice2": "Harta se je presvila.", "question": "effect", "idx": 285}
+{"premise": "Narod je desila vela dežgracija.", "choice1": "Predsedniki drugeh državi so se složili skupa,", "choice2": "predsedniki drugeh državi so poslali pomoć.", "question": "effect", "idx": 286}
+{"premise": "Roba ot otroka se je natopila.", "choice1": "Je ša van z bazena.", "choice2": "Je pa va bazen.", "question": "cause", "idx": 287}
+{"premise": "Školan je študija proštet libar.", "choice1": "Ga je triebalo tornat va knjižnico.", "choice2": "Jo je posuodi ot prietela.", "question": "cause", "idx": 288}
+{"premise": "Zločinac je ubit.", "choice1": "Je hićen va pržuon.", "choice2": "Je sujen za ubistvo.", "question": "cause", "idx": 289}
+{"premise": "Svetlos ot sunca je šla va kamaro.", "choice1": "San raširi koltrine.", "choice2": "San otključa vrata.", "question": "cause", "idx": 290}
+{"premise": "San potiega slepljivca za vlasi.", "choice1": "Mu je pala perika.", "choice2": "Je prišla ćelava.", "question": "effect", "idx": 291}
+{"premise": "Urednik je pregambija rečenico va rukopise.", "choice1": "Rukopis mu je bi interešan.", "choice2": "Ta rečenica mu ni bila ćara.", "question": "cause", "idx": 292}
+{"premise": "Žienska je poništila svuoj račun na kreditne kartice.", "choice1": "Je kapila da je kartica nestala.", "choice2": "Je kapila da je kartica stekla.", "question": "cause", "idx": 293}
+{"premise": "Muški i žienska so se namurali.", "choice1": "So se upisali na fakultet.", "choice2": "So se uženili.", "question": "effect", "idx": 294}
+{"premise": "Muzika je precita da bi se jo čulo.", "choice1": "San jo pojača.", "choice2": "San sklada svojo kanto.", "question": "effect", "idx": 295}
+{"premise": "Vlasi od otroka so stršeli.", "choice1": "Mlada jo je rastrepala.", "choice2": "Mlada jo je pocukala.", "question": "cause", "idx": 296}
+{"premise": "Neko minjo blago je speštano.", "choice1": "San se pošprica z onien ča se šprica muhi i to drugo blago.", "choice2": "San sta na neko minjo blago.", "question": "cause", "idx": 297}
+{"premise": "San otpra oči.", "choice1": "San se zbudi.", "choice2": "San se umiri.", "question": "cause", "idx": 298}
+{"premise": "Muzika puli mojega suseda je ruompala.", "choice1": "San pita da jo utiša.", "choice2": "San pita da mi posudi CD:", "question": "effect", "idx": 299}
+{"premise": "Fameja ot muškega je bivala va siromašćine.", "choice1": "Je bi šparan z onien ča si zasluži.", "choice2": "Za plaćo je dobiva manje od najmanje plaći.", "question": "cause", "idx": 300}
+{"premise": "Študient je diplomira na sveučilišću.", "choice1": "Je ša iskat delo.", "choice2": "Je naša nešto š čien će se zabavljat.", "question": "effect", "idx": 301}
+{"premise": "Umetnik je zmieša žuti koluor va blavi.", "choice1": "Koluor je poškrofi sve naokoli.", "choice2": "Koluor je pozelenie.", "question": "effect", "idx": 302}
+{"premise": "San gambija ono za ča smo se pominjali.", "choice1": "Mi je nerstalo materijala za se pominjat.", "choice2": "Pominjak je poče bit napet.", "question": "cause", "idx": 303}
+{"premise": "Muoj brat je pušćen z špidala.", "choice1": "San ga zie nazat doma.", "choice2": "San mu ubrnu život.", "question": "effect", "idx": 304}
+{"premise": "Koltrina na pozornice se je digla.", "choice1": "Je poče uvodni prizor ot predstavi.", "choice2": "Glumci va predstave so šli ća s pozornici.", "question": "effect", "idx": 305}
+{"premise": "Talac je prihvati zahtjevi ot otmičara.", "choice1": "Otmičar je prieti da će ranit taoca.", "choice2": "Otmičar je pušti taoca samega.", "question": "cause", "idx": 306}
+{"premise": "Štrmor se je ču kros cielo pozornico.", "choice1": "Mužičar je potacka z noguon.", "choice2": "Muzičar je udri va tambur.", "question": "cause", "idx": 307}
+{"premise": "Roditelji so stekli va kamaro od otroka.", "choice1": "Dite se je zbudilo kračieć aš je grdo sanjalo.", "choice2": "Dite je imelo strah pogledat spod pustelji.", "question": "cause", "idx": 308}
+{"premise": "Žienska je za guorit koristila posebnji šenji.", "choice1": "Je rojena prerano.", "choice2": "Je rojena gljuha.", "question": "cause", "idx": 309}
+{"premise": "Suša je ćepala sa kraj.", "choice1": "Voda je počela bit blatna.", "choice2": "Intrada je sva propala.", "question": "effect", "idx": 310}
+{"premise": "Mačka je lovila tića.", "choice1": "Tić je odletie ća.", "choice2": "Tić je ćepa ofco.", "question": "effect", "idx": 311}
+{"premise": "Mlada je gambijala škuolo.", "choice1": "Škuola je zaprta sporadi letnjeh ferij.", "choice2": "Se je preselila va novi grat.", "question": "cause", "idx": 312}
+{"premise": "Gospodar ot fabriki ni tie dat većo plaćo delavcon.", "choice1": "Gospodar je stavi novega voditelja.", "choice2": "Delavci so počeli štrajkat.", "question": "effect", "idx": 313}
+{"premise": "Vođa se je da na ekstremisti va svoje države.", "choice1": "Ekstremisti so utjecali na njega.", "choice2": "Ekstremisti so ga ubili.", "question": "effect", "idx": 314}
+{"premise": "San hodi buos po plaže.", "choice1": "Šabija mi se je takala za poplati.", "choice2": "Vali so tukli zuz rivo.", "question": "effect", "idx": 315}
+{"premise": "San se zbudi na sried noći i mi je bilo zima.", "choice1": "San si ubuka brgeši ot trenirki.", "choice2": "San popi mižuol odi.", "question": "effect", "idx": 316}
+{"premise": "Mama je potisnula svojiega sina.", "choice1": "Njiejni sin se je smehlja.", "choice2": "Njiejni si je cmizdri.", "question": "cause", "idx": 317}
+{"premise": "San si stori škuljo na trapericah.", "choice1": "San si zabotuna traperice.", "choice2": "San deboto pa na česte.", "question": "cause", "idx": 318}
+{"premise": "Otrok je nosi posebno dintierico za zuobi.", "choice1": "Je imie pokvareni zuobi.", "choice2": "Zuobi so mu se zravnali.", "question": "effect", "idx": 319}
+{"premise": "Čiera san vježba va teretane.", "choice1": "Danas san se zbudi z upalon mišići.", "choice2": "Danas san se zbudi z upalon guta.", "question": "effect", "idx": 320}
+{"premise": "Mlade so si šapićale za stoluon kat je bila južina.", "choice1": "Drugi školani so seli za stuol za južinat.", "choice2": "Drugi školani za stoluon za južino so se ćuteli sami.", "question": "effect", "idx": 321}
+{"premise": "Otročica je doskočila na tranpolin.", "choice1": "Odskočila je nazat va arijo.", "choice2": "Je odlučila provalt storit salto.", "question": "effect", "idx": 322}
+{"premise": "San pušti pismo va poštansken sandučiće.", "choice1": "Pošta je poslala pismo.", "choice2": "Pošta je pošukala da pismi pride brže.", "question": "effect", "idx": 323}
+{"premise": "Kockar je bi sigur va se.", "choice1": "Se je vadlja za svi svoji šoldi.", "choice2": "Je ša doma prez čentežima.", "question": "effect", "idx": 324}
+{"premise": "Veli uganj va boške se je širi.", "choice1": "Vetri so se pojačali.", "choice2": "So ćepali onisti ki so podmetnuli uganj.", "question": "cause", "idx": 325}
+{"premise": "Dite si je razdrlo koleno", "choice1": "Mama ga je poslala va kamaro.", "choice2": "Mama mu je stavila fašo na rano.", "question": "effect", "idx": 326}
+{"premise": "Muški je preživie smrtno boles.", "choice1": "Je potpisa svuoj teštamient.", "choice2": "Je dobi organ za presadit.", "question": "cause", "idx": 327}
+{"premise": "San popi žljuk kuhanega kafe.", "choice1": "San se ugriza za zajik.", "choice2": "San si upeka zajik.", "question": "effect", "idx": 328}
+{"premise": "Urednik je da otkaz djornalistice.", "choice1": "Djornalistica ni tela držat nienemu ruoko va svojeh štorijah.", "choice2": "Djornalistica je prehitila važan tiermen.", "question": "cause", "idx": 329}
+{"premise": "San bi spedepsan.", "choice1": "San spa cieli dan.", "choice2": "San se vadi cieli dan.", "question": "cause", "idx": 330}
+{"premise": "Dohtorica je našla od čega boluje bolnik.", "choice1": "Je prepoznala simtomi od bolnika.", "choice2": "Je prepisala piluli bolniku.", "question": "cause", "idx": 331}
+{"premise": "San si ugreba kožo.", "choice1": "Je bila potna.", "choice2": "Me je šahljala.", "question": "cause", "idx": 332}
+{"premise": "Muški je stavljen na hitno operacijo.", "choice1": "Je zgubi žifci.", "choice2": "Je pretrpie srčani.", "question": "cause", "idx": 333}
+{"premise": "Muškemu so skočili mišići na rokah.", "choice1": "Si je zatiega ruoki.", "choice2": "Si je potr ruoki.", "question": "cause", "idx": 334}
+{"premise": "Muški je zdiga obrvi.", "choice1": "Je bi iznenadjen.", "choice2": "Se je ćuti pres kuraja.", "question": "cause", "idx": 335}
+{"premise": "San se škuža sporadi greški onega ča dela s manon.", "choice1": "San veruva da je imie dobre nameri.", "choice2": "San veruva da je pametneji.", "question": "cause", "idx": 336}
+{"premise": "Muški je presta fumat.", "choice1": "Je poče već vježbat.", "choice2": "Se je poče stajat raneje.", "question": "effect", "idx": 337}
+{"premise": "Žienska je udrila svojiega napadača s punjon va nuos.", "choice1": "Tielo od napadača je bilo bez života.", "choice2": "Napadaču je počela teć krf.", "question": "effect", "idx": 338}
+{"premise": "Strelica je žgarala sredino.", "choice1": "Muški je slabo meri.", "choice2": "Muški je gubi igro.", "question": "cause", "idx": 339}
+{"premise": "Gospodar ot kući je naruoči deratizatoru da pride va njegovo kućo.", "choice1": "Je naša štakori va konobe.", "choice2": "Je imie farmo mravi va svoje kamare.", "question": "cause", "idx": 340}
+{"premise": "San predloži moje gošće da pojemo van na večero.", "choice1": "San bi pretrudan da bilo ča prontan.", "choice2": "Moja gošća je bila preveć čuda puli mene.", "question": "cause", "idx": 341}
+{"premise": "Mlada je ulovila brata da čita njien dnevnik.", "choice1": "Je počela skrivat dndevnik.", "choice2": "Je nabavila novi dnevnik.", "question": "effect", "idx": 342}
+{"premise": "Žienska je bila kratka šoldi za platit fit.", "choice1": "Je delala prekovremeno.", "choice2": "Je dala otkaz na dele.", "question": "effect", "idx": 343}
+{"premise": "Otrok je brzo povuka ruoko.", "choice1": "Je taka teplo pieć.", "choice2": "Je pogladi brečića po glave.", "question": "cause", "idx": 344}
+{"premise": "Firma je tela ocienit suo li kuntienti oni ki kupujo.", "choice1": "Je ponudila popus noven kupcon.", "choice2": "Je poslala anketo kupcon.", "question": "effect", "idx": 345}
+{"premise": "Drevieni pot se je zgreba.", "choice1": "Otrok je hiti kušini s kauča.", "choice2": "Otrok je vuka stolić po pode.", "question": "cause", "idx": 346}
+{"premise": "San se pokri po lice.", "choice1": "Muoj neprietel je zaiskeva.", "choice2": "Muoj neprietel je stisa punjo.", "question": "cause", "idx": 347}
+{"premise": "Poznata skulptura je zgorela.", "choice1": "Jo je zadela šajeta.", "choice2": "Ljudi so je se prišli čudit kako je liepa.", "question": "cause", "idx": 348}
+{"premise": "san pušti žir na stole.", "choice1": "Žir je pušti seme.", "choice2": "Muhi so se skupile na žire.", "question": "effect", "idx": 349}
+{"premise": "Balerina si je stiegla nogo.", "choice1": "Je stiegla prsti ot nuoh.", "choice2": "Si je svienula kičico.", "question": "cause", "idx": 350}
+{"premise": "Špigeti od otroka so se odvizale.", "choice1": "Se je navadilo kako se zaviežo.", "choice2": "Je teklo po igrališću.", "question": "cause", "idx": 351}
+{"premise": "San se fiša va libar.", "choice1": "San torna libar.", "choice2": "San zabi koliko je ur pasalo.", "question": "effect", "idx": 352}
+{"premise": "Muški je sejno pensa kako i njigovi roditelji.", "choice1": "Njegovi roditelji so utjecali na njega.", "choice2": "Njegovi roditelji so ga se odrekli.", "question": "cause", "idx": 353}
+{"premise": "Vetura je hodila se pomanje i se je frmala.", "choice1": "Je zustala pres benzini.", "choice2": "Šofier je zaspa.", "question": "cause", "idx": 354}
+{"premise": "Muški je jie sladolet na sunce.", "choice1": "Sladolet je zgubi guš.", "choice2": "Sladolet se je kapa z korneta.", "question": "effect", "idx": 355}
+{"premise": "San ubesi umjetničko djelo va kamaro.", "choice1": "Tepih je zglieda blatan.", "choice2": "Zidi so zgliedali prazno.", "question": "cause", "idx": 356}
+{"premise": "San ša z dela raneje.", "choice1": "Me je bolela glava.", "choice2": "Moj šef je drža sastanak.", "question": "cause", "idx": 357}
+{"premise": "Brečić se je posra na tepihe.", "choice1": "Gospodar je ušpota brečića.", "choice2": "Gospodar je da brečiću nagrado.", "question": "effect", "idx": 358}
+{"premise": "San se škuža svojemu prietelu.", "choice1": "Muoj prietel mi je oprosti.", "choice2": "Muoj prietel se je razjadi.", "question": "effect", "idx": 359}
+{"premise": "Muški je odskaka meš čuda ljudi.", "choice1": "Je imie rucak.", "choice2": "Je imie oni djile ča svieti.", "question": "cause", "idx": 360}
+{"premise": "Svedok je sliepi pofat ča je presiega.", "choice1": "Je da svuoj iskaz.", "choice2": "So ga tuožili da sliepi.", "question": "effect", "idx": 361}
+{"premise": "Žienska je kolorala vlasi.", "choice1": "Je tela gambijast imiđ.", "choice2": "Je tela bit kako i ti drugi.", "question": "cause", "idx": 362}
+{"premise": "Imigranti so ćepali da so va države van zakona.", "choice1": "So si našli delo.", "choice2": "So ih skurili ća.", "question": "effect", "idx": 363}
+{"premise": "Javni govornik se je naškrca.", "choice1": "Publika se je nasmejala.", "choice2": "Publika se je stala.", "question": "effect", "idx": 364}
+{"premise": "San pogleda va sunce.", "choice1": "Sunce me je zasliepilo.", "choice2": "Na sunce mi je koža poškurela.", "question": "effect", "idx": 365}
+{"premise": "Mi je bilo štufno.", "choice1": "San zahrčie.", "choice2": "San ziehnu.", "question": "effect", "idx": 366}
+{"premise": "Bišteko je bilo teško rezat.", "choice1": "Nuoš je bi skaban.", "choice2": "Bišteka je bila sirova.", "question": "cause", "idx": 367}
+{"premise": "Žienska je proglasila inkanat.", "choice1": "Je dobila alimentacijo.", "choice2": "Nakupila je veli duh.", "question": "cause", "idx": 368}
+{"premise": "Svetla va stane od mojiega prietela so bila nažgana.", "choice1": "San se pita jie li vane.", "choice2": "San odluči ga puoć ubać.", "question": "effect", "idx": 369}
+{"premise": "San stavi ruožico pod nuos.", "choice1": "Lati so pale z ruožici.", "choice2": "San oćuti profum od ruožici.", "question": "effect", "idx": 370}
+{"premise": "Žienska se je ćutela nostalgično.", "choice1": "Je naletela na priela od minjega.", "choice2": "Se je zvikala na svojo dico.", "question": "cause", "idx": 371}
+{"premise": "Študient je štenta z delon.", "choice1": "Je preda ono ča je napisa raneje.", "choice2": "Je preda ono ča je napisa nefinjeno.", "question": "effect", "idx": 372}
+{"premise": "Vetura se je pokvarila.", "choice1": "San ša va butiego.", "choice2": "San zva mehaničara.", "question": "effect", "idx": 373}
+{"premise": "San hiti ća poruko.", "choice1": "Ni se znalo ki jo je napisa.", "choice2": "Ni se mogla proštet.", "question": "cause", "idx": 374}
+{"premise": "Tić je maha z kreli.", "choice1": "Je znesla jaja.", "choice2": "Je poletela va višak.", "question": "effect", "idx": 375}
+{"premise": "San parkira na počietke.", "choice1": "Garaža je bila otprta.", "choice2": "Garaža je bila prazna.", "question": "cause", "idx": 376}
+{"premise": "Ašašin je punta pištuolo va svojo žrtvo.", "choice1": "Ašašin je kala pištuolo.", "choice2": "Žrtva je zdigla ruoki va višak.", "question": "effect", "idx": 377}
+{"premise": "Se je veseli kraju šetemani.", "choice1": "San planira puoć na pogreb od barbi.", "choice2": "San planira puoć na pir od prietela.", "question": "cause", "idx": 378}
+{"premise": "San zabi ka doba je.", "choice1": "San sanjucka.", "choice2": "Mi je bilo slabo.", "question": "cause", "idx": 379}
+{"premise": "Dokumient se je spisa a ni se ga moglo proštet.", "choice1": "Printeru je bila tinta na kraje.", "choice2": "Priter je zusta bes harti.", "question": "cause", "idx": 380}
+{"premise": "Na stadione je sopla himna.", "choice1": "Obožavatelji so se ubrnuli proti bandieri.", "choice2": "Obožavatelji so potekli na terien.", "question": "effect", "idx": 381}
+{"premise": "Šugo je bilo bljutavo.", "choice1": "San ga da na stuol.", "choice2": "San ga posoli.", "question": "effect", "idx": 382}
+{"premise": "San stavi šugaman od harti na lokvo.", "choice1": "Šugaman je popi to mokro.", "choice2": "Lokva je puštila fundaći ke so se takevale0", "question": "effect", "idx": 383}
+{"premise": "Žiensko je neki prekini dokle je čitala libar.", "choice1": "Je sinjala stranico.", "choice2": "Opet je pročitala libar.", "question": "effect", "idx": 384}
+{"premise": "Eroplan je naletie na turbulencijo.", "choice1": "Muški je šalda sigureco na pase.", "choice2": "Muški je pogleda kros ukno.", "question": "effect", "idx": 385}
+{"premise": "Otrok se je muovi.", "choice1": "Otročica mu ni dala bado.", "choice2": "Otročica ga je rinila.", "question": "cause", "idx": 386}
+{"premise": "Miedigi so dali pacijentice nogo ot plastiki..", "choice1": "So je odrezali nogo.", "choice2": "So imeli navar njiejni šenji ot života.", "question": "cause", "idx": 387}
+{"premise": "Otrok je šćipa otročico za lahat.", "choice1": "Mu je storila mot z rameni.", "choice2": "Je povukla ruoko dalje ot njega.", "question": "effect", "idx": 388}
+{"premise": "San pita svojega prietela ča bi uon reka.", "choice1": "San rešpeta njegovo mišljienje.", "choice2": "San zna da iman pravo.", "question": "cause", "idx": 389}
+{"premise": "Otrok je sta va blato.", "choice1": "Blato mu se je ćepalo za postoli.", "choice2": "Blato ga je zadelo va lice.", "question": "effect", "idx": 390}
+{"premise": "Va grade je napadalo čuda snega.", "choice1": "Škuoli so se zaprle.", "choice2": "Ljudi so se skrili pod zemljo.", "question": "effect", "idx": 391}
+{"premise": "Delavcu je finila smjena.", "choice1": "Je ša doma na kraje radnega dana.", "choice2": "Je zatraca da će dat otkas.", "question": "effect", "idx": 392}
+{"premise": "Drievo je rovinalo kućo.", "choice1": "Drievo je palo na kruof.", "choice2": "Drievo je hitalo hlat na kuorto zat kući.", "question": "cause", "idx": 393}
+{"premise": "Drievo se je raskalalo.", "choice1": "San naslaga drievo va kamin.", "choice2": "San udri sekiron po drieve.", "question": "cause", "idx": 394}
+{"premise": "Fameja je čestitala paru.", "choice1": "Par je aviža da će se puštit.", "choice2": "Par je aviža da će imet dite.", "question": "cause", "idx": 395}
+{"premise": "Otročica je poslala otroku dar za sv. Valentina.", "choice1": "Se je je pieža.", "choice2": "Ga je bušala.", "question": "cause", "idx": 396}
+{"premise": "San klimnu z glavuon na to ča je reka prietel.", "choice1": "San bi smuoćen.", "choice2": "San se slaga š njin.", "question": "cause", "idx": 397}
+{"premise": "Prieteli so hitili šoldin.", "choice1": "So se teli doguorit.", "choice2": "So teli dones pošteno odluko.", "question": "cause", "idx": 398}
+{"premise": "Žvaljarin va kuhinje se je javi.", "choice1": "Muški je raskrga špiežo va frižidier.", "choice2": "Muški je zvadi pico z pećnici.", "question": "effect", "idx": 399}
+{"premise": "Žienska si dala veli cilj.", "choice1": "Je štentala.", "choice2": "Je čuda delala.", "question": "effect", "idx": 400}
+{"premise": "Bogataš je umra ot starosti.", "choice1": "Njeguof sin je pa va problemi zakonon.", "choice2": "Njeguof sin je dobi njigovo bogatijo.", "question": "effect", "idx": 401}
+{"premise": "Žienska je stala na plamik.", "choice1": "Plamik se je zagasi.", "choice2": "Z plamika se je dignu dim.", "question": "effect", "idx": 402}
+{"premise": "Žienskina vetura je bila va radionice.", "choice1": "So je zieli vozačko dozvolo.", "choice2": "Je imela nesrećo z veturon.", "question": "cause", "idx": 403}
+{"premise": "San prespa alarm.", "choice1": "San stori ručienje.", "choice2": "San preskoči ručienje.", "question": "effect", "idx": 404}
+{"premise": "Vela batica je šla van z luše veturi.", "choice1": "Makine za slikat lampale proti njie.", "choice2": "Njiejna fameja je bila na konferencije za tisak.", "question": "effect", "idx": 405}
+{"premise": "Žienska se je zabavila va kade.", "choice1": "Oda va kade je počela bit mljačna.", "choice2": "Oda va kade je stekla s kadi.", "question": "effect", "idx": 406}
+{"premise": "Študient bi bi rada upozna drugi študienti va kampuse.", "choice1": "Se je pridruži bratstve.", "choice2": "Je diplomira za inžinjiera.", "question": "effect", "idx": 407}
+{"premise": "San diga gore kušinići z kauča.", "choice1": "San iska muniedo.", "choice2": "San predeleva primaćo.", "question": "cause", "idx": 408}
+{"premise": "Sršen je zletie proti otroka.", "choice1": "Otrok je uša.", "choice2": "Otrok je nabra ruožico.", "question": "effect", "idx": 409}
+{"premise": "Žienska je proglašena da je kriva za prekršaj.", "choice1": "Je osujena na društveno korisno delo.", "choice2": "Je osujena na smrt.", "question": "effect", "idx": 410}
+{"premise": "San zmieša cuker va tepal čaj.", "choice1": "Čaj se je zapari.", "choice2": "Cuker se je rastopi.", "question": "effect", "idx": 411}
+{"premise": "Veteran je šepa.", "choice1": "Je pozvasn va rat.", "choice2": "Je ranjen va bitke.", "question": "cause", "idx": 412}
+{"premise": "Zločinac je beža ot policiji.", "choice1": "Policija je pomogla žrtve.", "choice2": "Policija je lovila zločinca.", "question": "effect", "idx": 413}
+{"premise": "Laptop se ni tie nažgat.", "choice1": "Mi je pa dole.", "choice2": "San ga napuni.", "question": "cause", "idx": 414}
+{"premise": "Žienske je nestalo mesta va armaruone.", "choice1": "Je nakupila čuda robi.", "choice2": "Je složila svojo bjankarijo.", "question": "cause", "idx": 415}
+{"premise": "Muškemu je bilo zlomnjeno srce.", "choice1": "Njegova žena je rodila.", "choice2": "Njegova žena ga je puštila.", "question": "cause", "idx": 416}
+{"premise": "Muški je dobi diplomo.", "choice1": "Se je kvalificira za delo ko je tie.", "choice2": "Njigova ponuda za delo je povučena.", "question": "effect", "idx": 417}
+{"premise": "Glas od muškega se je prenaša jasno po dvorane.", "choice1": "Je pozdravi publiko.", "choice2": "Je guori na mikrofon.", "question": "cause", "idx": 418}
+{"premise": "San hiti šoldin va fontano.", "choice1": "Šoldin je potonu na dno.", "choice2": "Šoldin je ša na dva kusa.", "question": "effect", "idx": 419}
+{"premise": "Igrač je trupi balotico proti škulji.", "choice1": "Balotica je šla va škuljo.", "choice2": "Balotica se je tornala igraču.", "question": "effect", "idx": 420}
+{"premise": "San se nadih praha na šufite.", "choice1": "San šćucnu.", "choice2": "San kihnu.", "question": "effect", "idx": 421}
+{"premise": "Žienska ka je delala na kase je zvala osiguranje.", "choice1": "Kupac je plati s falšemi šoldi.", "choice2": "Kupac je pušti nažgata svetla ot veturi.", "question": "cause", "idx": 422}
+{"premise": "San ponesa van škovaci.", "choice1": "Škovaci so zasmrdeli kuhinjo.", "choice2": "Ufalo san hiti popis za spiežo.", "question": "cause", "idx": 423}
+{"premise": "Fameja je šla va žološki vrt.", "choice1": "Dica so se dičila blagu.", "choice2": "Dica so lovili blago.", "question": "effect", "idx": 424}
+{"premise": "Muški je diha na glas.", "choice1": "Bubregi nu niso već delali.", "choice2": "Pluća so mu bila začepljena.", "question": "cause", "idx": 425}
+{"premise": "San imie harto viška za na koncert.", "choice1": "San pita prietela da mi povi kako se pride do koncertne dvorani.", "choice2": "San pita prietela bi li rada puoć.", "question": "effect", "idx": 426}
+{"premise": "Klima va kuće se je pokvarila.", "choice1": "San vadi punjavi.", "choice2": "San otpa ukna.", "question": "effect", "idx": 427}
+{"premise": "Otroka je bolie život.", "choice1": "Ruca mu je bi otprt.", "choice2": "Rucak mu je bi težak.", "question": "cause", "idx": 428}
+{"premise": "San kupi mame dar.", "choice1": "San je speka kolač.", "choice2": "Je imela roendan.", "question": "cause", "idx": 429}
+{"premise": "Jurjavice va vrte so unišćene.", "choice1": "Čelica je ubol vrtlara.", "choice2": "Veverice so skopale lukovice.", "question": "cause", "idx": 430}
+{"premise": "San nažga frminant.", "choice1": "Plamik se je zgasi.", "choice2": "Frminant se je nažga.", "question": "effect", "idx": 431}
+{"premise": "Posvajeni z obe bandi so se juštali.", "choice1": "Niso teli za to se pominjat na sude.", "choice2": "So teli popravit stvari mež sobon.", "question": "cause", "idx": 432}
+{"premise": "Dica so poslana va dom.", "choice1": "Njihovi roditelji so umrli.", "choice2": "Njihovi roditelji so ih zvicijali.", "question": "cause", "idx": 433}
+{"premise": "Meteorit je pa va ocean.", "choice1": "Se je stori cunami.", "choice2": "Je poče padat grat.", "question": "effect", "idx": 434}
+{"premise": "Planinarka je sretila zalo žminjo.", "choice1": "Je zustala bez vodi.", "choice2": "Seje prenila.", "question": "effect", "idx": 435}
+{"premise": "Pećnica se je steplila.", "choice1": "San nažga pećnico.", "choice2": "San stavi jes va pećnico.", "question": "cause", "idx": 436}
+{"premise": "San sciedi fetico limuona.", "choice1": "Limuon je priša plešnjif.", "choice2": "Limuon je poštrcnu.", "question": "effect", "idx": 437}
+{"premise": "Država je našla novi teritorij.", "choice1": "Država je puštilas ća ta teritorij.", "choice2": "Država je kolonizirala ta teritorij.", "question": "effect", "idx": 438}
+{"premise": "Mižuol je pa stola.", "choice1": "Se je razbi po svien pode.", "choice2": "Je pa na fagot robi.", "question": "effect", "idx": 439}
+{"premise": "Stul se je klima.", "choice1": "Pot ni bi ravan.", "choice2": "Pot se je fuza.", "question": "cause", "idx": 440}
+{"premise": "Otac je ćepa svjega sina da sliepi.", "choice1": "Njeguof sin je prizna istino.", "choice2": "Otac je veruva svojemu sinu.", "question": "effect", "idx": 441}
+{"premise": "Glava ot muškega je zbijala ako ga je bolela.", "choice1": "Je popi sirup za kašalj.", "choice2": "Je popi kinin.", "question": "effect", "idx": 442}
+{"premise": "Makina je pofermevala.", "choice1": "Je rihijala na stanico.", "choice2": "Je kasnila.", "question": "cause", "idx": 443}
+{"premise": "Muški je pasa terapijo.", "choice1": "Živčane bolesti buodo na guosto va njegove fameje.", "choice2": "So mu našli depresijo.", "question": "cause", "idx": 444}
+{"premise": "Žienska se je ćepala za gut.", "choice1": "Je progutala hrano.", "choice2": "Se je gušila s hranuon.", "question": "cause", "idx": 445}
+{"premise": "Žienska je imela upalo guta.", "choice1": "Glas je je bi kako da guori na debelo.", "choice2": "Je guorila kako da ni ot tuoda.", "question": "effect", "idx": 446}
+{"premise": "Brek je mierka gušno bišteko na stole.", "choice1": "Je slini.", "choice2": "Je lega.", "question": "effect", "idx": 447}
+{"premise": "Delo ot žienski se je poneslo.", "choice1": "Je licencijala svoji delafci.", "choice2": "Se je zabogatila.", "question": "effect", "idx": 448}
+{"premise": "Školani so šli van z škuoli.", "choice1": "Je zazvonilo zvono.", "choice2": "Meštar je da zadaćo.", "question": "cause", "idx": 449}
+{"premise": "Žienska je guorila da je videla duha.", "choice1": "Oni ki so jo poznali niso veruvali.", "choice2": "Oni ki so jo poznali so se poviezali š njuon.", "question": "effect", "idx": 450}
+{"premise": "Muški je zgubi sluh.", "choice1": "Deboto se je utopi va bazene.", "choice2": "Deboto je nastrada va esplozije.", "question": "cause", "idx": 451}
+{"premise": "Dite je puštilo špažić ot baluona.", "choice1": "Baluo se je spuha.", "choice2": "Baluon se je diga va zrak.", "question": "effect", "idx": 452}
+{"premise": "Muški je zgubi dar govora.", "choice1": "Je imie kuolp.", "choice2": "Dinboko je zie zrak.", "question": "cause", "idx": 453}
+{"premise": "Žienska se je zaplela na marčapiedah.", "choice1": "Švalt je bi puknjen.", "choice2": "Je čula da neki zove njiejno ime.", "question": "cause", "idx": 454}
+{"premise": "Muški je skuči na buombo va bazen.", "choice1": "Spasilac je skoči za njin.", "choice2": "Muški je zmoči spasioca.", "question": "effect", "idx": 455}
+{"premise": "San popi antibiotiki.", "choice1": "Mi je pasala upala.", "choice2": "Upala mi se je proširila.", "question": "effect", "idx": 456}
+{"premise": "Na semafofre se je nažgalo žuto.", "choice1": "Šosfier je stisnu frien.", "choice2": "Šofier je zasopa.", "question": "effect", "idx": 457}
+{"premise": "Posuda ot plastiki se je rastalila.", "choice1": "San potopi posudo va teplo odo.", "choice2": "San stavi posodo va teplo pieć.", "question": "cause", "idx": 458}
+{"premise": "Vetura je bila zvengaćena.", "choice1": "Šofier je udri va palin ot telefuona.", "choice2": "Šofier je pasa kros krvavo svetlo.", "question": "cause", "idx": 459}
+{"premise": "Otrok se je vadi cielo nuoć.", "choice1": "Je preskoči ispit.", "choice2": "Je pasa ispit.", "question": "effect", "idx": 460}
+{"premise": "Minji otrok se je drža za bankino bazena.", "choice1": "Ga je bilo strah vadit se plivat.", "choice2": "Spasilac je bi na svojen dele.", "question": "cause", "idx": 461}
+{"premise": "San si stavi ruoko na prsa.", "choice1": "San ču kako mi tuče srce.", "choice2": "Srce mi je počelo brže tuć.", "question": "effect", "idx": 462}
+{"premise": "Va zgrade blizu moje kancelariji so nešto napravljali.", "choice1": "Moja kancelarija je bila prekrgana.", "choice2": "Va moje kancelarije je bi veli šušur.", "question": "effect", "idx": 463}
+{"premise": "Fameja je tela upoznat svoji novi susedi..", "choice1": "Fameja je pozvala susedi doma na večero.", "choice2": "Fameja je mahala susedon z svojie kuorti.", "question": "effect", "idx": 464}
+{"premise": "Oda je zapljusnula z bazena.", "choice1": "Plivač je skoči va bazen.", "choice2": "Plivač je leža na vode va bazene.", "question": "cause", "idx": 465}
+{"premise": "San zagriza kus anguriji.", "choice1": "Ufalo san proguta pešćico.", "choice2": "Ufalo san otkrhnu zuop.", "question": "effect", "idx": 466}
+{"premise": "Otrok se je zaplie z nogami.", "choice1": "Jaketa mu je bila otkučana.", "choice2": "Špigeti za postoli so mu bili odvieženi.", "question": "cause", "idx": 467}
+{"premise": "Žienska si je stavila čepići va uši.", "choice1": "Je je dela faštidijo šušur.", "choice2": "Si je prohudila uši.", "question": "cause", "idx": 468}
+{"premise": "Opet san napuni boco za odo.", "choice1": "San popi svo od š njie.", "choice2": "San je drža va friždere.", "question": "cause", "idx": 469}
+{"premise": "Emisija na televizije je bila cezurirana.", "choice1": "jJe imela blagas govor.", "choice2": "Je imela cimpligasto radnjo.", "question": "cause", "idx": 470}
+{"premise": "Brod je potonu.", "choice1": "Posada se je zatopila.", "choice2": "Posada je trefina na gusari.", "question": "effect", "idx": 471}
+{"premise": "Otroka je smuotila ganka.", "choice1": "Je rieši ganko.", "choice2": "Je iska pomoć.", "question": "effect", "idx": 472}
+{"premise": "Je zazvoni telefuon.", "choice1": "Muški je poklopi telefuon.", "choice2": "Muški se je javi na telefuon.", "question": "effect", "idx": 473}
+{"premise": "Žienska je balila va me.", "choice1": "San jo ćepa okoli vrata.", "choice2": "Ni mi bilo ugodno.", "question": "effect", "idx": 474}
+{"premise": "Kumpanija je šla van z muzeja.", "choice1": "So slikali ono ča je bilo na izložbe.", "choice2": "So videli sve ča je bili na izložbe.", "question": "cause", "idx": 475}
+{"premise": "Muški se je poče klat s manon.", "choice1": "Muoj prietel me je upozna s ten mušken.", "choice2": "Moj prietel se je zauze za me.", "question": "effect", "idx": 476}
+{"premise": "Kopertuon na moje bičiklete je bi prazan.", "choice1": "San napumpa zrak va kopertuon.", "choice2": "San gambija brzino na bičiklete.", "question": "effect", "idx": 477}
+{"premise": "Mlada je bila blieda.", "choice1": "Njien otac je je p<oveda štuorijo.", "choice2": "Njien otac je je popipa čelo.", "question": "effect", "idx": 478}
+{"premise": "Kemiska je zustala pres tinti.", "choice1": "San zie običan lapeš.", "choice2": "San se potpisa.", "question": "effect", "idx": 479}
+{"premise": "Muškemu je odbita posudba.", "choice1": "Je bi va dugah,", "choice2": "Je otpra obrt.", "question": "cause", "idx": 480}
+{"premise": "Mlada je zustala doma i ni šla va škuolo.", "choice1": "Je imela ospice.", "choice2": "Jo je piežalo se vadit matematiko.", "question": "cause", "idx": 481}
+{"premise": "Vreća za smeće je bila puna.", "choice1": "San jo ponesa va kontejner.", "choice2": "San jo hiti pod škaf.", "question": "effect", "idx": 482}
+{"premise": "San usisa tepih.", "choice1": "Oni ki biva s manon je proli punč.", "choice2": "Muoj brek je gambijeva dlako.", "question": "cause", "idx": 483}
+{"premise": "Muški je zgubi žifci.", "choice1": "Je zagasi svuoj kompjuter.", "choice2": "Je hiti kandriego na drugi kraj kamari.", "question": "effect", "idx": 484}
+{"premise": "Mlada je hitila grančico na logorko vatro.", "choice1": "Grančica se je nažgala.", "choice2": "Uganj se je zagasi.", "question": "effect", "idx": 485}
+{"premise": "Muški je ša van z tuša.", "choice1": "Je nestalo teple odi.", "choice2": "Ni moga nać blek.", "question": "cause", "idx": 486}
+{"premise": "Roditelji so teli da njiha dica gredo na fakultet.", "choice1": "So stavili z boka šoldi za školarino.", "choice2": "So šukali svojo dico da se pojo igrat van.", "question": "effect", "idx": 487}
+{"premise": "Muški je odvieza svoji postoli.", "choice1": "Postoli so se pomolali.", "choice2": "Postoli so se skonšumali.", "question": "effect", "idx": 488}
+{"premise": "Muški je pojie puol antipašta.", "choice1": "Je stavi poglotki va frižidier.", "choice2": "Je spravi ričet.", "question": "effect", "idx": 489}
+{"premise": "Mi je natekla kičica.", "choice1": "San stavi liet na njo.", "choice2": "San jo namaza z losionon.", "question": "effect", "idx": 490}
+{"premise": "Vrata ot moje kancelariji so bila otprta.", "choice1": "San se pominja z onien ča dela s manon za mojien stoluon.", "choice2": "San nasluhnu pominjak na hodnike.", "question": "effect", "idx": 491}
+{"premise": "San muora čekat va file.", "choice1": "San sie.", "choice2": "Na žbriš san pročita novine.", "question": "effect", "idx": 492}
+{"premise": "Muški je zamahnu proti muhi.", "choice1": "Muha je zletela ća.", "choice2": "Muha je zustala na meste-", "question": "effect", "idx": 493}
+{"premise": "Muški je napisa teštamient.", "choice1": "Je umira.", "choice2": "Je bi udovac.", "question": "cause", "idx": 494}
+{"premise": "Trkač je oćuti da ga oni drugi ćepieva.", "choice1": "Je odusta ot trki.", "choice2": "Je poče teć brže.", "question": "effect", "idx": 495}
+{"premise": "Štabelo san propensa za ta problem.", "choice1": "San pita da me napuote.", "choice2": "San se domisli kako ga friešit.", "question": "effect", "idx": 496}
+{"premise": "Putnik je hodi po klimaven moste ka visi.", "choice1": "Je bi prenje.", "choice2": "Je bi presrećan.", "question": "effect", "idx": 497}
+{"premise": "Muški se je nadija da dobije njegova ekipa.", "choice1": "Se je naša z prieteli ku bi gledali utakmico.", "choice2": "Se je vadlja svojemi prieteli.", "question": "effect", "idx": 498}
+{"premise": "Otrok ni moga zaspat.", "choice1": "Si je navi žvaljarin.", "choice2": "Je broji uofci.", "question": "effect", "idx": 499}
